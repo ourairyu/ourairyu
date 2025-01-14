@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator><link href="https://ourai.ws/atom.xml" rel="self" type="application/atom+xml" /><link href="https://ourai.ws/" rel="alternate" type="text/html" /><updated>2025-01-14T09:57:32+08:00</updated><id>https://ourai.ws/</id><title>欧雷流</title><subtitle>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</subtitle><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><entry><title>进入破局第二阶段</title><link href="https://ourai.ws/posts/ready-for-phase-two/" rel="alternate" type="text/html" title="进入破局第二阶段" /><published>2025-01-05T20:18:24+08:00</published><updated>2025-01-05T20:18:24+08:00</updated><id>https://ourai.ws/posts/ready-for-phase-two</id><content type="html" xml:base="https://ourai.ws/posts/ready-for-phase-two/">&lt;p&gt;哈喽，各位「破局见证者」们，距离上次更新过去要仨月了，又一次大幅超出一个月……为啥会降低更新频率，也许我该好好地反思下，「忙」不能是借口！&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;仨月在忙啥&lt;/h2&gt;
+
+&lt;p&gt;照（之前更文的）例，我先较为概括地同步下这仨月都主要干了啥。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;整顿的 10 月&lt;/h3&gt;
+
+&lt;p&gt;从开始与 OpenBuild 深度合作后已经过去一个来月，这期间我在多个方面都感受到了混沌，应该是因为它正处于野蛮生长阶段。&lt;/p&gt;
+
+&lt;p&gt;相信看过我很多文章的各位都知道我总称呼自己是什么——反混沌工程师——没错，我要施展自己的能力去治理混沌了！&lt;/p&gt;
+
+&lt;p&gt;因而我制定了个叫做「OpenBuild 体系化改造」的大计划，从 OpenBuild 定位的 slogan 入手去剖析它到底是什么，该怎么发展才能符合定位。&lt;/p&gt;
+
+&lt;p&gt;最终，我得出「OpenBuild」由三大块构成的结论：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;产品与品牌——开发并持续完善 OpenBuild 官网，承载着各类面向开发者和项目方的功能或服务，是 OpenBuild 体系的核心及分发 hub；&lt;/li&gt;
+  &lt;li&gt;社区与生态——基于 GitHub 的（开源）协作体系，给官网上的课程等提供项目实战机会，再就是孵化「有用」的项目；&lt;/li&gt;
+  &lt;li&gt;合作伙伴关系——为前两者的可持续性提供资金、流量等的支撑。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;当把这些理清后，未来的工作和努力方向就十分明晰了，于我而言最密切相关的则是前两块。&lt;/p&gt;
+
+&lt;p&gt;其中，社区与生态这块从某些角度看算是空白，所以我决定优先去做与之相关的建设，比如先用 Astro 搞个 &lt;a href=&quot;https://openbuildxyz.github.io/eco/zh/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;OpenBuild 生态官网&lt;/a&gt;统一展示已有的生态项目和说明文档等。&lt;/p&gt;
+
+&lt;p&gt;在 10 月 24 日那天，我突然想到自己的「&lt;a href=&quot;https://ntks.ourai.ws/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;反混沌&lt;/a&gt;」体系是否也能加入到 OpenBuild 生态中？因为我并未放弃继续推进相关项目，且打算日后为 OpenBuild 及其生态助力。&lt;/p&gt;
+
+&lt;p&gt;跟创始人约线上会议介绍一下之后，我们一拍即合，&lt;a href=&quot;https://petals-ui.github.io/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Petals&lt;/a&gt; 和 &lt;a href=&quot;https://handiejs.github.io/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Handie&lt;/a&gt; 成为了生态项目！&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;漂流的 11 月&lt;/h3&gt;
+
+&lt;p&gt;当 11 月 9 日凌晨 4 点多的闹钟响起，收拾好自己于 5 点左右踏出并关上家里的大门，我将在接下来的半个月中短期体验下「数字游民」的生活。&lt;/p&gt;
+
+&lt;p&gt;当天是要自驾去黄山黟县参加「第二届数字游民大会」，所以才会起那么早；在正式开往黄山之前，我得先到良渚接 FreeBe DAO 的小伙伴。&lt;/p&gt;
+
+&lt;p&gt;一路上，我们聊的基本都是与 FreeBe DAO 及数字游民相关的话题；到达会场时已经开始一段时间了，就直奔「世界青年会客厅」，正好赶上是大曹在分享。&lt;/p&gt;
+
+&lt;p&gt;这一天见到了几个总在网上见到的人，如大灰、大曹、周莫、Samuel（数字游牧人），他们都与我擦身而过很多次，但我没鼓起勇气说句「嗨」……&lt;/p&gt;
+
+&lt;p&gt;午饭时有新认识了几个人，部分加了微信，但也仅此而已，后续几乎没再有任何互动。&lt;/p&gt;
+
+&lt;p&gt;还好这届大会的内容质量不错，有些&lt;a href=&quot;/posts/the-right-way-for-digital-nomadism/&quot;&gt;激发了我的思考和表达欲&lt;/a&gt;，没让我大老远地白折腾一趟。&lt;/p&gt;
+
+&lt;p&gt;大会的票是两天的，然而我第一天就回家了，因为第二天还要飞去泰国——前几天在曼谷参加 Devcon 及其他关联活动，后几天跟 OpenBuild 核心团队成员在清迈团建。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20250105/openbuild-crew-ca95f409b3e14d879f77b9ee4226f952a464f84cf8124156117a40c5ada1c428.jpg&quot; alt=&quot;缺俩人的 OpenBuild 核心团队&quot; /&gt;
+  &lt;figcaption&gt;缺俩人的 OpenBuild 核心团队&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;鉴于这段经历会发视频，甚至可能另外写文章，就不在这多说了。&lt;/p&gt;
+
+&lt;p&gt;在泰国的那段时间过于惬意，以至于回国后意犹未尽，久久无法进入工作状态……🤣🤣🤣&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;开源的 12 月&lt;/h3&gt;
+
+&lt;p&gt;出于某些原因，令我觉得 OpenBuild 官网前端项目开源的事情不能再拖了；就算目录结构没按&lt;a href=&quot;/posts/patterns-of-directory-structure-in-frontend-projects/#section-4&quot;&gt;「模块化」模式&lt;/a&gt;调整完毕，且还存在一些其他问题，但暂时也管不了那么多了！&lt;/p&gt;
+
+&lt;p&gt;于是，我给自己定了个不能被改变的截止日期——在 2024 年 12 月 31 日之前必须开源！&lt;/p&gt;
+
+&lt;p&gt;截止日一定，感觉自己就像赶车一样与时间赛跑，浑身各处上紧了发条，立即着手梳理开放源码的必要前置条件：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;删除代码中的敏感信息并抹除提交历史记录；&lt;/li&gt;
+  &lt;li&gt;设计&lt;a href=&quot;https://github.com/orgs/openbuildxyz/projects/9&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;基于 GitHub Projects 的产品/项目管理与协作&lt;/a&gt;流程；&lt;/li&gt;
+  &lt;li&gt;选择合适的开源许可证并添加相关信息；&lt;/li&gt;
+  &lt;li&gt;编写&lt;a href=&quot;https://openbuildxyz.github.io/openbuild-frontend/zh/guides/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;引导他人参与贡献的中英文双语文档&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在上述几项条件快要达成时，我到几个由 OpenBuild 运营的关联性较大的几个微信群中预告了下开源的事，旨在先积累些潜在贡献者。&lt;/p&gt;
+
+&lt;p&gt;信息一放出，立刻就有十几、二十来个人联系我，着实没想到！😂😂😂这也给我打了一针鸡血，想要加快开放源码的进度，结果在之后的两天，&lt;a href=&quot;https://mp.weixin.qq.com/s/ayres_I3NzpPRBZvKioQRA&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;没到 20 日时就完成了目标&lt;/a&gt;！🎉🎉🎉&lt;/p&gt;
+
+&lt;p&gt;在接下来月底前的这十来天中，确实有人真的去贡献代码了，有的是领取拆分好的任务，有的是自己发现各类错误进行修正——看到这样，我心里很高兴。&lt;/p&gt;
+
+&lt;p&gt;在与贡献者交互的过程中，我发觉并感受到了做开源及社区的不易，感觉比在一家公司里做个管理者还难上很多倍，主要是以下两点吧：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;手里有权力，可以对贡献者有所要求，但不能太强制性的，又不是上下级关系，就相当于没啥权力；&lt;/li&gt;
+  &lt;li&gt;所管理的队伍理论上是无人数上限的，人员水平参差不齐，如何提高队伍整体水平及凝聚力，极具挑战。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;从某个角度看，审查水平较差的贡献者代码实际上也是在给他们做免费的开发者教育，费时费心费力，还有可能不讨好；不过，为了长远利益，初期再苦也要强吃，再困难也得想办法解决掉！&lt;/p&gt;
+
+&lt;p&gt;不出意外的话，我要更多地去做开发者关系（DevRel）这个角色了。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;前往下阶段&lt;/h2&gt;
+
+&lt;p&gt;从 2023 年 8 月我定下第一阶段目标并踏上「破局之路」至今，已经过去快 17 个月了，四舍五入就是一年半；时间有点久了，结合当下的状况，我觉得是时候步入下个阶段了。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;第一阶段概况&lt;/h3&gt;
+
+&lt;p&gt;第一阶段目标的大体完成情况如下表所示：&lt;/p&gt;
+
+&lt;table class=&quot;table table-bordered&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;目标&lt;/th&gt;
+      &lt;th&gt;完成度&lt;/th&gt;
+      &lt;th&gt;成果&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;找到&lt;a href=&quot;/posts/unexpected-invitation/&quot;&gt;符合预期的工作&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;95%&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;/posts/complete-the-first-goal-of-the-final-goal/&quot;&gt;与 OpenBuild 深度合作&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;搭建自媒体传播体系&lt;/td&gt;
+      &lt;td&gt;90%&lt;/td&gt;
+      &lt;td&gt;专门的英文版个人网站；国内适合的主流内容平台全覆盖；国外覆盖 X、YouTube 和 DEV Community&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;搭建自媒体变现体系&lt;/td&gt;
+      &lt;td&gt;90%&lt;/td&gt;
+      &lt;td&gt;除已持有的支付宝、微信赞赏账户和 &lt;a href=&quot;https://paypal.me/ourai&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;PayPal&lt;/a&gt; 外，另注册 Stripe、Wise、&lt;a href=&quot;https://buymeacoffee.com/ourai&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Buy Me a Coffee&lt;/a&gt;、&lt;a href=&quot;https://ko-fi.com/ourai&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Ko-fi&lt;/a&gt; 和&lt;a href=&quot;https://afdian.com/@ourai&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;爱发电&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;投入更多精力在公域产出内容&lt;/td&gt;
+      &lt;td&gt;50%&lt;/td&gt;
+      &lt;td&gt;免费阅读的文章 27 篇、视频 12 个、知乎问题回答 4 个&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;建立起私域社群&lt;/td&gt;
+      &lt;td&gt;50%&lt;/td&gt;
+      &lt;td&gt;基于飞书的个人化社区「&lt;a href=&quot;https://ouraiverse.feishu.cn/wiki/CbBswjBmLiUxgxkZPhQcdOFwnhg&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;欧雷宇宙&lt;/a&gt;」、付费专栏读者微信群、前端伙伴微信群&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;由于最关键的找工作那个子目标得以完成，其他的子目标就算完成度不是很高也无大碍。&lt;/p&gt;
+
+&lt;p&gt;除了上述已计划的阶段目标，在泰国时我第一次买入了加密货币现货，算是做了「优化收入结构」这个非计划目标的事，同时也成为了韭菜……😂😂😂&lt;/p&gt;
+
+&lt;h3 id=&quot;section-6&quot;&gt;第二阶段目标&lt;/h3&gt;
+
+&lt;p&gt;我的「破局之路」第二阶段的主题是：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;财务健康化——建立人民币这个「内循环」体系；&lt;/li&gt;
+  &lt;li&gt;人要走出去——加强巩固人际网络已有连接并拓展新的连接。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;上面对主题的解释就可以认为是第二阶段的目标本身了，我尝试将它们进一步细化为：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;增加以人民币结算的收入源&lt;/strong&gt;，期望能基本覆盖家庭日常支出；&lt;/li&gt;
+  &lt;li&gt;完成个人化社区「欧雷宇宙」的初期建设，拉入一些成员；&lt;/li&gt;
+  &lt;li&gt;英文版个人网站进入常态化运营，先主打前端开发专家人设；&lt;/li&gt;
+  &lt;li&gt;与一些已经认识的人线下见面，深入交谈；&lt;/li&gt;
+  &lt;li&gt;参加国内外活动，认识新的存在潜在合作可能性的人。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;上列目标的截止日期是 2025 年 12 月 31 日，也就是要贯穿 2025 年全年。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-7&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;在正式踏上「破局之路」之前，我说过——&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;所谓「破局之路」，对我来说就是「实现终极目标之路」，可看作是我对「FIRE 运动」的实践过程。&lt;/p&gt;
+  &lt;footer&gt;欧雷《&lt;cite&gt;&lt;a href=&quot;/posts/road-to-the-final-goal/&quot;&gt;终于，我要踏上破局之路！&lt;/a&gt;&lt;/cite&gt;》&lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;现在回头去看这近一年半所走过的路，何尝不是一个「看看自己不去常规地上班能否活下去」的人生实验呢？&lt;/p&gt;
+
+&lt;p&gt;这个实验仍在进行中，目前阶段性的实验结果是「能」，并且我坚定地相信其最终结果同样是「能」！&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="life-hacking" /><category term="lifestyle" /><category term="digital-nomad" /><summary>哈喽，各位「破局见证者」们，距离上次更新过去要仨月了，又一次大幅超出一个月……为啥会降低更新频率，也许我该好好地反思下，「忙」不能是借口！</summary></entry><entry><title>数字游民该如何「游」？</title><link href="https://ourai.ws/posts/the-right-way-for-digital-nomadism/" rel="alternate" type="text/html" title="数字游民该如何「游」？" /><published>2024-11-26T17:53:44+08:00</published><updated>2024-11-26T17:53:44+08:00</updated><id>https://ourai.ws/posts/the-right-way-for-digital-nomadism</id><content type="html" xml:base="https://ourai.ws/posts/the-right-way-for-digital-nomadism/">&lt;p&gt;在 11 月 9 日，为期两天的「第二届数字游民大会」在位于黄山黟县的「NCC·黑多岛」举行，距离我参加的上一届大会上海站刚好差一个月一年，俨然要成为数字游民「年会」的样子！&lt;/p&gt;
+
+&lt;p&gt;由于 10 日我要赶往泰国，遗憾只能参加一天的；基本都泡在「世界青年会客厅」了，也听了些「主理人舞台」的分享；我听的内容大多比较喜欢，整体质量比上届上海站的高。&lt;/p&gt;
+
+&lt;p&gt;参加过上届上海站后，我有感而发写了《&lt;a href=&quot;/posts/i-want-to-talk-about-digital-nomads/&quot;&gt;作为「数字游民大会」未邀请嘉宾的分享&lt;/a&gt;》，阐述我对「数字游民」的理解及其所带来的挑战。&lt;/p&gt;
+
+&lt;p&gt;本届大会也有触动我的点，即会上多次提及的「流动与扎根」的问题，恰巧与我之前和近期的一些思考比较契合，故借此机会将其述说。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;「流动」放缓&lt;/h2&gt;
+
+&lt;p&gt;虽说数字游民的流动频率不尽相同，但很多人是以天、周、月为单位更换地点，在同一个城市停留不大会超过一个季度——能去那么多地方，直叫坐班的人羡慕得眼红。&lt;/p&gt;
+
+&lt;p&gt;然而，如此频繁地迁徙真的好吗？反正我是不喜欢，在我看来跟「特种兵式旅游」没啥区别。&lt;/p&gt;
+
+&lt;p&gt;这种「特种兵式游牧」就是（较长期的）旅游，从数字游牧的角度讲至少有如下缺点：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;快感来得太多，陷入倦怠期快，麻木得也快，从而变得难以体会到数字游牧的乐趣；&lt;/li&gt;
+  &lt;li&gt;只能接触到当地环境所营造的最直观的浅层感受，无法深入进风土人情与生活方式当中；&lt;/li&gt;
+  &lt;li&gt;在路上奔波的时间多，停下来思考的时间少，不思考就没法淬炼出什么价值。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;真正的数字游牧，应当不只是接受新鲜刺激带来的快感，更要主动地探索并了解当地风俗习惯，像当地人一样生活，也就是所谓的「融入」。&lt;/p&gt;
+
+&lt;p&gt;假如一个人出国生活了，他几乎只待在 Chinatown 或其他什么华人聚集的街道社区，那他这国出得有什么意思吗？&lt;/p&gt;
+
+&lt;p&gt;我所倡导并将要采用的游牧策略为「以根据地为中心向周边地区辐射式探索」且「以季为单位在根据地居住」，具体详见《&lt;a href=&quot;/posts/if-i-become-a-digital-nomad/&quot;&gt;假设我是数字游民&lt;/a&gt;》。&lt;/p&gt;
+
+&lt;p&gt;我说的「根据地」分为两种：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;固定根据地——自掌控的房子，除了居住和仓储的功能外，还可充当家庭数据中心的节点；&lt;/li&gt;
+  &lt;li&gt;临时根据地——租赁来的房子，仅有居住和仓储的功能。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;只有降低流动频率，才能更好地体验当地生活，真正地体会到数字游牧的乐趣！&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;「扎根」新解&lt;/h2&gt;
+
+&lt;p&gt;当我们在说「扎根」时，实际是在说什么？&lt;/p&gt;
+
+&lt;p&gt;一般的理解为「在某个地方定居了」，这是物理空间层面；也有人会说是「找到归属感」，可认为是线下的人际网络，融入线下的「附近」，算是人文精神层面。&lt;/p&gt;
+
+&lt;p&gt;但这都是互联网和数字技术都不发达时的惯性解释，在数字技术十分发达的当下，作为（准）数字游民，理应对「扎根」这词有新的诠释——&lt;/p&gt;
+
+&lt;p&gt;「扎根」的核心就是「相对稳固的人际网络」，否则就算在某地定居了，但没什么人认识，更别提亲朋好友，还会有「归属感」吗？还会觉得自己「扎根」在那了吗？&lt;/p&gt;
+
+&lt;p&gt;所以说，在各类社交软件层出不穷的现在，为啥要把「相对稳固的人际网络」局限于线下？在线上构建不行吗？&lt;/p&gt;
+
+&lt;p&gt;在线上可以打破国别、地域、语言等的限制，更容易找到志同道合的人，也更容易将人际网络规模化，筛选出与自己相互高度匹配的人进而固化。&lt;/p&gt;
+
+&lt;p&gt;不可否认，与线下同处一个空间相比，线上确实缺失了一些信息与情感的维度，但这不成问题——在线上处得好的，可约线下见面，补全那些缺失的维度。&lt;/p&gt;
+
+&lt;p&gt;两人之间的地理距离、相见时间等对数字游民来说是问题吗？见面的频次也无需担心，扪心自问一下，难道自己与线下的亲朋好友就很高频地相见了吗？&lt;/p&gt;
+
+&lt;p&gt;在当下，作为数字游民，要「扎根」就在互联网上——利用数字技术建立并扩大与维护自己的人际网络，积极参与线上社区形成新形态的「附近」。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;本文是我这个「精神游牧」老司机对「流动与扎根」问题的看法，结合我的个人发展来看，从明年开始大致有如下规划——&lt;/p&gt;
+
+&lt;p&gt;自媒体是我触达陌生人并建立连接的重要途径，既为了打造自己的海外影响力，也为了认识来自世界各地的人们，我要不依赖 AIGC 进行英文创作，也考虑针对日本地区用日文创作。&lt;/p&gt;
+
+&lt;p&gt;与外国人在线上搞好关系后，当我想去他们所在的国家城市时，就可以把相应的人约出来见面，不仅能补齐纯线上缺失的维度以加强我们的关系，还能令我更迅速地融入当地。&lt;/p&gt;
+
+&lt;p&gt;当我「扎根」于互联网且与世界各地的人们建立「相对稳固的人际网络」，缓慢地「流动」进他们的故乡并融入当地生活，那我日后再到那里见那些人，就犹如回到故乡看望老友。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="life-hacking" /><category term="lifestyle" /><category term="digital-nomad" /><summary>在 11 月 9 日，为期两天的「第二届数字游民大会」在位于黄山黟县的「NCC·黑多岛」举行，距离我参加的上一届大会上海站刚好差一个月一年，俨然要成为数字游民「年会」的样子！</summary></entry><entry><title>白送 Follow 邀请码都能被骂？！</title><link href="https://ourai.ws/posts/follow-invitation-code-gift-event/" rel="alternate" type="text/html" title="白送 Follow 邀请码都能被骂？！" /><published>2024-10-26T20:45:27+08:00</published><updated>2024-10-26T20:45:27+08:00</updated><id>https://ourai.ws/posts/follow-invitation-code-gift-event</id><content type="html" xml:base="https://ourai.ws/posts/follow-invitation-code-gift-event/">&lt;p&gt;在「1024 程序员节」这一天，&lt;a href=&quot;https://x.com/follow_app_/status/1849346464318890427&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Follow 开启公测了&lt;/a&gt;，意味着即便没有邀请码也能使用；&lt;a href=&quot;https://x.com/DIYgod/status/1849361156617752768&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;但是会有部分功能受限，仍需要邀请码才能完整体验。&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;很巧的是，&lt;a href=&quot;https://x.com/fxxkol/status/1848585502901047617&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;在那两天前我刚好关闭邀请码申请表，结束了赠码活动&lt;/a&gt;——这真的只是个巧合，我并未提前知道 Follow 要在哪天公测……😂😂😂&lt;/p&gt;
+
+&lt;p&gt;在本文中，我要说下这次赠码活动的一些事。&lt;/p&gt;
+
+&lt;h2 id=&quot;follow&quot;&gt;为啥用 Follow&lt;/h2&gt;
+
+&lt;p&gt;关于「&lt;a href=&quot;https://follow.is/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Follow&lt;/a&gt; 是个什么东西」这命题，其官方的说法是：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20241026/follow-d4a854e3f99536b8e3c6196618ca10b04d39044707cf7852b60734d9f74f7810.png&quot; alt=&quot;Follow 官网标语&quot; /&gt;
+  &lt;figcaption&gt;Follow 官网标语&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;然而对大多数人来说，以及它最直观的使用感受，就是个 RSS 阅读器，&lt;strong&gt;可在我看来当然没有如此「简单」&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;「奇怪」的执拗&lt;/h3&gt;
+
+&lt;p&gt;有关注我各类 SNS 账号的人应该会发现，我极少会去关注其他账号——要么一个也不关注，要么就只关注个别几个。&lt;/p&gt;
+
+&lt;p&gt;这并非是我在耍大牌（也没资格耍😭），也不是不懂礼尚往来，相反，我对每一个关注我的人都心存感激；尤其是那些长时间关注，甚至为我付费的人，我都会想办法回馈他们！&lt;/p&gt;
+
+&lt;p&gt;我之所以不想去关注其他账号，是因为那些平台的功能设计几乎都把「信息的生产和消费关系」与「人之间的社交关系」强行绑定，这跟我的需求强烈不匹配！&lt;/p&gt;
+
+&lt;p&gt;绝大部分时候，我只想与他人建立信息层面的关系，而并不想建立社交层面的——仅仅以一个观察者的身份去看某人发的内容，不愿被任何人知道「我」在看，除非我主动去互动。&lt;/p&gt;
+
+&lt;p&gt;说白了就是，我可以成为对方信息消费者中的一个数字，也就仅此而已，除了被计数「+1」之外的其他信息不愿意被对方及其他人知道——&lt;strong&gt;我的「存在」仅限于数字「+1」&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;在那些主流 SNS 中，只看到 X 的「&lt;a href=&quot;https://help.x.com/en/using-x/x-lists&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;列表&lt;/a&gt;」能满足我这需求，我可以建很多个私密列表：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20241026/x-lists-16766668ffcd32a22a715944ac5cdcb041041a4cdc6626cba9b46f2bd24f50f7.png&quot; alt=&quot;我的列表&quot; /&gt;
+  &lt;figcaption&gt;我的列表&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;另外，在信息输入这方面我是主动获取型的，而非被动推荐型，因而我只想在发布内容时才去登录那些平台，浏览内容最好是能在一个平台或工具里看到所有我在其他平台想看的。&lt;/p&gt;
+
+&lt;h3 id=&quot;follow-1&quot;&gt;开始用 Follow&lt;/h3&gt;
+
+&lt;p&gt;由 &lt;a href=&quot;https://diygod.cc/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;DIYgod&lt;/a&gt; 发起并开发的 &lt;a href=&quot;https://rsshub.app/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;RSSHub&lt;/a&gt; 打破了孤岛化的各平台之间的信息壁垒，使我上述两个需求得到满足成为可能——它将其他平台的数据统一转换为「RSS」这一标准格式，再通过 RSS 阅读器接收查看。&lt;/p&gt;
+
+&lt;p&gt;然而，对于我个人来说这方案存在一个问题，那就是大多 RSS 阅读器免费使用时有订阅数的限制，如 Inoreader 只有 150——这也无法满足我的需求——谁叫我是个大穷逼了呢！😂😂😂&lt;/p&gt;
+
+&lt;p&gt;今年的某天，无意中知道了 DIYgod 他们在开发一个叫「Follow」的能承担 RSS 阅读器角色的应用，当时并没太在意，也没去了解这应用到底是啥。&lt;/p&gt;
+
+&lt;p&gt;我平时在哔站看视频相对较多，大约在 9 月初，有些厌倦每次都要搜阿婆主名字到他主页里找视频看的体验，但又不想妥协地去点「关注」，这时我想起了 Follow。&lt;/p&gt;
+
+&lt;p&gt;在去了解相关信息时，得知因处于内测阶段而需要邀请码才能使用，并且被我捕捉到了 &lt;a href=&quot;https://www.pseudoyu.com/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;pseudoyu&lt;/a&gt; 的身影，从此开始了我使用 Follow 的生活——谢谢🐙君！&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;开启赠码活动&lt;/h2&gt;
+
+&lt;p&gt;正所谓「赠人玫瑰，手有余香」，因为有🐙君的给予，我才能这么快地用上了 Follow；我也想将善意和机会传给其他人，于是决定搞个赠送邀请码的活动。&lt;/p&gt;
+
+&lt;p&gt;根据 Follow 当时的机制，使用者每天可签到获取 20 个 $POWER，兑换一个邀请码需消耗 100 个 $POWER，也就是靠签到每个账号得 5 天才能有一个邀请码：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20241026/invitation-code-aeb4f7015c2ea8684887c22cd8cd0653a525686f369e0707225f7a36759f177f.png&quot; alt=&quot;生成邀请码&quot; /&gt;
+  &lt;figcaption&gt;生成邀请码&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;正因为搞一个邀请码还是有一定成本的，才会出现「一码难求」的情况，甚至有人在「海鲜市场」出售，价高的能卖好几十块钱！&lt;/p&gt;
+
+&lt;p&gt;所以说，我想把这「宝贵」的资源尽可能留给那些真真正正需要的人，而非给白眼狼浪费掉；再加上我想借此机会扩大自己的人际网络，这都影响着活动的规则设计与效果。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;活动准备&lt;/h3&gt;
+
+&lt;p&gt;我说的「真真正正需要的人」是指像我一样有上述「奇怪」需求的，或者把 RSS 订阅作为日常生活刚需的人，那么如何从活动参与者中准确地鉴别出来就很重要了。&lt;/p&gt;
+
+&lt;p&gt;我也想不出什么高招儿，就用飞书多维表格做了个有几道开放性问题的申请表：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20241026/application-form-3b54e500cd18156213729c7b688a728491b03ac18b4de168a947bd9e503923a5.jpg&quot; alt=&quot;邀请码申请表&quot; /&gt;
+  &lt;figcaption&gt;邀请码申请表&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;每个答题的人都得加我微信才算有效地参加活动，一方面是要达到我扩大人际网络的目的，另一方面是发放邀请码时进行联系。&lt;/p&gt;
+
+&lt;p&gt;虽说想要留给「真真正正需要的人」，但实际这更大程度上是为了筛掉那些白嫖怪、白眼狼的表面说辞，我是打算有效参加活动的人都给邀请码的。&lt;/p&gt;
+
+&lt;p&gt;既然是做活动，那肯定会出现参与者排队的情况，否则就是次彻彻底底失败的活动——没什么人参加的活动当然失败啦！😂😂😂&lt;/p&gt;
+
+&lt;p&gt;排队的问题难以避免，但可以想办法减少排队时间，最合规且最朴素的方法就是搞多个账号啦——正好我本身就有虚拟身份隔离的需求，并且已经有好几个 Google 账号。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;活动宣发&lt;/h3&gt;
+
+&lt;p&gt;在 9 月 28 日那天，我分别于&lt;a href=&quot;https://weibo.com/1818955207/Oz2Qtt0Pc&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微博&lt;/a&gt;、&lt;a href=&quot;https://web.okjike.com/originalPost/66f768a70d16900195bc95a3&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;即刻&lt;/a&gt;和 &lt;a href=&quot;https://x.com/fxxkol/status/1839854707784986775&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;X&lt;/a&gt; 上宣布了赠码活动的开始；到 10 月 7 日时，差不多 10 天过去了，只有 10 个申请，估计大多来自于 X。&lt;/p&gt;
+
+&lt;p&gt;在 10 月 7 日当天，我的两个公众号上也各自推送了活动信息，然而收效甚微。&lt;/p&gt;
+
+&lt;p&gt;第二天，在跟别人讨论工作相关问题时提到了 V2EX，想到我注册了 10 多年却没怎么去看过，恰巧正在做这活动，&lt;a href=&quot;https://v2ex.com/t/1078241&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;就上去发个帖吧&lt;/a&gt;！&lt;/p&gt;
+
+&lt;p&gt;让我没想到的是，V2EX 的流量还是挺大的，帖子发出去才 3、4 天，申请数就暴涨了 40 来个，都有点超出我那些账号所能承载的邀请码生成压力了！&lt;/p&gt;
+
+&lt;p&gt;令我啼笑皆非的是，帖子下面有好几个阴阳怪气的评论，还有人特意跑到申请表里说类似的话：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20241026/post-comments-3cdbc0ba763d1486286229f39b6ddb2ed564898f8a2b5a9cae19ce2566794f77.png&quot; alt=&quot;帖子评论&quot; /&gt;
+  &lt;figcaption&gt;帖子评论&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;这些人明明可以闭嘴刷走，却非羊圈里跳出个驴来——显大个儿！想要合理化白嫖怪思想和行为是吧？！&lt;/p&gt;
+
+&lt;p&gt;得亏我搞了个申请表，筛的就是这帮人！不然邀请码给他们了，那些「真真正正需要的人」和其他友善的人不就损失机会了？！&lt;/p&gt;
+
+&lt;p&gt;不过，就算有申请表也没拦住所有人：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20241026/wechat-35a30f3221181245e6951b55dd4951bc35427ac7f4ebb29e5665c85c491ab58d.png&quot; alt=&quot;？？？&quot; /&gt;
+  &lt;figcaption&gt;？？？&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;真的是离了个大谱！！！&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;申请管理&lt;/h3&gt;
+
+&lt;p&gt;为方便申请信息的审核与邀请码的发放，我对原来的飞书多维表格做了一些改进增强：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;新增「账号」数据表，主要用来记录每个账号的 $POWER 余额与更新时间，便于查看当天可生成邀请码的账号及提高签到效率；&lt;/li&gt;
+  &lt;li&gt;新增「邀请码」数据表，记录已生成邀请码及其创建者、使用者，便于查看未使用的邀请码；&lt;/li&gt;
+  &lt;li&gt;申请信息回收表中新增「是否已加微信」、「需求程度」、「进度状态」等字段，提高申请审核与邀请码发放效率。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;其中，申请信息回收表的「进度状态」字段有「待审核」、「待发放」、「待使用」、「已使用」和「未通过」这 5 个值，我用这个字段将记录进行分组展示：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20241026/grouped-53b555b9398f7cde808fec8eae50e7df32a6ae7bd73647459aa93fdc34f71ef7.png&quot; alt=&quot;记录分组&quot; /&gt;
+  &lt;figcaption&gt;记录分组&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;别人填写申请表后，飞书会发送消息提醒我，数据则直接进入到「值为空」那个分组里，代表我还完全没去处理。&lt;/p&gt;
+
+&lt;p&gt;初步处理后的记录，要么进了「待审核」，要么就是「未通过」；前者在我找时间集中处理并审核通过后，就会进入以「待发放」为开端的邀请码发放流程。&lt;/p&gt;
+
+&lt;p&gt;匹配到下列条件的人会被标为「未通过」：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;填表明显没用心甚至是扯蛋的，没主动加我微信的，都视为无效参加活动；&lt;/li&gt;
+  &lt;li&gt;加微信后我会挨个发自我介绍的文本，没任何回复的算作想白嫖的人；&lt;/li&gt;
+  &lt;li&gt;申请表里选择加入 KnoSys 群的人我会发送进群邀请，实际却没进群的，这部分人与不回复自我介绍的基本重叠。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;在真要发放邀请码前，我会确认下对方是否还需要邀请码，因为在排队期间有可能从其他地方弄到了；这时会发现，有的人已经把我删掉了，有的人真从他处弄到邀请码了，这些我也会标为「未通过」。&lt;/p&gt;
+
+&lt;p&gt;鉴于此，「未通过」的含义除了字面意思外，还包含「不必了」的情况。&lt;/p&gt;
+
+&lt;p&gt;我把分组后的记录先后以「是否支持或帮助过我」、「需求程度」和「提交时间」这 3 个字段按照「顺序」排序：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20241026/ordered-840a2b459def7600dfc14917df320e6bba2f471df1e0a1306f50f7f1fb9a3779.png&quot; alt=&quot;记录排序&quot; /&gt;
+  &lt;figcaption&gt;记录排序&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;邀请码就以这个排序结果进行发放。&lt;/p&gt;
+
+&lt;p&gt;那些买过我的付费产品和打赏过我等为我做出过贡献的人，是优先级最高的，日后若再有回馈类活动，也会依此原则处理。&lt;/p&gt;
+
+&lt;p&gt;其他人我会根据答题情况来判断参与者是否为「真真正正需要的人」，是的话就会把「需求程度」标为「高」——这就是为啥我会在宣发时强调要认真填写——可惜绝大部分人都被判定为「低」。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-5&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;我在本文中解释了自己不喜欢在 SNS 上关注其他账号的原因——把「信息的生产和消费关系」与「人之间的社交关系」相互解绑。&lt;/p&gt;
+
+&lt;p&gt;那么可以换位想一下，要是其他人也这么对我，自己能接受吗？&lt;/p&gt;
+
+&lt;p&gt;我认为自己是能够接受的——&lt;/p&gt;
+
+&lt;p&gt;首先，我最关心的是那被用来计数的数字，也就是有多少人与我建立了相对长期、稳定的信息接收关系，这样我就能知道自己发出去的内容所能触达人数的下限。&lt;/p&gt;
+
+&lt;p&gt;其次，我虽然也很想知道那一个个数字的背后是谁？是怎样一个人？有没有互相认识一下的可能？甚至是走到线下成为朋友？但我想把这主动权交给对方，自己只管敞开心门就好。&lt;/p&gt;
+
+&lt;p&gt;我做这次 Follow 邀请码赠送活动的原因之一就是想增加有成为朋友可能性的人，而那些白嫖怪、白眼狼是绝对无法成为朋友的！&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="self-media" /><category term="social-media" /><summary>在「1024 程序员节」这一天，Follow 开启公测了，意味着即便没有邀请码也能使用；但是会有部分功能受限，仍需要邀请码才能完整体验。</summary></entry><entry><title>向前一小步，「破局」一大步！</title><link href="https://ourai.ws/posts/complete-the-first-goal-of-the-final-goal/" rel="alternate" type="text/html" title="向前一小步，「破局」一大步！" /><published>2024-10-08T22:40:22+08:00</published><updated>2024-10-08T22:40:22+08:00</updated><id>https://ourai.ws/posts/complete-the-first-goal-of-the-final-goal</id><content type="html" xml:base="https://ourai.ws/posts/complete-the-first-goal-of-the-final-goal/">&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;破局之路&lt;/a&gt;」的第 23 篇正式文章，主要讲述以下内容：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;这几个月的进展；&lt;/li&gt;
+  &lt;li&gt;接下来的粗略想法。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://www.yuque.com/ourai/kqx2ue/cop8deraobehy9x8&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;语雀&lt;/a&gt;、&lt;a href=&quot;https://xiaobot.net/post/2d2819c2-c7e0-48a4-9bb9-cd1a8c3a171e&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/ACBOy9UPpXaX8Q1YJME0FQ&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="job" /><category term="openbuild" /><summary>本文是付费文章系列「破局之路」的第 23 篇正式文章，主要讲述以下内容：</summary></entry><entry><title>放弃 Web2，加入 Web3</title><link href="https://ourai.ws/posts/abandon-web2-and-join-web3/" rel="alternate" type="text/html" title="放弃 Web2，加入 Web3" /><published>2024-09-03T20:35:51+08:00</published><updated>2024-09-03T20:35:51+08:00</updated><id>https://ourai.ws/posts/abandon-web2-and-join-web3</id><content type="html" xml:base="https://ourai.ws/posts/abandon-web2-and-join-web3/">&lt;p&gt;之前写的文章《&lt;a href=&quot;/posts/web3-is-the-future-for-frontend-engineers-part-1/&quot;&gt;Web2 终是末路，Web3 才是归宿：接触 Web3&lt;/a&gt;》和《&lt;a href=&quot;/posts/web3-is-the-future-for-frontend-engineers-part-2/&quot;&gt;Web2 终是末路，Web3 才是归宿：拥抱 Web3&lt;/a&gt;》的标题看起来有些危言耸听，还有人说我是标题党。&lt;/p&gt;
+
+&lt;p&gt;可这两篇文章说的是我向 Web3 全栈工程师转型的经历，「Web2 终是末路，Web3 才是归宿」是对我个人而言的感受与选择，算不上是对行业的总结及对他人的建议——本文正好相反。&lt;/p&gt;
+
+&lt;h2 id=&quot;web2-&quot;&gt;Web2 终是末路&lt;/h2&gt;
+
+&lt;p&gt;有人看完那两篇文章后评论留言：「从头到尾都没说为什么 Web2 是末路。」确实，主要原因上面也说了，它们是讲述我个人经历的，不是说行业与职业发展建议的。&lt;/p&gt;
+
+&lt;p&gt;另外，关于「Web2 不行了」的观点我之前也较为完整地表达过，在《&lt;a href=&quot;/posts/the-last-advice-to-frontend-engineers/&quot;&gt;对前端同行的最后一次劝诫&lt;/a&gt;》中有一小部分，更多的是在我付费专栏里的一篇文章《&lt;a href=&quot;/posts/what-kind-of-job-should-i-look-for/&quot;&gt;看工作看得我「蕉绿」了&lt;/a&gt;》中。&lt;/p&gt;
+
+&lt;p&gt;为保障这一系列文章的连贯性、完整性，现将那篇付费才能看的文章中的主要内容拿出来，下文是在它基础上进一步加工而来——&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;供需错位&lt;/h3&gt;
+
+&lt;p&gt;去年中秋节，我在跟🐷摆摊时闲来无事，就打开 BOSS 直聘看看工作。&lt;/p&gt;
+
+&lt;p&gt;把期望月薪范围调高点，并设置了自己擅长的方向后一查看，以往满眼的纯螺丝钉岗位大多消失不见，映入眼帘的是 Web IDE 开发、Electron 资深开发、前端技术总监、前端团队负责人等较高端岗位。&lt;/p&gt;
+
+&lt;p&gt;它们合起来的月薪范围大致在 35k～70k，想想就很爽！但一看要求，嗯，我不配……&lt;/p&gt;
+
+&lt;p&gt;有人抱怨找工作难找，需求饱和了；有人哀叹招人难招，人才可遇不可求——在那时，我算是真的感受到并理解了这其中的矛盾与沟壑。&lt;/p&gt;
+
+&lt;p&gt;在常规的招聘市场上，我处于一个上不上下不下的境地，很是尴尬——若做螺丝钉，大材小用，对用人单位来说性价比低；但当有规模团队的顶梁柱，能力、经历上又有所不足。&lt;/p&gt;
+
+&lt;p&gt;以上为我在找工作时所面临的一方面问题，另一方面是前景问题，这影响着工作岗位、公司、行业等的稳定性（生命周期的长短）——人无远虑，必有近忧。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;前端已死？&lt;/h3&gt;
+
+&lt;p&gt;我在整理前端相关内容专题时，介绍中特意强调了——&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;「前端工程师」是以 HTML、CSS、JavaScript 等 Web 前端技术为核心解决网页或基于 Web 的应用相关问题的「软件工程师」。&lt;/p&gt;
+  &lt;p&gt;像利用 Canvas、WebGL 等技术去做些绘图、游戏等的话，已经脱离当下一般意义上的「Web 前端」范畴，他们的知识体系则是以图形学等为重，目前不在本专题的范围内。&lt;/p&gt;
+  &lt;footer&gt;欧雷《&lt;cite&gt;&lt;a href=&quot;https://s.ourai.ws/topics/frontend-engineering/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;前端工程师自我修养&lt;/a&gt;&lt;/cite&gt;》&lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;堂主在关于玉伯离职的知乎问答里有提到——&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;新一幕，是 AI 结合下的行业新时代，扑面而来的技术生产力大升级，产品表达大重构，和商业重塑。&lt;/p&gt;
+  &lt;p&gt;作为技术实现的职能之一，前端也会迎来新时代，前端所承载的体验科技的价值，会被更广泛的人群所共识，逐渐成为基础认知。&lt;/p&gt;
+  &lt;p&gt;玉伯领先当时，认知、创办且做成了蚂蚁集团的体验技术部。理念、产品、团队、影响力、业务价值，沉甸甸的成绩。&lt;/p&gt;
+  &lt;p&gt;玉伯成名于前端，成就了诸多的技术产品和体验技术部这个团队。下一个行业周期，我相信玉伯继续有能力、空间和足够的人才，去 Make Something Better, Promote Something Change，成功于业务和商业。&lt;/p&gt;
+  &lt;p&gt;而前端，前端所谓的“问题” 多是认知的局限导致。AI 生产力为底层引擎的新时代，对交互和体验的价值交付的新课题，可能“前端”的精彩才刚开始。这肯定不意味还会继续全承载在我们所熟悉的浏览器内的 2D 页面。&lt;/p&gt;
+  &lt;footer&gt;堂主《&lt;cite&gt;&lt;a href=&quot;https://www.zhihu.com/question/596336458/answer/3001729216&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;如何看待玉伯从蚂蚁体验技术部离职？&lt;/a&gt;&lt;/cite&gt;》&lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;结合这两个，让我想到去年年初时闹得沸沸扬扬的「前端已死」。&lt;/p&gt;
+
+&lt;p&gt;这个话题我于 2020 年就在知乎问题《&lt;a href=&quot;https://www.zhihu.com/question/392501126/answer/1208792987&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;前端会有未来吗？&lt;/a&gt;》里表达过观点，并专门写文章《&lt;a href=&quot;/posts/the-future-of-frontend-web-development/&quot;&gt;前端有未来吗？&lt;/a&gt;》更详细地阐述。&lt;/p&gt;
+
+&lt;p&gt;在那一年后，我又补充了一些相关思考——&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;5～10 年后，Web 开发会有大量工具人失业，并且入行门槛变高，薪资/涨幅变得更低，已经不会像几年前那么吃香了，工作 6 年以上的人应该有所体感。&lt;/p&gt;
+  &lt;p&gt;这个职业已经开始要往下走了，是时候考虑下 5～10 年后自己该做什么了，尽可能及时调转方向，调整赛道。&lt;/p&gt;
+  &lt;p&gt;我想说的是——Web 开发相关的职业，如前端工程师、Java 工程师等快到头了。并不是说找不到工作了，而是将会越来越难找且赚得还少，离「高薪」这个词渐行渐远。&lt;/p&gt;
+  &lt;p&gt;二十年前，中国进入 PC 互联网时代；十年前，中国和世界一起进入移动互联网时代。这二十年间，随着各种互联网公司的野蛮生长，中国经济迅速崛起并腾飞，追赶并超过了其他国家。&lt;/p&gt;
+  &lt;p&gt;然而处于这个阶段，很多事情已经处于平缓区，十年后，无论互联网在形式上再怎么变革，Web 开发也不会激起多大波澜，跟 Web 开发没多大关系。&lt;/p&gt;
+  &lt;p&gt;目前来看，未来是数据智能、混合现实、图形化技术、结合生物/生命科学的计算和一些基建方面的。相对来说，Web 开发就是一些「砖瓦工」工作。&lt;/p&gt;
+  &lt;p&gt;任何工具类事物（如科技、技术、服务等）都有时效性，所以如何将它们所产生的利益、价值最大化是很重要的。&lt;/p&gt;
+  &lt;p&gt;我想到的基本点在这都告诉你们了，用不用得起来是你们的事——&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;第一手信息的获取渠道及敏锐的嗅觉——比绝大部分人早一步甚至 N 步了解世界的发展及自己可能面临的挑战和能够搞钱的空间；&lt;/li&gt;
+    &lt;li&gt;快速学习的能力——降低掌握新工具的时间成本，省下来更多获取价值的时间；&lt;/li&gt;
+    &lt;li&gt;拥有发现工具适用和落地场景的火眼金睛——快速并大力地推广，借此升职、加薪、赚钱；&lt;/li&gt;
+    &lt;li&gt;尽量铺大——增加、延长获利；&lt;/li&gt;
+    &lt;li&gt;开启下一个循环。&lt;/li&gt;
+  &lt;/ol&gt;
+  &lt;footer&gt;欧雷的想法&lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;文章《&lt;a href=&quot;/posts/the-second-year-of-three-years-belonging-to-me/&quot;&gt;属于我的三年·第二年&lt;/a&gt;》中的「一点思考」部分对上述观点进行了些许完善，且与今年写的《&lt;a href=&quot;/posts/the-last-advice-to-frontend-engineers/&quot;&gt;对前端同行的最后一次劝诫&lt;/a&gt;》有所呼应。&lt;/p&gt;
+
+&lt;p&gt;后来我把上面提到的文章与想法以及&lt;a href=&quot;/people/zenany/&quot;&gt;平侠&lt;/a&gt;在 2019 年写的《&lt;a href=&quot;https://www.yuque.com/zenany/up/the_future_frontend&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;前端之未来&lt;/a&gt;》全部重温了遍，试图从中觅得在找工作时的切入点。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;技术的周期&lt;/h4&gt;
+
+&lt;p&gt;无论是&lt;a href=&quot;/people/zenany/&quot;&gt;平侠&lt;/a&gt;的《&lt;a href=&quot;https://www.yuque.com/zenany/up/the_future_frontend&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;前端之未来&lt;/a&gt;》、我的《&lt;a href=&quot;/posts/the-future-of-frontend-web-development/&quot;&gt;前端有未来吗？&lt;/a&gt;》，还是堂主在知乎上的回答，都在表明「前端很有未来」，但此「前端」非彼「前端」——&lt;/p&gt;
+
+&lt;p&gt;抱着以 HTML、CSS、JS 这老三样所代表的「传统 Web 前端」不放的话，长期来看没有未来；但以「解决人机交互问题」并「提供优良用户体验」为目标的「前端」是有未来的。&lt;/p&gt;
+
+&lt;p&gt;这两个「前端」的差异在于，前者是与 HTML、CSS、JS 相绑定的，开发时它们都会高频用到；而后者的内涵是动态的，可以是老三样，可以是 WebGL，更可以是与 Web 完全无关的。&lt;/p&gt;
+
+&lt;p&gt;像数字孪生（digital twins）、沉浸式技术（immersive technologies）、智慧空间（smart spaces）等方向涉及到的「前端」，与「传统 Web 前端」之间可以说是毫无关系。&lt;/p&gt;
+
+&lt;p&gt;若按上文提及的堂主回答中所说的前端发展的 15 年（2008～2023），显然目前「传统 Web 前端」是处于衰退期，没几年可「活」了。&lt;/p&gt;
+
+&lt;p&gt;而「下一代」可能会完全不同的「前端」具体是用什么技术？它的生命周期又能有多少年？会有「传统 Web 前端」持久吗？&lt;/p&gt;
+
+&lt;p&gt;另外，代际交替并不是错开的，而是同时存在的，只不过较少人察觉到；待到大多数人知道且有所行动之时，入局可能就比较晚了。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-3&quot;&gt;领域的周期&lt;/h4&gt;
+
+&lt;p&gt;这些文章也都认为「前端」可在产品的生产与商业这两个领域发展——前者是提效，节流；后者是圈地，开源。&lt;/p&gt;
+
+&lt;p&gt;随着软件工程相关理论愈发完善，新技术、新工具的使用所面临的问题很容易从已有知识与经验中（跨界）找到解决方案。&lt;/p&gt;
+
+&lt;p&gt;从而，「螺旋上升」中的「螺旋」会转得越来越快，以至于螺不螺旋已经无所谓了——相同或相似问题重复出现，只要解决问题的模型与模式没变，技术与工具的改进将没啥意义。&lt;/p&gt;
+
+&lt;p&gt;也就是说，提效、优化的天花板越来越容易触碰到。&lt;/p&gt;
+
+&lt;p&gt;在商业领域也是类似的——商业立足于人性，而人性几千年没啥变化，只不过是新技术出现后，将已有的东西又全部重做了一遍——又一个「螺旋上升」。&lt;/p&gt;
+
+&lt;p&gt;当然也会有些许「例外」，就是像电器、计算机等「奇点」类的事物出现。&lt;/p&gt;
+
+&lt;p&gt;从过往经验来看，生产与商业这两个领域哪个周期更长，说不准，但生产领域的衰退有可能伴随着某特定技术的衰退——「传统 Web 前端」都不用了，还费力气搞它们的基建干啥？&lt;/p&gt;
+
+&lt;h4 id=&quot;section-4&quot;&gt;文章的局限&lt;/h4&gt;
+
+&lt;p&gt;这些文章都是从较为宏观的角度去说，给的建议也是针对抽象的一批人的，对于某个具体的人也许参考借鉴的意义有限——正如社会上「旧岗位消失，新岗位出现」的问题。&lt;/p&gt;
+
+&lt;p&gt;就拿我来说，大龄且处于代际交替的节点，所擅长的技术是「旧时代」的，而「新时代」的技术具体是啥还不明朗，且学习门槛高，要达到工作水平的周期长。&lt;/p&gt;
+
+&lt;p&gt;从用人单位角度来看，更倾向于招有实际工作经验并取得一定成果的，我一个刚「转行」的，当实习生吗？若要招实习的，他们干嘛不要一个既年轻又听话的？&lt;/p&gt;
+
+&lt;h2 id=&quot;web3-&quot;&gt;Web3 才是归宿&lt;/h2&gt;
+
+&lt;p&gt;将上文稍微简短地概括下——&lt;/p&gt;
+
+&lt;p&gt;未来的主流人机交互技术很可能不再是 HTML、CSS、JS，即使仍然是它们，但已不重要或与现在相比变得面目全非，相当于学习新技术，并且要掌握图形学等略硬核的基础知识。&lt;/p&gt;
+
+&lt;p&gt;新技术相关知识学习门槛高，达到可工作水平周期长；代际交替具体要多久不清楚，但应该用不了几年，越早踏入「新时代」越好。&lt;/p&gt;
+
+&lt;p&gt;这些年传统互联网行业增长乏力是大家有目共睹的，绝大部分前端工程师所掌握的是作为「旧时代」技术的「传统 Web 前端」，且在业务导向的公司中工作。&lt;/p&gt;
+
+&lt;p&gt;若仍将视野局限于 Web2 的话，从技术周期及生产与商业的领域周期来看，前景可谓是一眼就望到头了，只有不几年可「活」。&lt;/p&gt;
+
+&lt;p&gt;虽说去技术导向的公司工作也不失为一种选择，能多苟延残喘一段时间，但这也仅是留给少数技术精英的选项，与绝大多数做业务前端而技术不够精进的人没啥关系。&lt;/p&gt;
+
+&lt;p&gt;对这部分前端工程师而言，尤其是已从业 5 年及以上的，「传统 Web 前端」这「旧时代」技术俨然已成为难以甩掉的历史包袱，继续留在 Web2 很快就会迎来职业生涯的末路。&lt;/p&gt;
+
+&lt;p&gt;在《&lt;a href=&quot;/posts/questioning-web3-understanding-web3/&quot;&gt;质疑 Web3，理解 Web3&lt;/a&gt;》中我对自己所理解的「Web3」做了较为详细的描述，只要不是愚蠢的人都看得出来，即便只掌握「传统 Web 前端」技术也可很平滑地从 Web2 迁移过来。&lt;/p&gt;
+
+&lt;p&gt;并且，从当前 Web3 行业的发展阶段来看，其为依赖「传统 Web 前端」的前端工程师们的职业生涯强行续命至少 10 年——把 Web3 称为这部分人的「归宿」不为过吧？！&lt;/p&gt;
+
+&lt;h2 id=&quot;section-5&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;自从我开始写 Web3 相关文章以来，总有人评论留言说去中心化、区块链、Web3 违法之类，让他们列出具体的法律法规条文时就没后文了。&lt;/p&gt;
+
+&lt;p&gt;我就想问：「在国内，区块链技术在政府机构、互联网大厂等组织中都有应用，他们是在公然知法犯法吗？还是说他们不懂法？」&lt;/p&gt;
+
+&lt;p&gt;识时务者为俊杰，通机变者为英豪。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="frontend-engineer" /><category term="job" /><category term="web-3" /><summary>之前写的文章《Web2 终是末路，Web3 才是归宿：接触 Web3》和《Web2 终是末路，Web3 才是归宿：拥抱 Web3》的标题看起来有些危言耸听，还有人说我是标题党。</summary></entry><entry><title>质疑 Web3，理解 Web3</title><link href="https://ourai.ws/posts/questioning-web3-understanding-web3/" rel="alternate" type="text/html" title="质疑 Web3，理解 Web3" /><published>2024-08-29T17:49:57+08:00</published><updated>2024-08-29T17:49:57+08:00</updated><id>https://ourai.ws/posts/questioning-web3-understanding-web3</id><content type="html" xml:base="https://ourai.ws/posts/questioning-web3-understanding-web3/">&lt;p&gt;听到「Web3」这个词，你会作何反应？&lt;/p&gt;
+
+&lt;p&gt;至少从我发布的前两篇文章评论区来看，大部分人留言「坐牢」和「割韭菜」这类文字；可见他们并不了解 Web3，而且 Web3 被严重地妖魔化了。&lt;/p&gt;
+
+&lt;p&gt;质疑 Web3 是合理且应该的，任何事物都需要被质疑，这才能越来越接近其本质；但他们那不是在质疑，而是带着偏见在歧视。&lt;/p&gt;
+
+&lt;p&gt;本文将阐述我对 Web3 的理解，以此为其正名。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;为何去中心化&lt;/h2&gt;
+
+&lt;p&gt;内容创作者是我众多身份中的一个，虽说我有经营了 10 多年的个人网站，但在当下这个时代若想自己所创作的内容被更多的人看到，不得不借用内容平台的潜在流量。&lt;/p&gt;
+
+&lt;p&gt;作为内容创作者来说，最苦恼的事情莫过于没人看自己用心创作出的内容，要真是自己水平问题那还能接受，但若是因为被内容平台进行限流、仅作者可见等处理了导致的呢？&lt;/p&gt;
+
+&lt;p&gt;被处理后收到的系统通知往往是「你的内容不符合规范」这种语焉不详的文案，根本看不出自己的内容到底哪里不符合哪条规范。&lt;/p&gt;
+
+&lt;p&gt;更不合理的是，通常没有有效的申诉途径——要么是压根儿没有申诉入口；要么是申诉了无人处理；要么是处理的人随便糊弄——在内容平台面前，创作者有尊严可言吗？&lt;/p&gt;
+
+&lt;p&gt;这还只是我与他人所遇到的种种问题中的一个事例，它们之间的共性是中心化平台很难最大化公正性，主要原因是：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;权力集中在运营方手中，没有任何外部人员参与决策的部分；&lt;/li&gt;
+  &lt;li&gt;平台规则不够细致，因大量模糊用词而造成很大的可操作、可任意解释的灰色地带；&lt;/li&gt;
+  &lt;li&gt;平台对用户生产的内容的处理过程不透明，被用户监督的体系缺失；&lt;/li&gt;
+  &lt;li&gt;举报申诉的反馈机制很不完善，维权十分复杂，甚至可能无法维权。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;用户与中心化平台之间的关系不完全是对立的：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;平台可以有自己的规则，在用户触犯时对其进行惩罚，这些都是合理的；&lt;/li&gt;
+  &lt;li&gt;平台的规则可以不完善，在用户有理有据地提出异议时能够虚心接受并改进，而非蛮横专制地强词夺理，这是想把平台做好的运营方该做的；&lt;/li&gt;
+  &lt;li&gt;用户为平台生产数据，平台为用户提供流量或其他价值，这本是双赢的事。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;可正如上述的几点「主要原因」，中心化平台很难做到这些看似简单的事，那么用户的权益就无法很好地得到保障，只留下 3 个选项：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;直接离开；&lt;/li&gt;
+  &lt;li&gt;抱着最后的希望想办法申诉下试试；&lt;/li&gt;
+  &lt;li&gt;继续忍着被近乎无尽的凌辱，直到无法忍受。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;无论选择哪个选项，结果很可能都是「离开」。&lt;/p&gt;
+
+&lt;p&gt;可是，离开了，然后呢？是不再做相关的事情了吗？还是说再换到其他同类中心化平台上？难道那个平台就大概率是能很好地保障用户权益的？&lt;/p&gt;
+
+&lt;p&gt;一个真正以人为本的数字服务的大致样貌，我在《&lt;a href=&quot;/posts/brief-introduction-to-individual-centered-services/&quot;&gt;闲聊个人服务：革「to C」的命&lt;/a&gt;》中进行了描绘。&lt;/p&gt;
+
+&lt;p&gt;最终，那些注重自身权益且有所想法的人，都将目光投向了「去中心化」的平台，并视其为救命稻草。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;如何去中心化&lt;/h2&gt;
+
+&lt;p&gt;当谈论「去中心化」时，必须要明确被去中心化的事物是什么，如数据所有权、数据控制权、计算方式、通信方式等，否则就会鸡同鸭讲，驴唇不对马嘴。&lt;/p&gt;
+
+&lt;p&gt;有些人秉持的是绝对去中心化主义，但这就像想要绝对自由及平均主义一样——痴心妄想。&lt;/p&gt;
+
+&lt;p&gt;实现「去中心化」需依赖于分布式网络结构，即一个网络中的节点间可相互直接通信，无需经过某个拥有控制权的中转节点，那个中转节点就是「中心」。&lt;/p&gt;
+
+&lt;p&gt;也许有人会有疑问——没有「中心」统一指挥调度的话，网络中的那些节点岂不是乱套了？！它们之间还怎么进行通信与协作？！&lt;/p&gt;
+
+&lt;p&gt;抛开计算机网络不谈，看看人类是怎么做的——&lt;/p&gt;
+
+&lt;p&gt;人类个体间的通信需要借助符号、语音等能够传递信息的媒介，同样的媒介单位在不同的体系中的含义会不一样，只有两人在处于同一体系时才能进行通信，比如都用汉语交流。&lt;/p&gt;
+
+&lt;p&gt;那么，人类个体间在没有指挥者的情况下是如何朝着一个方向使力协同工作的呢？大概有下面几种：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;文明、民族的文化、传统、习俗；&lt;/li&gt;
+  &lt;li&gt;国家的法律法规；&lt;/li&gt;
+  &lt;li&gt;组织的规章制度；&lt;/li&gt;
+  &lt;li&gt;彼此间磨合出的默契。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;这些都是参与者之间所达成的共识或要遵守的规定，靠最终形成的一致的规则去约束并协调每个个体的行动，从而完成某个具体任务。&lt;/p&gt;
+
+&lt;p&gt;综上所述，「相同的媒介体系」与「一致的行动规则」是实现「去中心化」的关键所在！&lt;/p&gt;
+
+&lt;p&gt;将视角转回到计算机领域，「相同的媒介体系」就是数据类型与编码，「一致的行动规则」则是协议与标准。&lt;/p&gt;
+
+&lt;p&gt;另外，正如上文所说，绝对的「去中心化」是不存在的——在一个整体看起来是分布式的网络中，其中的某个节点也可能是一个有「中心」的更小型网络。&lt;/p&gt;
+
+&lt;h2 id=&quot;web-&quot;&gt;Web 的迭代&lt;/h2&gt;
+
+&lt;p&gt;人们当下的数字生活离不开 Web，无论是浏览网页或使用原生客户端应用，都很依赖于它。&lt;/p&gt;
+
+&lt;p&gt;从 1989 年诞生至今，为满足各类需求 Web 相关技术已经得到蓬勃发展，甚至当下的发展方向有些远离其发明者的预期了。&lt;/p&gt;
+
+&lt;p&gt;在这 35 年中，因生产生活中使用方式与思想浪潮的变迁，每几年就会出现一些集中性的特点，以此去分期断代，并在「Web」后加上自增的数字命名。&lt;/p&gt;
+
+&lt;p&gt;很多介绍 Web3 的资料会将其描述为「Web 3.0」，或与「Web 1.0」和「Web 2.0」放在同一层级进行比较——作为一个措辞敏感的人，实在很难认同。&lt;/p&gt;
+
+&lt;p&gt;把表示「代」的数字用「X」替换的话，有「Web X.0」和「WebX」这两种构词形式，它们之间的含义有很大差异。&lt;/p&gt;
+
+&lt;p&gt;代与代之间并非取代的关系，而是共存，哪个占比更多就是「主流」，占比少的不会完全消失，但会被「忽略不计」。&lt;/p&gt;
+
+&lt;h3 id=&quot;web-x0&quot;&gt;Web X.0&lt;/h3&gt;
+
+&lt;p&gt;Web 是由 Tim Berners-Lee 在 CERN 时发明的，最初的目的只是为了能够在互联网上共享以图文为主的资料文档等，天生就有「去中心化」的基因，自己电脑就可作为服务器。&lt;/p&gt;
+
+&lt;p&gt;那时，CSS、JS 都还没有出现，PHP、Java 就更不用说了，网页不光是完全静态而无法交互的，也看起来很是简朴——正如当时人们的想法一样——仅仅是知识共享而已。&lt;/p&gt;
+
+&lt;p&gt;随着令网页变得更漂亮以及从各种意义上来说变得动态化的支撑性技术的出现，网页开始向个性化、商业化的方向发展，进而逐渐涌现出五花八门的个人网站、商业网站，让 Web 充满朝气。&lt;/p&gt;
+
+&lt;p&gt;大约在 2004 年之后，Web 的主流应用形式转向社交化、平台化，大量 SNS、XaaS 类产品迎面扑来，占领人们日常生产生活的方方面面，平台方掌握大量用户与数据，商业价值水涨船高。&lt;/p&gt;
+
+&lt;p&gt;以 2004 年左右为分界点，之前 Web 的应用形式主要为信息发布类内容网站，这对用户来说内容是「只读」的，被称为「Web 1.0」。&lt;/p&gt;
+
+&lt;p&gt;而之后 Web 的应用形式则更多的是用户可参与内容创作和分享互动的平台服务，即「可读可写」，被称为「Web 2.0」；这时明显地呈现出中心化特征，与 Web 的初衷相违背。&lt;/p&gt;
+
+&lt;p&gt;上文是从 Web 的应用形式进行断代的，作为 Web 发明者的 Tim Berners-Lee 并不认同，他在&lt;a href=&quot;https://www.w3.org/DesignIssues/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;自己笔记&lt;/a&gt;中从技术发展与解决问题的层面划分为：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Web 1.0——建立全球性的文档与数据之网；&lt;/li&gt;
+  &lt;li&gt;Web 2.0——增强信息访问的安全性；&lt;/li&gt;
+  &lt;li&gt;Web 3.0——构建提高数据互操作性的语义网。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;其中，「Web 3.0」就是借助一系列的协议、标准与技术，使网页内容强化为易被机器读取并理解的结构化数据，将整个 Web 变成庞大的知识图谱、智能网络。&lt;/p&gt;
+
+&lt;p&gt;Tim Berners-Lee 所构想的「Web 3.0」可用去中心化的方式应用于知识工程、人工智能、万物互联、社交网络等领域。&lt;/p&gt;
+
+&lt;h3 id=&quot;webx&quot;&gt;WebX&lt;/h3&gt;
+
+&lt;p&gt;在 Tim Berners-Lee 所构想的 Web 中，「去中心化」是天然的、无需特意强调的，但在实际的应用中偏离预期走向了以中心化平台为主流的模式。&lt;/p&gt;
+
+&lt;p&gt;这时，以比特币为首与 Web 相关技术不同的另一个同样是去中心化的区块链相关技术诞生，由于是在中心化平台横行的时代背景下且自带货币体系，它的「去中心化」带有叛逆的意味。&lt;/p&gt;
+
+&lt;p&gt;加密货币交易与记录不可篡改是区块链的基本特性，因而发展出以加密货币为中心的各类金融活动也就是自然而然的事情。&lt;/p&gt;
+
+&lt;p&gt;目前区块链相关技术应用相对成熟的领域就是去中心化金融，即「DeFi」；因其具备股票、外汇交易等的特点，并且无监管，很容易造成经济损失，需要十分慎重。&lt;/p&gt;
+
+&lt;p&gt;区块链相关技术的应用领域或多或少都会带有金融属性，也形成了相应的文化与行业，也就是「Web3」。&lt;/p&gt;
+
+&lt;p&gt;之所以叫「Web3」，跟上文中阐述的 Web 应用形式层面的「Web 2.0」的中心化特征有很大关系，同时与 Tim Berners-Lee 所构想的「Web 3.0」之间可以说有较大差异。&lt;/p&gt;
+
+&lt;p&gt;为了与未采用区块链相关技术的 Web 关联产品与行业划清界限，将它们称作「Web2」。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;本文从个人的经历与理解出发，述说了去中心化的缘由与底层逻辑，并试图解释了「Web X.0」和「WebX」这两种对 Web 分期断代形式的含义。&lt;/p&gt;
+
+&lt;p&gt;我致力于探索研究面向个人与家庭去中心化及数智化的解决方案，从这个角度看无论是 Tim Berners-Lee 的「Web 3.0」还是「Web3」都无所谓；但若考虑到我的职业发展，那就唯有「Web3」。&lt;/p&gt;
+
+&lt;p&gt;Web3 是个黑暗森林，到处潜伏着对自己资产虎视眈眈的人，需要无时无刻地提高警惕，谨慎对待一切，才能保全自己——这就是无监管的弊端，想要自由的代价！&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="individual-centered-service" /><category term="decentralization" /><category term="web-3" /><summary>听到「Web3」这个词，你会作何反应？</summary></entry><entry><title>Web2 终是末路，Web3 才是归宿：拥抱 Web3</title><link href="https://ourai.ws/posts/web3-is-the-future-for-frontend-engineers-part-2/" rel="alternate" type="text/html" title="Web2 终是末路，Web3 才是归宿：拥抱 Web3" /><published>2024-08-24T14:50:55+08:00</published><updated>2024-08-24T14:50:55+08:00</updated><id>https://ourai.ws/posts/web3-is-the-future-for-frontend-engineers-part-2</id><content type="html" xml:base="https://ourai.ws/posts/web3-is-the-future-for-frontend-engineers-part-2/">&lt;p&gt;在上篇文章《&lt;a href=&quot;/posts/web3-is-the-future-for-frontend-engineers-part-1/&quot;&gt;Web2 终是末路，Web3 才是归宿：接触 Web3&lt;/a&gt;》中，我大致回顾了借由「&lt;a href=&quot;https://openbuild.xyz/learn/challenges/2036589711&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Web3 前端训练营&lt;/a&gt;」向 Web3 全栈工程师转型的学习经历。&lt;/p&gt;
+
+&lt;p&gt;在训练营刚开始的那段时间，常会看见有人问：「学完能找到 Web3 的工作吗？」更有甚者，会抱着传统思维想要找稳定的 Web3 工作……&lt;/p&gt;
+
+&lt;p&gt;从我当前的了解来看，Web3 行业是变化莫测、相当动荡的，不存在「稳定」一说，某个项目一夜之间就消失不见了也很正常；硬要说的话，可能交易所算是相对稳定的。&lt;/p&gt;
+
+&lt;p&gt;所以说，想入 Web3 这行，必须接受工作的不稳定性，大力地拥抱不确定性——让自己变得富有弹性、灵活性，能够快速且高效地学习新知识，以应对不断的变化。&lt;/p&gt;
+
+&lt;p&gt;对于自称「独立开发者」的我来说，自然不会将收入锁死在「打工（找工作）」这一个选项上，而是要丰富其多样性。&lt;/p&gt;
+
+&lt;p&gt;除了《&lt;a href=&quot;/posts/indie-developer-is-your-final-destination/&quot;&gt;开发者，独立吧！&lt;/a&gt;》中「老生常谈」的那些之外，在 Web3 圈子里又多了「赏金任务」和「黑客松」这俩别具风味的——当个「赏金猎人」也很不错！&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;黑客松的体验&lt;/h2&gt;
+
+&lt;p&gt;作为在国内 Web3 开发者圈子里也算有些影响力的 OpenBuild，不算「Web3 前端训练营」还组织了很多活动，包括刚刚结束的「&lt;a href=&quot;https://www.ethshenzhen.org/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;ETH Shenzhen&lt;/a&gt;」。&lt;/p&gt;
+
+&lt;p&gt;这届「ETH Shenzhen」包含两部分：分享与圆桌会议；黑客松比赛。其中，黑客松参赛队伍若未获奖，广东省外的会有差旅补助。&lt;/p&gt;
+
+&lt;p&gt;在大会开始的半个月前，有个&lt;a href=&quot;https://mp.weixin.qq.com/s/vGib0EZih8lV08Vmlw_Fpw&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;训练营学员专属的线上黑客松&lt;/a&gt;，实际可以认为是与「ETH Shenzhen Hackathon」进行联动的环节，两者可用同一个项目，于是我就顺势都参加了。&lt;/p&gt;
+
+&lt;p&gt;在参加训练营之前，我就有了以自身为中心社区化发展成为类 DAO 组织的想法；训练营学习中做 NFT market 时，让我觉得那个想法具备一定可行性。&lt;/p&gt;
+
+&lt;p&gt;那不如借助参加黑客松这个机会，使其更为具像化一些，作为参赛项目，日后成为我「互联网自由宣言」阵营的另一个作品！&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;参赛项目介绍&lt;/h3&gt;
+
+&lt;p&gt;经过一天左右的思索，我确立了项目的名字与定位——&lt;/p&gt;
+
+&lt;p&gt;中文名为「吾界」，英文则是「Selfverse」，它们都表达了同一个意思——「（自）我」就是「世界」或「宇宙」本身。&lt;/p&gt;
+
+&lt;p&gt;我们所看到的世界，是内心世界的呈现；若想活得精彩，就得先丰富充盈自己的精神，以形成较为健全的、体系化的、内外循环的「生态系统」。&lt;/p&gt;
+
+&lt;p&gt;真实、完整的「自我」往往隐藏得很深，与他人进行交互的是经过层层过滤且一定程度上粉饰过的「人格面具」。&lt;/p&gt;
+
+&lt;p&gt;这在现实生活中自不用说，即便互联网有匿名性的特点，绝大部分人也不得不或多或少地遵守人际交往中的那些「潜规则」。&lt;/p&gt;
+
+&lt;p&gt;当下的日常生活越来越离不开互联网，很多人需要在网上维持相对稳定的「人格面具」，尤其是借助于数字手段靠它维生甚至致富的人，像自由职业者、独立黑客、数字游民等等。&lt;/p&gt;
+
+&lt;p&gt;有些流行的、更通俗易懂点的词可以把「人格面具」给换掉——人设、影响力、个人品牌、超级个体……&lt;/p&gt;
+
+&lt;p&gt;定位是提供一系列工具作为基础设施帮助有需要的人更轻松地打造「人格面具」，并促进加强人与人之间「连接」的紧密性。&lt;/p&gt;
+
+&lt;p&gt;用不拘泥于区块链的去中心化技术，以去中心化的方式为使用者解决问题，将部署、托管、管理等使用层面的选择权交给他们。&lt;/p&gt;
+
+&lt;p&gt;本项目为我设想中的「面向个人与家庭去中心化及数智化方案」的重要一环，未来会与 &lt;a href=&quot;/projects/linxoid/&quot;&gt;LinXoid&lt;/a&gt; 及 &lt;a href=&quot;https://knosysio.github.io/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;KnoSys&lt;/a&gt; 进行深度整合。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;线上黑客松&lt;/h3&gt;
+
+&lt;p&gt;训练营线上黑客松的比赛时间虽写着是 8 月 1 日到 10 日，但宣发时 1 日这天基本已经结束，并且要在 10 日下午 2 点前提交，因而实际开发时间很可能不足 8 天。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20240824/web3-frontend-hackathon-e1db149854d899c344bf68fbdaae70ff984df0dff20c3b7fd3f9282017cb30bc.jpg&quot; alt=&quot;「Web3 前端训练营线上黑客松」宣传图&quot; /&gt;
+  &lt;figcaption&gt;「Web3 前端训练营线上黑客松」宣传图&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;具体到我身上的话，是 3 日中午开始进入开发，先写支持 RBAC 的智能合约，于 5 日单元测试通过；从 6 日起编写前端界面，本以为两天就可搞定，结果没想到是我低估了角色权限控制相关处理的复杂度，最终在 9 日下午联调完成。&lt;/p&gt;
+
+&lt;p&gt;接着就是准备项目的介绍材料，并&lt;a href=&quot;https://github.com/openbuildxyz/Web3-Frontend-Bootcamp/pull/1369&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;以 PR 的形式提交到训练营 GitHub 仓库&lt;/a&gt;中，时间十分紧迫！&lt;/p&gt;
+
+&lt;p&gt;由于我的项目想法太大，在如此短暂的时间内实现全部已有构思是不可能的，所以只能先做一小部分功能：&lt;/p&gt;
+
+&lt;div class=&quot;Video Video--bilibili&quot;&gt;
+  &lt;iframe src=&quot;//player.bilibili.com/player.html?aid=112932491104148&amp;amp;high_quality=1&amp;amp;autoplay=0&amp;amp;bvid=BV1Z3YuecEgX&amp;amp;cid=500001643930957&amp;amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;为了节约开发时间，前端 UI 组件库我选择的是用起来比较熟悉的 Ant Design 与 Ant Design Web3，并且用 Vite 部署为纯前端单页面应用。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;线下黑客松&lt;/h3&gt;
+
+&lt;p&gt;虽说「ETH Shenzhen Hackathon」可在线上参与，但最好还是到线下场所去，会有很多不一样的感受。&lt;/p&gt;
+
+&lt;p&gt;这个黑客松于 8 月 16 日下午至 18 日晚上在深圳举行，我需要乘飞机前往，为提高容错性而买了 15 日航班的机票。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20240824/eth-shenzhen-poster-199521d232eb6f004ac93abc24806968b1652c3ea5412bafa5af8c8ed2ad19c0.jpg&quot; alt=&quot;「ETH Shenzhen Hackathon」宣传图&quot; /&gt;
+  &lt;figcaption&gt;「ETH Shenzhen Hackathon」宣传图&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;16 日的第一个环节是黑客松参赛人员签到，会得到专属纸制腕环以区分身份；在 X 上完成互动还有含文化衫、帽子、袋子等的「大礼包」可拿，与训练营时收到的完全不同，全新设计！&lt;/p&gt;
+
+&lt;p&gt;然后是接连几个赞助方的工作坊——开场的那个可能是准备不够充分，秀了一波现场 debug 技能，导致没有顺利讲完；忘记是在第二个还是第三个时，我离场去写自己项目代码了。&lt;/p&gt;
+
+&lt;p&gt;要是看了上文中的视频，可以发现付费作品只是个空壳子，并没有实际内容，就像买了本只有封皮而无内页的书一样——参赛这几天主要就是解决这个问题。&lt;/p&gt;
+
+&lt;p&gt;为此，我要做如下处理：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;增加文章模块，站长新增、编辑和发布，访客浏览与打赏；&lt;/li&gt;
+  &lt;li&gt;改造付费作品模块，站长将文章作为章节与其关联，访客能看到目录并查看实际内容；&lt;/li&gt;
+  &lt;li&gt;增加基金模块，在背后统一控制付费和打赏的资金流转，以将其集中在同个智能合约中；&lt;/li&gt;
+  &lt;li&gt;增加访客独有的个人中心，可查看自己的付费与打赏记录。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;我先把相较简单的访客个人中心给做了，因觉得用户标识只用钱包地址的话会显得过于苍白、单调，就加入了像 MetaMask 那样根据地址生成的 Jazzicon，并将所有头像都改成这个。&lt;/p&gt;
+
+&lt;p&gt;接下来，把之前已经想了一些逻辑的代币基金、系统设置、用户登记等智能合约代码给写写完，就差不多到破冰派对环节了。&lt;/p&gt;
+
+&lt;p&gt;主办方点了烤串、披萨、炸鸡、啤酒、汽水等外卖到会场，看到吃的喝的大家都一拥而上，很快就分完，也顾不上聊什么天——看来都饿坏了……&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20240824/hackers-party-ec953adeb850cac965dcec078330e1f91d133eebaeeabe8b690d21e2b43333f2.png&quot; alt=&quot;Hackers&#39; Party&quot; /&gt;
+  &lt;figcaption&gt;Hackers&#39; Party&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;这一天我轻微地 social 了下，有在杭州就已见面交流过的，也有事先在网上建立了一定程度的连接，这次是首次面基的。&lt;/p&gt;
+
+&lt;p&gt;回到酒店后比较晚了，我项目的这个版本还是有些开发工作量的，时间较为紧张；鉴于我不想准备路演用的屁屁踢，这两天必须得开发完毕——我决定码力全开熬夜干！&lt;/p&gt;
+
+&lt;p&gt;听着许巍、BIGBANG 等人的歌，把文章智能合约写完以及与资金流转相关的部分智能合约调整好没问题之后我就睡觉了，那时马上凌晨 4 点。&lt;/p&gt;
+
+&lt;p&gt;后两天的流程大体相似：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;不到 9 点抵达会场，签到后转悠一圈就去 coding 区域赶项目代码；&lt;/li&gt;
+  &lt;li&gt;中午就吃主办方提供的盒饭，都带汤，也都有牛肉；&lt;/li&gt;
+  &lt;li&gt;下午做些与项目相关的事情，或是撸码，或是讲解；&lt;/li&gt;
+  &lt;li&gt;晚上参加主办方组织的聚餐，切换到 social 模式。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;那些嘉宾的分享我几乎没去听，而是全力备战最后一天下午的路演，为此我 17 日晚上真的通宵达旦，总算把剩余功能基本都搞定，这下可以安心了！&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20240824/coding-for-selfverse-5c64b91367e0742da25bc67af402db1bea4e00711c55d1f1cd86b59397004aea.jpg&quot; alt=&quot;在 coding 区域备战&quot; /&gt;
+  &lt;figcaption&gt;在 coding 区域备战&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;到了 18 日，把项目收收尾后，我迫不及待地想跟他人分享下自己的项目，于是拎着电脑到前台附近找&lt;a href=&quot;https://mp.weixin.qq.com/s/UrcUT8BAiic9X_OVIlHvfw&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;在做大会志愿者的同为训练营学员兼助教的人&lt;/a&gt;，正好他没在忙。&lt;/p&gt;
+
+&lt;p&gt;我坐在他旁边，边用电脑演示边讲解功能，还说了一些较为远期的构想，如：把自己作为价值承载物吸引他人投资，向投资者发放代币以证明其权益，日后达成某（些）条件时可获得回报。&lt;/p&gt;
+
+&lt;p&gt;这是我第一次这么详细地向别人介绍我的项目，在说的时候心中有种激动之情；他有认真地听我在那「吹牛逼」，不仅说出了自己的理解，还给了一些建议。&lt;/p&gt;
+
+&lt;p&gt;终于到了路演环节，大概 30 来个参赛项目，给每个项目 10 分钟，全部搞完再算上中断休息等时间，总共要奔 5、6 个小时去——我是第 10 个。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20240824/hackathon-projects-997051035df839a4388ccd22fbe1afb242295d432bf53e31222b645265546f24.png&quot; alt=&quot;路演时间表&quot; /&gt;
+  &lt;figcaption&gt;路演时间表&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;由于我的项目要演示完整功能流程的话，无法 10 分钟内完成，就在到我之前先把初始化配置弄好，演示用数据加好，以节省上台后的时间。&lt;/p&gt;
+
+&lt;p&gt;在我正式路演时，几乎没有再做什么数据变更操作，而是对着已添加好数据的网页介绍；仅仅这些就已经差不多把时间占满，只给评委留出提两个问题的余地……&lt;/p&gt;
+
+&lt;p&gt;要问我上台紧张吗？意识层面的回答是「不」，并没有心里忐忑等感受，可能是做自媒体拍 vlog 锻炼出来了；但我身体好像不这么觉得，还没说几句话声音就开始颤抖了，后面我一直在调节控制。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20240824/roadshow-8d5273b1faaf2cf633e32877017f4237ad498875eb082e72bbfac2bb15303379.jpg&quot; alt=&quot;我在路演&quot; /&gt;
+  &lt;figcaption&gt;我在路演&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;我项目所参加的主赛道是「开源工具与基础设施」，使用方式有点类似于 WordPress；并且项目背后的理念和设想自认为比较新颖，需要对潜在用户进行长期教育与培养，因此暂无商业化的想法。&lt;/p&gt;
+
+&lt;p&gt;然而，纵然我已事先声明，评委依然问出了相关问题，这令我有些尴尬，不知该怎样回答他们……&lt;/p&gt;
+
+&lt;p&gt;黑客松结束了，晚上放松地与 OpenBuild 及训练营的小伙伴们一起吃了这趟深圳之旅的最后一顿晚餐，次日我就乘飞机回杭州了。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;黑客松的感想&lt;/h2&gt;
+
+&lt;p&gt;我认为自己的路演是失败的，感觉获奖的希望极其渺茫，只要不是 0 分，就是对我最大的认可！&lt;/p&gt;
+
+&lt;p&gt;虽说在 10 分钟内说清楚我的项目是办不到的，但这不能作推脱的说辞，尚有很多改进空间，如：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;即使功能已经做得相对完整，只有应用演示的话还是不够，屁屁踢不可或缺；&lt;/li&gt;
+  &lt;li&gt;说话的语速有点慢，表达过程没什么节奏可言，在我后面有两个连着的项目让我听得酣畅淋漓，十分享受，要向他们学习；&lt;/li&gt;
+  &lt;li&gt;在路演前的那些时间里多跟评委接触，多介绍下自己的项目，这就相当于延长了自己路演的时间。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这下我领悟到了，打黑客松也是在下一盘棋——整场比赛中，给开发、路演材料准备、social 之类的时间占比如何分配，这会影响到实际工作量与 social 对象等的设计与安排，从而影响获奖概率。&lt;/p&gt;
+
+&lt;p&gt;黑客松于我而言有两种意义：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;做自己的项目时如同创业，那些评委就像是投资机构的，得通过优雅的表达打动他们，获得奖金就是拿到投资了；&lt;/li&gt;
+  &lt;li&gt;做他人的项目时就算是个赏金任务，用自己的专业能力助其获奖并瓜分奖金作为报酬，只不过对做赏金任务来说，这报酬有更高的不确定性。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;除了写代码，这几天我在 social 上也比往日投入了更多精力，以前我在线下是不太爱说话的，主要是在听别人说；而这次我不仅较积极地被动式交流，也会主动去跟别人说话，包括完全陌生的人。&lt;/p&gt;
+
+&lt;p&gt;但还是有所不足，因为我 social 的对象基本都是之前已经有一定联系的了，「全新」的极少极少。&lt;/p&gt;
+
+&lt;p&gt;像这类技术性活动很多技术人会有个误区——为学习技术而参加——抱有这种想法的人，最终大概率会失望而归。&lt;/p&gt;
+
+&lt;p&gt;以前我就是这种人之一，在 2017 年前总会参加各类技术性活动，但很少使我有「学到了」的感觉，大多时候是「不过如此」，因而直到今年之前我就没再参加过。&lt;/p&gt;
+
+&lt;p&gt;如今我的看法改变了，参加活动更重要的是了解业界动态，与他人交流并建立深度连接，进而寻觅合作的可能性——这些是对自称「独立开发者」的我来说提高事业成功率的关键。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-5&quot;&gt;总结&lt;/h2&gt;
+
+&lt;p&gt;至此，我这 3 个月左右的从传统互联网行业 Web 前端工程师向 Web3 行业全栈工程师转型的初期阶段经历总结就结束了。&lt;/p&gt;
+
+&lt;p&gt;对我来说，由于有丰富的知识与经验所形成的抽象模型网络在背后做支撑，转型从技术层面讲难度不算大，稍有难度的是从庞杂的区块链体系和多变的 Web3 行业中提炼出较为稳固的模型，并积累有价值的项目经验。&lt;/p&gt;
+
+&lt;p&gt;要入 Web3 这行，就得在思想上坚定地撕下「稳定」这块狗皮膏药，「灵活」及「高效」才是自己最大且最强的武器！&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="frontend-engineer" /><category term="job" /><category term="web-3" /><category term="openbuild" /><summary>在上篇文章《Web2 终是末路，Web3 才是归宿：接触 Web3》中，我大致回顾了借由「Web3 前端训练营」向 Web3 全栈工程师转型的学习经历。</summary></entry><entry><title>Web2 终是末路，Web3 才是归宿：接触 Web3</title><link href="https://ourai.ws/posts/web3-is-the-future-for-frontend-engineers-part-1/" rel="alternate" type="text/html" title="Web2 终是末路，Web3 才是归宿：接触 Web3" /><published>2024-08-22T22:17:14+08:00</published><updated>2024-08-22T22:17:14+08:00</updated><id>https://ourai.ws/posts/web3-is-the-future-for-frontend-engineers-part-1</id><content type="html" xml:base="https://ourai.ws/posts/web3-is-the-future-for-frontend-engineers-part-1/">&lt;p&gt;今年 4 月时，可能是「金三银四」的关系，经常会看到有前端同行在聊找工作的事情，在那烦恼去啥样的公司比较好，也在为工作的稳定性和前景等而不知所措。&lt;/p&gt;
+
+&lt;p&gt;对于自以为「看透一切」的我而言，认为他们只要没跳脱出原来的维度，不管做什么选择都将会迎来同样的结果；然而，无论我如何解释局限性，他们都无动于衷，真令我着急！&lt;/p&gt;
+
+&lt;p&gt;于是乎，我心累地写下《&lt;a href=&quot;/posts/the-last-advice-to-frontend-engineers/&quot;&gt;对前端同行的最后一次劝诫&lt;/a&gt;》，并决定再也不「多管闲事」地试图拉那些要往火坑里跳的人一把——放下助人情结，尊重他人命运。&lt;/p&gt;
+
+&lt;p&gt;虽说我坚定地认为前端原有路线是走不通的了，但该怎样相对平滑地切换到另一条看似可行的路线，当时的我也是心里没数。&lt;/p&gt;
+
+&lt;p&gt;直到 5 月中，我在折腾家庭数据中心时可能是在想去中心化相关问题，突然脑中蹦出个词——Web3——为我指明了那条较平滑切换的路线。&lt;/p&gt;
+
+&lt;h2 id=&quot;web3&quot;&gt;接触 Web3&lt;/h2&gt;
+
+&lt;p&gt;关于「Web3」，在 5 月 14 日之前也只是听了听，基本只知道有这么回事，没去真的了解过。&lt;/p&gt;
+
+&lt;p&gt;可当我在那天安装 MetaMask 体验了几个 dApp 并初步了解了生态之后，觉得 Web3 这个方向成长空间很大，很有前景——&lt;/p&gt;
+
+&lt;p&gt;面向个人用户的 dApp 那么少，用户体验又那么烂，基础设施体系也尚未成熟，当然「成长空间」很大啦！😂😂😂&lt;/p&gt;
+
+&lt;p&gt;提到「Web3」，就会想到另一个与之密切相关的词——「DAO」，即「去中心化自治组织」——是种看上去很符合我理想中样子的组织形态。&lt;/p&gt;
+
+&lt;p&gt;理所当然地，我立即申请并加入了一个由国人发起且与我理想相匹配的 DAO。&lt;/p&gt;
+
+&lt;p&gt;在快月末时，那个 DAO 的主理人在群里转发了由 OpenBuild 组织的「&lt;a href=&quot;https://openbuild.xyz/learn/challenges/2036589711&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Web3 前端训练营&lt;/a&gt;」，不仅能学到转型为 Web3 全栈开发所需的知识与技能，还是免费学，另有各种奖励，我实在是找不到不报名的理由!&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;训练营的学习&lt;/h3&gt;
+
+&lt;p&gt;该训练营从 6 月 4 日开始，完全在线上进行，且除了答疑环节之外都是异步的，无论是教学的或是学习的都有很大的自由空间，可自主安排时间。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20240822/web3-frontend-bootcamp-2a7bd7d4f9c0589df13e5972810950e13004b0a29a8a9402d7af2e294b393e66.png&quot; alt=&quot;「Web3 前端训练营」宣传图&quot; /&gt;
+  &lt;figcaption&gt;「Web3 前端训练营」宣传图&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;整体的定位与设计更倾向于「帮助有经验的 Web2 前端转型为 Web3 前端」，包含 6 节基础课与 3 节进阶课：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;基础课程——开发一个基于 EVM 的 dApp 所要掌握的基本要素，并用较常见的项目类型 NFT market 和 DEX 作为实战练习；&lt;/li&gt;
+  &lt;li&gt;进阶课程——推广利益相关方的产品，顺便帮助想要入行的开发者尽早适应目前行业的多变。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;每节课都有相应的课后作业，做好后需在&lt;a href=&quot;https://github.com/openbuildxyz/Web3-Frontend-Bootcamp&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;配套的 GitHub 仓库&lt;/a&gt;中提交 PR 等待审核人员查看；在 7 月 16 日之前提交的能获得奖励，最高可达 43 USDT。&lt;/p&gt;
+
+&lt;p&gt;若是在学习与做课后作业过程中遇到问题，还有训练营专属群供大家实时地探讨交流，在互助式学习的同时也起到互相监督的作用。&lt;/p&gt;
+
+&lt;p&gt;不只做课后作业有奖励，写出好的学习笔记以及为训练营做出其他贡献都会有奖励，不过同样仅限于 7 月 16 日之前——作为活跃的积极分子，我自然都拿到啦～😎😎😎&lt;/p&gt;
+
+&lt;p&gt;即便现在已经没奖励了，但要是想向 Web3 转型，这个训练营的课程还是值得一看的；最好是照样跟着做课后作业，我身为审核人员之一会尽可能去批改。&lt;/p&gt;
+
+&lt;p&gt;关于我在参加训练营时的更多体验，详见学习笔记《&lt;a href=&quot;https://s.ourai.ws/notes/how-to-build-a-dapp-as-a-smart-contract-newbie/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;智能合约纯小白是如何完成自己的第一个 dApp——NFT market？&lt;/a&gt;》和《&lt;a href=&quot;https://s.ourai.ws/notes/openbuild-web3-frontend-bootcamp-review/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;OpenBuild Web3 前端训练营复盘&lt;/a&gt;》。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;训练营的收获&lt;/h3&gt;
+
+&lt;p&gt;这一个多月的训练营经历对我起到了较大影响，算是我人生中的一个里程碑，因为多个角度的收益看起来还不错——&lt;/p&gt;
+
+&lt;p&gt;最基本也是最重要的，达成了报名参加训练营的最初目的——转型为 Web3 全栈开发——虽然还只是刚迈进门槛，但已能够独立开发完整的 dApp，为接下来参加黑客松打下基础。&lt;/p&gt;
+
+&lt;p&gt;由于在学习过程中积极地在群里与他人交流，并时不时给主办方提建议，我被吸收进「助教」队伍，帮助审核课后作业。&lt;/p&gt;
+
+&lt;p&gt;此后，我又「拼命」审核并合并了好几百个 PR，间接教导了一部分人使用 Git 的技巧以及进行开源协作时的注意事项。&lt;/p&gt;
+
+&lt;p&gt;鉴于我较为突出的表现，算上做课后作业和写学习笔记的奖励，最终在结营时获得了 500 多 USDT，应该是最多的了。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20240822/excellent-teaching-assistants-b5c69855be7bc78e62b351493eae6eb1427e919902075413efa592c6629a3bcb.jpg&quot; alt=&quot;「Web3 前端训练营」优秀助教学员&quot; /&gt;
+  &lt;figcaption&gt;「Web3 前端训练营」优秀助教学员&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;我在训练营期间的活跃产生了些许影响力，与其他人建立了连接并逐渐熟络起来，包括主办方 OpenBuild 的创始人。&lt;/p&gt;
+
+&lt;p&gt;以这次的训练营为引子，我向 OpenBuild 提了些比较系统性的改进建议，也轻微地畅想了下其未来的发展方向；也许是看我有心携手共进，被拉进到 PMC 当中了。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20240822/eth-shenzhen-dinner-ec01c161302cbd405c47833ea924d635a4d612af93f0be06e77254e70fb45f20.jpg&quot; alt=&quot;「OpenBuild PMC」成员&quot; /&gt;
+  &lt;figcaption&gt;「OpenBuild PMC」成员&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;经过多次沟通交流，至少我认为与 OpenBuild 之间可建立一种深度合作关系——形式上相互独立，实际上却又紧密相连。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;小结&lt;/h2&gt;
+
+&lt;p&gt;作为一名摸爬滚打十多年的 Web 前端工程师，坚决不看好传统互联网行业的 Web 前端开发前景；机缘巧合之下，让我发觉 Web3 这个能最大限度平滑迁移的行业。&lt;/p&gt;
+
+&lt;p&gt;自那之后，我果断决定向 Web3 全栈开发转型，即除了原本的 Web 前端知识与技能外，还需学习并掌握智能合约开发，在此基础上积累相关项目经验。&lt;/p&gt;
+
+&lt;p&gt;通过深入参与由 OpenBuild 组织的「Web3 前端训练营」，我不仅达到了「转型」这个最基本的目的，还得到了很多额外的收获，正反馈十分充足！&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="frontend-engineer" /><category term="job" /><category term="web-3" /><category term="openbuild" /><summary>今年 4 月时，可能是「金三银四」的关系，经常会看到有前端同行在聊找工作的事情，在那烦恼去啥样的公司比较好，也在为工作的稳定性和前景等而不知所措。</summary></entry><entry><title>为深入数字生活做准备</title><link href="https://ourai.ws/posts/prepare-for-a-deeper-digital-life/" rel="alternate" type="text/html" title="为深入数字生活做准备" /><published>2024-05-20T12:01:03+08:00</published><updated>2024-05-20T12:01:03+08:00</updated><id>https://ourai.ws/posts/prepare-for-a-deeper-digital-life</id><content type="html" xml:base="https://ourai.ws/posts/prepare-for-a-deeper-digital-life/">&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;破局之路&lt;/a&gt;」的第 22 篇正式文章，主要讲述以下内容：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;基于 Apple 生态初步搭建了家庭数据中心；&lt;/li&gt;
+  &lt;li&gt;对 Web3 的理解及为啥要向它转型；&lt;/li&gt;
+  &lt;li&gt;加入 DAO 了。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://www.yuque.com/ourai/kqx2ue/vtibiln2fsufdcph&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;语雀&lt;/a&gt;、&lt;a href=&quot;https://xiaobot.net/post/f5a55b60-578c-4e15-891e-96e944bd08bc&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/ThE-8anYEviyq5obauHB2Q&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="life-hacking" /><category term="lifestyle" /><category term="decentralization" /><category term="web-3" /><summary>本文是付费文章系列「破局之路」的第 22 篇正式文章，主要讲述以下内容：</summary></entry><entry><title>向着开放与智能的生活</title><link href="https://ourai.ws/posts/toward-open-and-intelligent-life/" rel="alternate" type="text/html" title="向着开放与智能的生活" /><published>2024-04-21T16:58:16+08:00</published><updated>2024-04-21T16:58:16+08:00</updated><id>https://ourai.ws/posts/toward-open-and-intelligent-life</id><content type="html" xml:base="https://ourai.ws/posts/toward-open-and-intelligent-life/">&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;破局之路&lt;/a&gt;」的第 21 篇正式文章，主要讲述以下内容：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;从做 Nop 官网这件事中我收获了啥；&lt;/li&gt;
+  &lt;li&gt;「开放生活实验」对我的意义是什么。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://www.yuque.com/ourai/kqx2ue/qkk5lemgcr66q1p7&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;语雀&lt;/a&gt;、&lt;a href=&quot;https://xiaobot.net/post/7b20a627-b40b-4436-a495-5dc1e4f92e8a&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/S7UjLkE_uKjXeQHqH-IJDw&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="nop-platform" /><summary>本文是付费文章系列「破局之路」的第 21 篇正式文章，主要讲述以下内容：</summary></entry></feed>

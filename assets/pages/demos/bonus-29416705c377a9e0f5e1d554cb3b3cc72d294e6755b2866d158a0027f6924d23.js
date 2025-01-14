@@ -1,0 +1,1 @@
+(function(){var n;n=function(n){var a;return a="bonus"+n,'<li><input id="'+a+'" type="checkbox" name="bonus"><label for="'+a+'"><span class="Bonus-bag"></span><span class="Bonus-coupon">'+a+"</span></label></li>"},$(document).ready(function(){var a;return $(".Bonus-list").append(function(){var s,u;for(u=[],a=s=1;9>=s;a=++s)u.push(n(a));return u}())})}).call(this);
