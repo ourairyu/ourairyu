@@ -9,8 +9,8 @@
     <description>记录一下生活及工作中所经历的杂七杂八，顺便吐吐槽、卖卖萌、装装逼 ;-P</description>
     <link>https://ourai.ws/categories/life/</link>
     <atom:link href="https://ourai.ws/categories/life/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Feb 2025 22:13:54 +0800</pubDate>
-    <lastBuildDate>Sun, 16 Feb 2025 22:13:54 +0800</lastBuildDate>
+    <pubDate>Sun, 16 Feb 2025 22:23:34 +0800</pubDate>
+    <lastBuildDate>Sun, 16 Feb 2025 22:23:34 +0800</lastBuildDate>
     <language>zh-CN</language>
     <generator>Jekyll v3.0.3</generator>
     
@@ -185,7 +185,7 @@
 &lt;p&gt;考试前的几个小时，我在考场附近的安静角落里看看书，背背公式，临时抱下佛脚，最终只有语文和英语过了及格线：&lt;/p&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/202500216/college-entrance-examination-transcript&#39; | asset_path }}&quot; alt=&quot;高考成绩单&quot; /&gt;
+  &lt;img src=&quot;{{ &#39;posts/20250216/college-entrance-examination-transcript&#39; | asset_path }}&quot; alt=&quot;高考成绩单&quot; /&gt;
   &lt;figcaption&gt;高考成绩单&lt;/figcaption&gt;
 &lt;/figure&gt;
 
