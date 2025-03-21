@@ -1,4 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator><link href="https://ourai.ws/atom.xml" rel="self" type="application/atom+xml" /><link href="https://ourai.ws/" rel="alternate" type="text/html" /><updated>2025-03-19T15:53:50+08:00</updated><id>https://ourai.ws/</id><title>欧雷流</title><subtitle>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</subtitle><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><entry><title>野蛮生长廿二年</title><link href="https://ourai.ws/posts/twenty-two-years-of-wild-growth/" rel="alternate" type="text/html" title="野蛮生长廿二年" /><published>2025-02-16T21:55:57+08:00</published><updated>2025-02-16T21:55:57+08:00</updated><id>https://ourai.ws/posts/twenty-two-years-of-wild-growth</id><content type="html" xml:base="https://ourai.ws/posts/twenty-two-years-of-wild-growth/">&lt;p&gt;作为在东北出生长大的 85 后，我「理所当然」是个独生子，从没体会过也无法理解有亲生兄弟姐妹是怎样一种感觉。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator><link href="https://ourai.ws/atom.xml" rel="self" type="application/atom+xml" /><link href="https://ourai.ws/" rel="alternate" type="text/html" /><updated>2025-03-21T23:03:28+08:00</updated><id>https://ourai.ws/</id><title>欧雷流</title><subtitle>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</subtitle><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><entry><title>纯「牛马」的逻辑玩儿不转了！</title><link href="https://ourai.ws/posts/it-is-over-for-workers/" rel="alternate" type="text/html" title="纯「牛马」的逻辑玩儿不转了！" /><published>2025-03-21T22:35:59+08:00</published><updated>2025-03-21T22:35:59+08:00</updated><id>https://ourai.ws/posts/it-is-over-for-workers</id><content type="html" xml:base="https://ourai.ws/posts/it-is-over-for-workers/">&lt;p&gt;又在微信群里被「声讨」了，距离&lt;a href=&quot;/posts/shut-my-fuck-up/&quot;&gt;上次这等待遇&lt;/a&gt;也过去一段时间了，让人有点「怀念」呢～（别瞎想，我不是字母！）&lt;/p&gt;
+
+&lt;p&gt;我想此刻趁这心情还未消散殆尽，把近期一直想说但没说的话先说一遍，也暂时不管它是否严谨了，看完想吐槽就尽管来吧！&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;麻木的纯「牛马」们&lt;/h2&gt;
+
+&lt;p&gt;在 2022 年 11 月末，ChatGPT 的横空出世拉开了 AI 时代的帷幕，迄今为止两年多过去了，相关基础设施和上层应用已经涌现并迭代了很多版本。&lt;/p&gt;
+
+&lt;p&gt;在这期间，很多人都至少听说过几个 AI 产品的名字，其中的一些人已经体验到了它们的威力/魅力，只要这些人没抱有不切实际的幻想，一定会被震惊/惊艳到。&lt;/p&gt;
+
+&lt;p&gt;那么，这些人中，尤其是与互联网相关的从业者，有几人能拍着胸脯说自己以往的工作内容绝大部分是无法被 AI 所胜任的？就算此时此刻不行，时间放宽到再过三年内呢？&lt;/p&gt;
+
+&lt;p&gt;这时，有初生牛犊不怕虎的年轻人想要出来理论理论：「切！你这说的是那些工作好几年的老哔登，我们可是刚/快毕业的祖国花朵儿，我们听话耐造，分分钟就把他们挤跑！」&lt;/p&gt;
+
+&lt;p&gt;临了，还不忘狂拽炫酷地补上一句：「年轻就是资本！知道不？！」&lt;/p&gt;
+
+&lt;p&gt;诶？要这么说的话，我倒是有几点好奇：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;只要能正确描述问题并下达命令/指令，年轻人比 AI 还听话吗？&lt;/li&gt;
+  &lt;li&gt;能让 AI 进行 7 * 24 待命工作而无甚其他风险，年轻人比这还耐造？&lt;/li&gt;
+  &lt;li&gt;这语境下，「年轻」是啥「资本」？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在我看来，认为自己在纯知识性工作上能够安稳生存的人，有些过于盲目自信了；而仍在用前 AI 时代的思维方式应对当下问题的人，要么是思维懒惰，要么就是装瞎。&lt;/p&gt;
+
+&lt;p&gt;人类理解和解决问题的基本素材是知识，它们主要来源于（电子）书籍和网上的论文、博文、帖子、问答等——这对 AI 来说也是一样，训练模型用的就是这些（较）高质量的数据。&lt;/p&gt;
+
+&lt;p&gt;然而，与人类不同的是，模型训练过的最终结果理论上是永久可持续的——知识量可以无限大，「记忆力」可以无限长。&lt;/p&gt;
+
+&lt;p&gt;所以，在知识量和「记忆力」上人类拿什么跟 AI 拼？&lt;/p&gt;
+
+&lt;p&gt;如果一个人的「核心竞争力」就是背「八股文」和懂一些低成本就能获取的知识，那么为什么不用更低成本的 AI 而选择用那个人？&lt;/p&gt;
+
+&lt;p&gt;很多人就连被某些人认为是人类优势的逻辑推理和知识综合运用能力也不如 AI 强，那么为什么不用更低成本的 AI 而选择用那个人？&lt;/p&gt;
+
+&lt;p&gt;实际上，逻辑推理和知识综合运用能力也（会）是 AI 的优势。&lt;/p&gt;
+
+&lt;p&gt;到这，有人又说：「你说的是趋势，大家都懂，但企业招人时面试就是会问『八股文』啊，这是不可避免的现状！」&lt;/p&gt;
+
+&lt;p&gt;我承认面试考「八股文」是现实问题，但在 AI 时代还将「八股文」作为手段，我有两点想说：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;企业经营者角度——估计管理者不太聪明，做事也不太靠谱，想想马斯克刚收购推特时是咋做的；&lt;/li&gt;
+  &lt;li&gt;应聘者角度——这公司管理思想和制度这么落后，去了能有啥切实的成长么，实际时薪会满意么。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;进这种公司，要么它先倒闭，要么自己先被裁，要么受不了自己走——最终都是失业，且职业生涯几乎没啥进展，白白浪费时光。&lt;/p&gt;
+
+&lt;p&gt;纯「牛马」的时间和生命不值钱，无论是对企业还是对自己，纵使「牛马」们极力否认，假装真在乎。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;纯「牛马」蜕变指南&lt;/h2&gt;
+
+&lt;p&gt;难道说，绝大部分人类就这样被同类弄出来的人造物所击溃而一无是处了？！&lt;/p&gt;
+
+&lt;p&gt;如果一个人不把自己当「人」，而是对待「物」一样对待自己，那他必然会被人造物无情地碾压，直至自己悲惨地从这个世上消失——这便是自我物化的结局。&lt;/p&gt;
+
+&lt;p&gt;因此，唯一的转机就是把自己当「人」——做自己想做的事，成为自己想成为的人；工作回归劳动本身的意义，工作就是生活，不与生活相割裂，不需要被平衡。&lt;/p&gt;
+
+&lt;p&gt;把自己当「人」的人，一定是已经创业或在创业路上的人。&lt;/p&gt;
+
+&lt;p&gt;这里的「创业」并非人们普遍理解的纯粹资本运作层面的创业，而是——从事自己的事业，如果没有，那就创造出来！&lt;/p&gt;
+
+&lt;p&gt;这些人，他们即便暂时做着「牛马」，但思维方式上已经不是「牛马」思维，不再是纯「牛马」，早晚会脱离「牛马」行列成为「创业者」，比如&lt;a href=&quot;/posts/indie-developer-is-your-final-destination/&quot;&gt;独立开发者&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;但是，于纯「牛马」而言，转变的难点就在于让他们痛彻心扉醒悟和下定决心改变的契机难以遇到，那么在那之前，不妨考虑下我对于如何在 AI 时代下生存的建议——&lt;/p&gt;
+
+&lt;p&gt;在 AI 时代，解决问题的能力相比前 AI 时代更为重要，并且是深耕某一个领域，或者几个关联性很强的领域，尤其是作为工程师——这既是求职的敲门砖，又是自己创业和谈合作的前提。&lt;/p&gt;
+
+&lt;p&gt;这类能力的重点不是知识，而是自己经历的丰富性，以及从经历中提纯出的经验；在这实践过程中所需要的知识，是来源于自己记忆中的，还是从强有力的 AI 助手中获取的都无所谓。&lt;/p&gt;
+
+&lt;p&gt;而想要丰富自己的经历，就得积极主动地去找能够处理相关领域很多场景问题的机会，如：参与开源项目共建，加入开放性组织进行共创，做某组织或活动之类的志愿者等。&lt;/p&gt;
+
+&lt;p&gt;这些机会，很可能少有或没有经济层面的回报，甚至还可能需要交钱；但这时你要的是经历，比钱更有价值，所以不要那么在意钱。&lt;/p&gt;
+
+&lt;p&gt;有机会了，就应该真的投入很多时间和精力到其中，而非浅尝辄止，否则就是在浪费机会而没获得自己想要的经历，没经历就不会总结出经验和自己独有的知识，更不会领悟智慧。&lt;/p&gt;
+
+&lt;p&gt;只要有所感悟，就记录下来，最好还发布到网上，供他人借鉴，批评和讨论；这会成为成长的见证，也是个人综合能力的证明，还极有可能为自己日后创业积累各类资源。&lt;/p&gt;
+
+&lt;p&gt;时间不嫌早，经历不嫌多——还没毕业，就在不上课时参与；已经毕业了，就尽可能挤出时间参与——直到自己可以创业了为止。&lt;/p&gt;
+
+&lt;p&gt;待到那时，就可以参考我另一篇文章《&lt;a href=&quot;/posts/become-a-super-individual-to-break-through/&quot;&gt;成为「超级个体」，在互联网寒冬与 AI 浪潮中乘风破浪！&lt;/a&gt;》的内容了。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;在 AI 时代，教育和就业逻辑发生了结构性变革，近三五年必定会淘汰掉一大批思维懒惰和装瞎的人，不用抱有侥幸心理。&lt;/p&gt;
+
+&lt;p&gt;你会是其中一员吗？会被痛醒吗？&lt;/p&gt;
+
+&lt;p&gt;另有一「姐妹篇」文章《&lt;a href=&quot;/posts/will-artificial-intelligence-take-our-jobs/&quot;&gt;人工智能会让我们失业吗？&lt;/a&gt;》可做本文观点补充。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="job" /><category term="artificial-intelligence" /><summary>又在微信群里被「声讨」了，距离上次这等待遇也过去一段时间了，让人有点「怀念」呢～（别瞎想，我不是字母！）</summary></entry><entry><title>野蛮生长廿二年</title><link href="https://ourai.ws/posts/twenty-two-years-of-wild-growth/" rel="alternate" type="text/html" title="野蛮生长廿二年" /><published>2025-02-16T21:55:57+08:00</published><updated>2025-02-16T21:55:57+08:00</updated><id>https://ourai.ws/posts/twenty-two-years-of-wild-growth</id><content type="html" xml:base="https://ourai.ws/posts/twenty-two-years-of-wild-growth/">&lt;p&gt;作为在东北出生长大的 85 后，我「理所当然」是个独生子，从没体会过也无法理解有亲生兄弟姐妹是怎样一种感觉。&lt;/p&gt;
 
 &lt;p&gt;我不仅是独生子，还是家族里唯一的孙子，可是爷奶在我还未出生时就已过世，从没体会过也无法理解有爷奶疼爱是怎样一种感觉。&lt;/p&gt;
 
@@ -1326,88 +1415,4 @@
 
 &lt;p&gt;对我来说，由于有丰富的知识与经验所形成的抽象模型网络在背后做支撑，转型从技术层面讲难度不算大，稍有难度的是从庞杂的区块链体系和多变的 Web3 行业中提炼出较为稳固的模型，并积累有价值的项目经验。&lt;/p&gt;
 
-&lt;p&gt;要入 Web3 这行，就得在思想上坚定地撕下「稳定」这块狗皮膏药，「灵活」及「高效」才是自己最大且最强的武器！&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="frontend-engineer" /><category term="job" /><category term="web-3" /><category term="openbuild" /><summary>在上篇文章《Web2 终是末路，Web3 才是归宿：接触 Web3》中，我大致回顾了借由「Web3 前端训练营」向 Web3 全栈工程师转型的学习经历。</summary></entry><entry><title>Web2 终是末路，Web3 才是归宿：接触 Web3</title><link href="https://ourai.ws/posts/web3-is-the-future-for-frontend-engineers-part-1/" rel="alternate" type="text/html" title="Web2 终是末路，Web3 才是归宿：接触 Web3" /><published>2024-08-22T22:17:14+08:00</published><updated>2024-08-22T22:17:14+08:00</updated><id>https://ourai.ws/posts/web3-is-the-future-for-frontend-engineers-part-1</id><content type="html" xml:base="https://ourai.ws/posts/web3-is-the-future-for-frontend-engineers-part-1/">&lt;p&gt;今年 4 月时，可能是「金三银四」的关系，经常会看到有前端同行在聊找工作的事情，在那烦恼去啥样的公司比较好，也在为工作的稳定性和前景等而不知所措。&lt;/p&gt;
-
-&lt;p&gt;对于自以为「看透一切」的我而言，认为他们只要没跳脱出原来的维度，不管做什么选择都将会迎来同样的结果；然而，无论我如何解释局限性，他们都无动于衷，真令我着急！&lt;/p&gt;
-
-&lt;p&gt;于是乎，我心累地写下《&lt;a href=&quot;/posts/the-last-advice-to-frontend-engineers/&quot;&gt;对前端同行的最后一次劝诫&lt;/a&gt;》，并决定再也不「多管闲事」地试图拉那些要往火坑里跳的人一把——放下助人情结，尊重他人命运。&lt;/p&gt;
-
-&lt;p&gt;虽说我坚定地认为前端原有路线是走不通的了，但该怎样相对平滑地切换到另一条看似可行的路线，当时的我也是心里没数。&lt;/p&gt;
-
-&lt;p&gt;直到 5 月中，我在折腾家庭数据中心时可能是在想去中心化相关问题，突然脑中蹦出个词——Web3——为我指明了那条较平滑切换的路线。&lt;/p&gt;
-
-&lt;h2 id=&quot;web3&quot;&gt;接触 Web3&lt;/h2&gt;
-
-&lt;p&gt;关于「Web3」，在 5 月 14 日之前也只是听了听，基本只知道有这么回事，没去真的了解过。&lt;/p&gt;
-
-&lt;p&gt;可当我在那天安装 MetaMask 体验了几个 dApp 并初步了解了生态之后，觉得 Web3 这个方向成长空间很大，很有前景——&lt;/p&gt;
-
-&lt;p&gt;面向个人用户的 dApp 那么少，用户体验又那么烂，基础设施体系也尚未成熟，当然「成长空间」很大啦！😂😂😂&lt;/p&gt;
-
-&lt;p&gt;提到「Web3」，就会想到另一个与之密切相关的词——「DAO」，即「去中心化自治组织」——是种看上去很符合我理想中样子的组织形态。&lt;/p&gt;
-
-&lt;p&gt;理所当然地，我立即申请并加入了一个由国人发起且与我理想相匹配的 DAO。&lt;/p&gt;
-
-&lt;p&gt;在快月末时，那个 DAO 的主理人在群里转发了由 OpenBuild 组织的「&lt;a href=&quot;https://openbuild.xyz/learn/challenges/2036589711&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Web3 前端训练营&lt;/a&gt;」，不仅能学到转型为 Web3 全栈开发所需的知识与技能，还是免费学，另有各种奖励，我实在是找不到不报名的理由！&lt;/p&gt;
-
-&lt;h3 id=&quot;section&quot;&gt;训练营的学习&lt;/h3&gt;
-
-&lt;p&gt;该训练营从 6 月 4 日开始，完全在线上进行，且除了答疑环节之外都是异步的，无论是教学的或是学习的都有很大的自由空间，可自主安排时间。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/assets/posts/20240822/web3-frontend-bootcamp-2a7bd7d4f9c0589df13e5972810950e13004b0a29a8a9402d7af2e294b393e66.png&quot; alt=&quot;「Web3 前端训练营」宣传图&quot; /&gt;
-  &lt;figcaption&gt;「Web3 前端训练营」宣传图&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;整体的定位与设计更倾向于「帮助有经验的 Web2 前端转型为 Web3 前端」，包含 6 节基础课与 3 节进阶课：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;基础课程——开发一个基于 EVM 的 dApp 所要掌握的基本要素，并用较常见的项目类型 NFT market 和 DEX 作为实战练习；&lt;/li&gt;
-  &lt;li&gt;进阶课程——推广利益相关方的产品，顺便帮助想要入行的开发者尽早适应目前行业的多变。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;每节课都有相应的课后作业，做好后需在&lt;a href=&quot;https://github.com/openbuildxyz/Web3-Frontend-Bootcamp&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;配套的 GitHub 仓库&lt;/a&gt;中提交 PR 等待审核人员查看；在 7 月 16 日之前提交的能获得奖励，最高可达 43 USDT。&lt;/p&gt;
-
-&lt;p&gt;若是在学习与做课后作业过程中遇到问题，还有训练营专属群供大家实时地探讨交流，在互助式学习的同时也起到互相监督的作用。&lt;/p&gt;
-
-&lt;p&gt;不只做课后作业有奖励，写出好的学习笔记以及为训练营做出其他贡献都会有奖励，不过同样仅限于 7 月 16 日之前——作为活跃的积极分子，我自然都拿到啦～😎😎😎&lt;/p&gt;
-
-&lt;p&gt;即便现在已经没奖励了，但要是想向 Web3 转型，这个训练营的课程还是值得一看的；最好是照样跟着做课后作业，我身为审核人员之一会尽可能去批改。&lt;/p&gt;
-
-&lt;p&gt;关于我在参加训练营时的更多体验，详见学习笔记《&lt;a href=&quot;https://s.ourai.ws/notes/how-to-build-a-dapp-as-a-smart-contract-newbie/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;智能合约纯小白是如何完成自己的第一个 dApp——NFT market？&lt;/a&gt;》和《&lt;a href=&quot;https://s.ourai.ws/notes/openbuild-web3-frontend-bootcamp-review/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;OpenBuild Web3 前端训练营复盘&lt;/a&gt;》。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-1&quot;&gt;训练营的收获&lt;/h3&gt;
-
-&lt;p&gt;这一个多月的训练营经历对我起到了较大影响，算是我人生中的一个里程碑，因为多个角度的收益看起来还不错——&lt;/p&gt;
-
-&lt;p&gt;最基本也是最重要的，达成了报名参加训练营的最初目的——转型为 Web3 全栈开发——虽然还只是刚迈进门槛，但已能够独立开发完整的 dApp，为接下来参加黑客松打下基础。&lt;/p&gt;
-
-&lt;p&gt;由于在学习过程中积极地在群里与他人交流，并时不时给主办方提建议，我被吸收进「助教」队伍，帮助审核课后作业。&lt;/p&gt;
-
-&lt;p&gt;此后，我又「拼命」审核并合并了好几百个 PR，间接教导了一部分人使用 Git 的技巧以及进行开源协作时的注意事项。&lt;/p&gt;
-
-&lt;p&gt;鉴于我较为突出的表现，算上做课后作业和写学习笔记的奖励，最终在结营时获得了 500 多 USDT，应该是最多的了。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/assets/posts/20240822/excellent-teaching-assistants-b5c69855be7bc78e62b351493eae6eb1427e919902075413efa592c6629a3bcb.jpg&quot; alt=&quot;「Web3 前端训练营」优秀助教学员&quot; /&gt;
-  &lt;figcaption&gt;「Web3 前端训练营」优秀助教学员&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;我在训练营期间的活跃产生了些许影响力，与其他人建立了连接并逐渐熟络起来，包括主办方 OpenBuild 的创始人。&lt;/p&gt;
-
-&lt;p&gt;以这次的训练营为引子，我向 OpenBuild 提了些比较系统性的改进建议，也轻微地畅想了下其未来的发展方向；也许是看我有心携手共进，被拉进到 PMC 当中了。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/assets/posts/20240822/eth-shenzhen-dinner-ec01c161302cbd405c47833ea924d635a4d612af93f0be06e77254e70fb45f20.jpg&quot; alt=&quot;「OpenBuild PMC」成员&quot; /&gt;
-  &lt;figcaption&gt;「OpenBuild PMC」成员&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;经过多次沟通交流，至少我认为与 OpenBuild 之间可建立一种深度合作关系——形式上相互独立，实际上却又紧密相连。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-2&quot;&gt;小结&lt;/h2&gt;
-
-&lt;p&gt;作为一名摸爬滚打十多年的 Web 前端工程师，坚决不看好传统互联网行业的 Web 前端开发前景；机缘巧合之下，让我发觉 Web3 这个能最大限度平滑迁移的行业。&lt;/p&gt;
-
-&lt;p&gt;自那之后，我果断决定向 Web3 全栈开发转型，即除了原本的 Web 前端知识与技能外，还需学习并掌握智能合约开发，在此基础上积累相关项目经验。&lt;/p&gt;
-
-&lt;p&gt;通过深入参与由 OpenBuild 组织的「Web3 前端训练营」，我不仅达到了「转型」这个最基本的目的，还得到了很多额外的收获，正反馈十分充足！&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="frontend-engineer" /><category term="job" /><category term="web-3" /><category term="openbuild" /><summary>今年 4 月时，可能是「金三银四」的关系，经常会看到有前端同行在聊找工作的事情，在那烦恼去啥样的公司比较好，也在为工作的稳定性和前景等而不知所措。</summary></entry></feed>
+&lt;p&gt;要入 Web3 这行，就得在思想上坚定地撕下「稳定」这块狗皮膏药，「灵活」及「高效」才是自己最大且最强的武器！&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="frontend-engineer" /><category term="job" /><category term="web-3" /><category term="openbuild" /><summary>在上篇文章《Web2 终是末路，Web3 才是归宿：接触 Web3》中，我大致回顾了借由「Web3 前端训练营」向 Web3 全栈工程师转型的学习经历。</summary></entry></feed>
