@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator><link href="https://ourai.ws/atom.xml" rel="self" type="application/atom+xml" /><link href="https://ourai.ws/" rel="alternate" type="text/html" /><updated>2025-05-02T22:29:32+08:00</updated><id>https://ourai.ws/</id><title>欧雷流</title><subtitle>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</subtitle><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><entry><title>撸起袖子往死里干！</title><link href="https://ourai.ws/posts/just-do-it/" rel="alternate" type="text/html" title="撸起袖子往死里干！" /><published>2025-03-29T21:48:11+08:00</published><updated>2025-03-29T21:48:11+08:00</updated><id>https://ourai.ws/posts/just-do-it</id><content type="html" xml:base="https://ourai.ws/posts/just-do-it/">&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;破局之路&lt;/a&gt;」的第 25 篇正式文章，主要讲述以下内容：&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator><link href="https://ourai.ws/atom.xml" rel="self" type="application/atom+xml" /><link href="https://ourai.ws/" rel="alternate" type="text/html" /><updated>2025-05-03T18:30:56+08:00</updated><id>https://ourai.ws/</id><title>欧雷流</title><subtitle>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</subtitle><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><entry><title>人生就是不断地探索、实验与体验</title><link href="https://ourai.ws/posts/life-is-about-explorations-experiments-and-experiences/" rel="alternate" type="text/html" title="人生就是不断地探索、实验与体验" /><published>2025-05-03T17:17:36+08:00</published><updated>2025-05-03T17:17:36+08:00</updated><id>https://ourai.ws/posts/life-is-about-explorations-experiments-and-experiences</id><content type="html" xml:base="https://ourai.ws/posts/life-is-about-explorations-experiments-and-experiences/">&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;破局之路&lt;/a&gt;」的第 26 篇正式文章，主要讲述以下内容：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;我对「活法」的基本观点；&lt;/li&gt;
+  &lt;li&gt;我的「实验」问题思考分享。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://xiaobot.net/post/bf4ef911-2ba2-4f45-8bb2-ee902c6767c0&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/D2gtB4v1lof_0Bsyy7Rqkg&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="life-hacking" /><category term="lifestyle" /><summary>本文是付费文章系列「破局之路」的第 26 篇正式文章，主要讲述以下内容：</summary></entry><entry><title>撸起袖子往死里干！</title><link href="https://ourai.ws/posts/just-do-it/" rel="alternate" type="text/html" title="撸起袖子往死里干！" /><published>2025-03-29T21:48:11+08:00</published><updated>2025-03-29T21:48:11+08:00</updated><id>https://ourai.ws/posts/just-do-it</id><content type="html" xml:base="https://ourai.ws/posts/just-do-it/">&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;破局之路&lt;/a&gt;」的第 25 篇正式文章，主要讲述以下内容：&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;2025 年 Q1 主要干了啥；&lt;/li&gt;
@@ -1085,148 +1092,4 @@
 
 &lt;p&gt;我就想问：「在国内，区块链技术在政府机构、互联网大厂等组织中都有应用，他们是在公然知法犯法吗？还是说他们不懂法？」&lt;/p&gt;
 
-&lt;p&gt;识时务者为俊杰，通机变者为英豪。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="frontend-engineer" /><category term="job" /><category term="web-3" /><summary>之前写的文章《Web2 终是末路，Web3 才是归宿：接触 Web3》和《Web2 终是末路，Web3 才是归宿：拥抱 Web3》的标题看起来有些危言耸听，还有人说我是标题党。</summary></entry><entry><title>质疑 Web3，理解 Web3</title><link href="https://ourai.ws/posts/questioning-web3-understanding-web3/" rel="alternate" type="text/html" title="质疑 Web3，理解 Web3" /><published>2024-08-29T17:49:57+08:00</published><updated>2024-08-29T17:49:57+08:00</updated><id>https://ourai.ws/posts/questioning-web3-understanding-web3</id><content type="html" xml:base="https://ourai.ws/posts/questioning-web3-understanding-web3/">&lt;p&gt;听到「Web3」这个词，你会作何反应？&lt;/p&gt;
-
-&lt;p&gt;至少从我发布的前两篇文章评论区来看，大部分人留言「坐牢」和「割韭菜」这类文字；可见他们并不了解 Web3，而且 Web3 被严重地妖魔化了。&lt;/p&gt;
-
-&lt;p&gt;质疑 Web3 是合理且应该的，任何事物都需要被质疑，这才能越来越接近其本质；但他们那不是在质疑，而是带着偏见在歧视。&lt;/p&gt;
-
-&lt;p&gt;本文将阐述我对 Web3 的理解，以此为其正名。&lt;/p&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;为何去中心化&lt;/h2&gt;
-
-&lt;p&gt;内容创作者是我众多身份中的一个，虽说我有经营了 10 多年的个人网站，但在当下这个时代若想自己所创作的内容被更多的人看到，不得不借用内容平台的潜在流量。&lt;/p&gt;
-
-&lt;p&gt;作为内容创作者来说，最苦恼的事情莫过于没人看自己用心创作出的内容，要真是自己水平问题那还能接受，但若是因为被内容平台进行限流、仅作者可见等处理了导致的呢？&lt;/p&gt;
-
-&lt;p&gt;被处理后收到的系统通知往往是「你的内容不符合规范」这种语焉不详的文案，根本看不出自己的内容到底哪里不符合哪条规范。&lt;/p&gt;
-
-&lt;p&gt;更不合理的是，通常没有有效的申诉途径——要么是压根儿没有申诉入口；要么是申诉了无人处理；要么是处理的人随便糊弄——在内容平台面前，创作者有尊严可言吗？&lt;/p&gt;
-
-&lt;p&gt;这还只是我与他人所遇到的种种问题中的一个事例，它们之间的共性是中心化平台很难最大化公正性，主要原因是：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;权力集中在运营方手中，没有任何外部人员参与决策的部分；&lt;/li&gt;
-  &lt;li&gt;平台规则不够细致，因大量模糊用词而造成很大的可操作、可任意解释的灰色地带；&lt;/li&gt;
-  &lt;li&gt;平台对用户生产的内容的处理过程不透明，被用户监督的体系缺失；&lt;/li&gt;
-  &lt;li&gt;举报申诉的反馈机制很不完善，维权十分复杂，甚至可能无法维权。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;用户与中心化平台之间的关系不完全是对立的：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;平台可以有自己的规则，在用户触犯时对其进行惩罚，这些都是合理的；&lt;/li&gt;
-  &lt;li&gt;平台的规则可以不完善，在用户有理有据地提出异议时能够虚心接受并改进，而非蛮横专制地强词夺理，这是想把平台做好的运营方该做的；&lt;/li&gt;
-  &lt;li&gt;用户为平台生产数据，平台为用户提供流量或其他价值，这本是双赢的事。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;可正如上述的几点「主要原因」，中心化平台很难做到这些看似简单的事，那么用户的权益就无法很好地得到保障，只留下 3 个选项：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;直接离开；&lt;/li&gt;
-  &lt;li&gt;抱着最后的希望想办法申诉下试试；&lt;/li&gt;
-  &lt;li&gt;继续忍着被近乎无尽的凌辱，直到无法忍受。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;无论选择哪个选项，结果很可能都是「离开」。&lt;/p&gt;
-
-&lt;p&gt;可是，离开了，然后呢？是不再做相关的事情了吗？还是说再换到其他同类中心化平台上？难道那个平台就大概率是能很好地保障用户权益的？&lt;/p&gt;
-
-&lt;p&gt;一个真正以人为本的数字服务的大致样貌，我在《&lt;a href=&quot;/posts/brief-introduction-to-individual-centered-services/&quot;&gt;闲聊个人服务：革「to C」的命&lt;/a&gt;》中进行了描绘。&lt;/p&gt;
-
-&lt;p&gt;最终，那些注重自身权益且有所想法的人，都将目光投向了「去中心化」的平台，并视其为救命稻草。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;如何去中心化&lt;/h2&gt;
-
-&lt;p&gt;当谈论「去中心化」时，必须要明确被去中心化的事物是什么，如数据所有权、数据控制权、计算方式、通信方式等，否则就会鸡同鸭讲，驴唇不对马嘴。&lt;/p&gt;
-
-&lt;p&gt;有些人秉持的是绝对去中心化主义，但这就像想要绝对自由及平均主义一样——痴心妄想。&lt;/p&gt;
-
-&lt;p&gt;实现「去中心化」需依赖于分布式网络结构，即一个网络中的节点间可相互直接通信，无需经过某个拥有控制权的中转节点，那个中转节点就是「中心」。&lt;/p&gt;
-
-&lt;p&gt;也许有人会有疑问——没有「中心」统一指挥调度的话，网络中的那些节点岂不是乱套了？！它们之间还怎么进行通信与协作？！&lt;/p&gt;
-
-&lt;p&gt;抛开计算机网络不谈，看看人类是怎么做的——&lt;/p&gt;
-
-&lt;p&gt;人类个体间的通信需要借助符号、语音等能够传递信息的媒介，同样的媒介单位在不同的体系中的含义会不一样，只有两人在处于同一体系时才能进行通信，比如都用汉语交流。&lt;/p&gt;
-
-&lt;p&gt;那么，人类个体间在没有指挥者的情况下是如何朝着一个方向使力协同工作的呢？大概有下面几种：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;文明、民族的文化、传统、习俗；&lt;/li&gt;
-  &lt;li&gt;国家的法律法规；&lt;/li&gt;
-  &lt;li&gt;组织的规章制度；&lt;/li&gt;
-  &lt;li&gt;彼此间磨合出的默契。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;这些都是参与者之间所达成的共识或要遵守的规定，靠最终形成的一致的规则去约束并协调每个个体的行动，从而完成某个具体任务。&lt;/p&gt;
-
-&lt;p&gt;综上所述，「相同的媒介体系」与「一致的行动规则」是实现「去中心化」的关键所在！&lt;/p&gt;
-
-&lt;p&gt;将视角转回到计算机领域，「相同的媒介体系」就是数据类型与编码，「一致的行动规则」则是协议与标准。&lt;/p&gt;
-
-&lt;p&gt;另外，正如上文所说，绝对的「去中心化」是不存在的——在一个整体看起来是分布式的网络中，其中的某个节点也可能是一个有「中心」的更小型网络。&lt;/p&gt;
-
-&lt;h2 id=&quot;web-&quot;&gt;Web 的迭代&lt;/h2&gt;
-
-&lt;p&gt;人们当下的数字生活离不开 Web，无论是浏览网页或使用原生客户端应用，都很依赖于它。&lt;/p&gt;
-
-&lt;p&gt;从 1989 年诞生至今，为满足各类需求 Web 相关技术已经得到蓬勃发展，甚至当下的发展方向有些远离其发明者的预期了。&lt;/p&gt;
-
-&lt;p&gt;在这 35 年中，因生产生活中使用方式与思想浪潮的变迁，每几年就会出现一些集中性的特点，以此去分期断代，并在「Web」后加上自增的数字命名。&lt;/p&gt;
-
-&lt;p&gt;很多介绍 Web3 的资料会将其描述为「Web 3.0」，或与「Web 1.0」和「Web 2.0」放在同一层级进行比较——作为一个措辞敏感的人，实在很难认同。&lt;/p&gt;
-
-&lt;p&gt;把表示「代」的数字用「X」替换的话，有「Web X.0」和「WebX」这两种构词形式，它们之间的含义有很大差异。&lt;/p&gt;
-
-&lt;p&gt;代与代之间并非取代的关系，而是共存，哪个占比更多就是「主流」，占比少的不会完全消失，但会被「忽略不计」。&lt;/p&gt;
-
-&lt;h3 id=&quot;web-x0&quot;&gt;Web X.0&lt;/h3&gt;
-
-&lt;p&gt;Web 是由 Tim Berners-Lee 在 CERN 时发明的，最初的目的只是为了能够在互联网上共享以图文为主的资料文档等，天生就有「去中心化」的基因，自己电脑就可作为服务器。&lt;/p&gt;
-
-&lt;p&gt;那时，CSS、JS 都还没有出现，PHP、Java 就更不用说了，网页不光是完全静态而无法交互的，也看起来很是简朴——正如当时人们的想法一样——仅仅是知识共享而已。&lt;/p&gt;
-
-&lt;p&gt;随着令网页变得更漂亮以及从各种意义上来说变得动态化的支撑性技术的出现，网页开始向个性化、商业化的方向发展，进而逐渐涌现出五花八门的个人网站、商业网站，让 Web 充满朝气。&lt;/p&gt;
-
-&lt;p&gt;大约在 2004 年之后，Web 的主流应用形式转向社交化、平台化，大量 SNS、XaaS 类产品迎面扑来，占领人们日常生产生活的方方面面，平台方掌握大量用户与数据，商业价值水涨船高。&lt;/p&gt;
-
-&lt;p&gt;以 2004 年左右为分界点，之前 Web 的应用形式主要为信息发布类内容网站，这对用户来说内容是「只读」的，被称为「Web 1.0」。&lt;/p&gt;
-
-&lt;p&gt;而之后 Web 的应用形式则更多的是用户可参与内容创作和分享互动的平台服务，即「可读可写」，被称为「Web 2.0」；这时明显地呈现出中心化特征，与 Web 的初衷相违背。&lt;/p&gt;
-
-&lt;p&gt;上文是从 Web 的应用形式进行断代的，作为 Web 发明者的 Tim Berners-Lee 并不认同，他在&lt;a href=&quot;https://www.w3.org/DesignIssues/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;自己笔记&lt;/a&gt;中从技术发展与解决问题的层面划分为：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Web 1.0——建立全球性的文档与数据之网；&lt;/li&gt;
-  &lt;li&gt;Web 2.0——增强信息访问的安全性；&lt;/li&gt;
-  &lt;li&gt;Web 3.0——构建提高数据互操作性的语义网。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;其中，「Web 3.0」就是借助一系列的协议、标准与技术，使网页内容强化为易被机器读取并理解的结构化数据，将整个 Web 变成庞大的知识图谱、智能网络。&lt;/p&gt;
-
-&lt;p&gt;Tim Berners-Lee 所构想的「Web 3.0」可用去中心化的方式应用于知识工程、人工智能、万物互联、社交网络等领域。&lt;/p&gt;
-
-&lt;h3 id=&quot;webx&quot;&gt;WebX&lt;/h3&gt;
-
-&lt;p&gt;在 Tim Berners-Lee 所构想的 Web 中，「去中心化」是天然的、无需特意强调的，但在实际的应用中偏离预期走向了以中心化平台为主流的模式。&lt;/p&gt;
-
-&lt;p&gt;这时，以比特币为首与 Web 相关技术不同的另一个同样是去中心化的区块链相关技术诞生，由于是在中心化平台横行的时代背景下且自带货币体系，它的「去中心化」带有叛逆的意味。&lt;/p&gt;
-
-&lt;p&gt;加密货币交易与记录不可篡改是区块链的基本特性，因而发展出以加密货币为中心的各类金融活动也就是自然而然的事情。&lt;/p&gt;
-
-&lt;p&gt;目前区块链相关技术应用相对成熟的领域就是去中心化金融，即「DeFi」；因其具备股票、外汇交易等的特点，并且无监管，很容易造成经济损失，需要十分慎重。&lt;/p&gt;
-
-&lt;p&gt;区块链相关技术的应用领域或多或少都会带有金融属性，也形成了相应的文化与行业，也就是「Web3」。&lt;/p&gt;
-
-&lt;p&gt;之所以叫「Web3」，跟上文中阐述的 Web 应用形式层面的「Web 2.0」的中心化特征有很大关系，同时与 Tim Berners-Lee 所构想的「Web 3.0」之间可以说有较大差异。&lt;/p&gt;
-
-&lt;p&gt;为了与未采用区块链相关技术的 Web 关联产品与行业划清界限，将它们称作「Web2」。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-2&quot;&gt;结语&lt;/h2&gt;
-
-&lt;p&gt;本文从个人的经历与理解出发，述说了去中心化的缘由与底层逻辑，并试图解释了「Web X.0」和「WebX」这两种对 Web 分期断代形式的含义。&lt;/p&gt;
-
-&lt;p&gt;我致力于探索研究面向个人与家庭去中心化及数智化的解决方案，从这个角度看无论是 Tim Berners-Lee 的「Web 3.0」还是「Web3」都无所谓；但若考虑到我的职业发展，那就唯有「Web3」。&lt;/p&gt;
-
-&lt;p&gt;Web3 是个黑暗森林，到处潜伏着对自己资产虎视眈眈的人，需要无时无刻地提高警惕，谨慎对待一切，才能保全自己——这就是无监管的弊端，想要自由的代价！&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="individual-centered-service" /><category term="decentralization" /><category term="web-3" /><summary>听到「Web3」这个词，你会作何反应？</summary></entry></feed>
+&lt;p&gt;识时务者为俊杰，通机变者为英豪。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="frontend-engineer" /><category term="job" /><category term="web-3" /><summary>之前写的文章《Web2 终是末路，Web3 才是归宿：接触 Web3》和《Web2 终是末路，Web3 才是归宿：拥抱 Web3》的标题看起来有些危言耸听，还有人说我是标题党。</summary></entry></feed>

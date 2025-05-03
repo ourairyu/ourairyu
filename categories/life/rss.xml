@@ -9,10 +9,38 @@
     <description>记录一下生活及工作中所经历的杂七杂八，顺便吐吐槽、卖卖萌、装装逼 ;-P</description>
     <link>https://ourai.ws/categories/life/</link>
     <atom:link href="https://ourai.ws/categories/life/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 May 2025 22:29:32 +0800</pubDate>
-    <lastBuildDate>Fri, 02 May 2025 22:29:32 +0800</lastBuildDate>
+    <pubDate>Sat, 03 May 2025 18:30:56 +0800</pubDate>
+    <lastBuildDate>Sat, 03 May 2025 18:30:56 +0800</lastBuildDate>
     <language>zh-CN</language>
     <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>人生就是不断地探索、实验与体验</title>
+        
+          <dc:creator>欧雷</dc:creator>
+          <author>欧雷</author>
+        
+        <description>&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;破局之路&lt;/a&gt;」的第 26 篇正式文章，主要讲述以下内容：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;我对「活法」的基本观点；&lt;/li&gt;
+  &lt;li&gt;我的「实验」问题思考分享。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://xiaobot.net/post/bf4ef911-2ba2-4f45-8bb2-ee902c6767c0&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/D2gtB4v1lof_0Bsyy7Rqkg&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 May 2025 17:17:36 +0800</pubDate>
+        <link>https://ourai.ws/posts/life-is-about-explorations-experiments-and-experiences/</link>
+        <guid isPermaLink="true">https://ourai.ws/posts/life-is-about-explorations-experiments-and-experiences/</guid>
+        
+        <category>life</category>
+        
+        
+        <category>life-hacking</category>
+        
+        <category>lifestyle</category>
+        
+      </item>
     
       <item>
         <title>撸起袖子往死里干！</title>
@@ -1303,39 +1331,6 @@
         <category>web-3</category>
         
         <category>openbuild</category>
-        
-      </item>
-    
-      <item>
-        <title>为深入数字生活做准备</title>
-        
-          <dc:creator>欧雷</dc:creator>
-          <author>欧雷</author>
-        
-        <description>&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;破局之路&lt;/a&gt;」的第 22 篇正式文章，主要讲述以下内容：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;基于 Apple 生态初步搭建了家庭数据中心；&lt;/li&gt;
-  &lt;li&gt;对 Web3 的理解及为啥要向它转型；&lt;/li&gt;
-  &lt;li&gt;加入 DAO 了。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://www.yuque.com/ourai/kqx2ue/vtibiln2fsufdcph&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;语雀&lt;/a&gt;、&lt;a href=&quot;https://xiaobot.net/post/f5a55b60-578c-4e15-891e-96e944bd08bc&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/ThE-8anYEviyq5obauHB2Q&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 20 May 2024 12:01:03 +0800</pubDate>
-        <link>https://ourai.ws/posts/prepare-for-a-deeper-digital-life/</link>
-        <guid isPermaLink="true">https://ourai.ws/posts/prepare-for-a-deeper-digital-life/</guid>
-        
-        <category>life</category>
-        
-        
-        <category>life-hacking</category>
-        
-        <category>lifestyle</category>
-        
-        <category>decentralization</category>
-        
-        <category>web-3</category>
         
       </item>
     
