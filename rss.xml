@@ -6,10 +6,109 @@
     <description>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</description>
     <link>https://ourai.ws/</link>
     <atom:link href="https://ourai.ws/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Jul 2025 10:59:48 +0800</pubDate>
-    <lastBuildDate>Sun, 20 Jul 2025 10:59:48 +0800</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 13:35:04 +0800</pubDate>
+    <lastBuildDate>Mon, 21 Jul 2025 13:35:04 +0800</lastBuildDate>
     <language>zh-CN</language>
     <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>你的人生是怎样一步步走进死路的</title>
+        
+          <dc:creator>欧雷</dc:creator>
+          <author>欧雷</author>
+        
+        <description>&lt;p&gt;每个人生下来后，都会被身处的文化桎梏所绑架——中日韩朝东亚几兄弟被儒家的糟粕（或者说扭曲的儒家）所折磨，而其他国家则基本是被宗教信仰。&lt;/p&gt;
+
+&lt;p&gt;进入现代社会后，东亚几兄弟共通的主流人生模式是：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;埋头好好学习，考个好高中、好大学，毕业之后找个好工作；&lt;/li&gt;
+  &lt;li&gt;有工作后尽快结婚，结了婚就赶紧生孩子；&lt;/li&gt;
+  &lt;li&gt;给别人工作到退休，可以领退休金了再去做自己一直想做的事。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;背负着种种「责任」和「道德」过下去，如此模板化的人生，身为 21 世纪 70、80、90 年代出生的人，应该都是有很强烈体感的。&lt;/p&gt;
+
+&lt;p&gt;按照这模板去活的人，很难说他们有什么活力，焕发了什么生机——&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;很多人是 30 岁就死了，到 80 岁才埋葬。&lt;/p&gt;
+  &lt;footer&gt;本间久雄&lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;上面这（据说是）出自本间久雄的名言，可谓是真实地反映了当下主流人群的人生状态。&lt;/p&gt;
+
+&lt;p&gt;既然如行尸走肉般地活着是「主流」状态，那就代表是人类自身的局限性所引发的必然结果，下面就以我的认知水平来浅谈一下比较基本的。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;信息壁&lt;/h2&gt;
+
+&lt;p&gt;上文中提到的人在出生与成长过程中所处的民族文化、风土习俗、原生家庭氛围等作为信息壁的最底层，构建了一个人的基础认知。&lt;/p&gt;
+
+&lt;p&gt;学校教育、职场文化、网络推荐信息等会在扩展信息壁的同时，一定程度上加强巩固原来的信息壁，促使一个人的认知变得窄化、固化。&lt;/p&gt;
+
+&lt;p&gt;信息壁的产生，主要有以下几点原因：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;经历一些事物让对自己来说的「未知」变成了「已知」，从「不确定」变成了「确定」，形成了应对事物的「经验」与「路径」；&lt;/li&gt;
+  &lt;li&gt;外界规训自己要遵守各种规则，好奇心、探索欲逐渐被压制，甚至会磨灭消失，变得像被驯化的野生动物般顺从，令打破边界的概率大幅降低；&lt;/li&gt;
+  &lt;li&gt;人本能地倾向于节能、省事、轻松，面对「已知」且「确定」的问题，沿用过往「经验」与「路径」最舒服，何必要费脑细胞思考或冒着破坏规则被惩罚的风险。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;由信息壁所围成的区域，就是大家熟知的「舒适圈」。&lt;/p&gt;
+
+&lt;p&gt;困在信息壁之中的人，就像井底之蛙想象不到井口之外的世界是咋样，如同夏天的虫子不知道还有冰的存在。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;不信任&lt;/h2&gt;
+
+&lt;p&gt;可以说，对陌生事物默认采取不信任的态度并保持警惕，这既是一种本能，又是在经受社会毒打后的选择——都是为了能够且更好地生存下去，这很好。&lt;/p&gt;
+
+&lt;p&gt;但是，在与信息壁的共同作用下，会让自己难以相信并接受新鲜事物，总觉得那是骗人的把戏，心想：「怎么可能有那么好的事情？！」&lt;/p&gt;
+
+&lt;p&gt;去年我在向 Web3 领域的全栈开发转型后，写了几篇经历总结文章，然后分发到掘金，有的人在评论区的发言就淋漓尽致地体现了信息壁与不信任共同作用下的状态：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20250721/comments-on-juejin-cf8bebea619eb3387acc039e545b23e88a2dccdf247761edb8dc701146315ab2.png&quot; alt=&quot;文章评论&quot; /&gt;
+  &lt;figcaption&gt;文章评论&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;在与外界交互时，比如跟人聊天或做自媒体，完全不透露自己任何层面的真实信息是最安全的，但这永远无法取得他人的信任。&lt;/p&gt;
+
+&lt;p&gt;他人的信任是拿自己的真实交换的，要想被他人信任，就要先去信任他人。&lt;/p&gt;
+
+&lt;p&gt;对外界信任的程度，影响着自己思想开放的程度。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;不自信&lt;/h2&gt;
+
+&lt;p&gt;在面对与外界的冲突矛盾时，绝大部分人的应对方式是消极地忍受或回避，而非去明争暗斗或绕路前行，也就是不积极地去解决问题。&lt;/p&gt;
+
+&lt;p&gt;虽然让一个人不自信的因素有先天的，但起到主要作用的还是后天的生活环境，如外界规训、他人负面评价等给自己的行为制造负反馈的行为。&lt;/p&gt;
+
+&lt;p&gt;大量的、持续的负反馈会使心理不够强大的人变得不自信，令本来就不自信的人变得更加不自信，严重者会抑郁。&lt;/p&gt;
+
+&lt;p&gt;一个人的自信程度往往影响着突破现状和解决问题的勇气。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;什么是「死路」？&lt;/p&gt;
+
+&lt;p&gt;你无法选择在哪里及以怎样的方式出生，成长环境为你塑造了信息壁，使你对外界变得不信任，令你变得不自信。&lt;/p&gt;
+
+&lt;p&gt;你越不信任外界，越不自信，信息壁就越厚越牢固结实；相反，如果试着放下偏见去接纳，卸下防备去敞开，顶着压力向前走一步，信息壁很可能就变薄了。&lt;/p&gt;
+
+&lt;p&gt;如果你正在走的路没让自己感觉到是在「活着」，几乎没什么意义感，那这条路就是「死路」。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Jul 2025 13:22:18 +0800</pubDate>
+        <link>https://ourai.ws/posts/the-reason-why-your-life-is-meaningless/</link>
+        <guid isPermaLink="true">https://ourai.ws/posts/the-reason-why-your-life-is-meaningless/</guid>
+        
+        <category>thoughts</category>
+        
+        
+        <category>life-engineering</category>
+        
+        <category>life-hacking</category>
+        
+      </item>
     
       <item>
         <title>超越 Vibe Coding 的智能研发</title>
@@ -1190,199 +1289,6 @@
         <category>lifestyle</category>
         
         <category>digital-nomad</category>
-        
-      </item>
-    
-      <item>
-        <title>白送 Follow 邀请码都能被骂？！</title>
-        
-          <dc:creator>欧雷</dc:creator>
-          <author>欧雷</author>
-        
-        <description>&lt;p&gt;在「1024 程序员节」这一天，&lt;a href=&quot;https://x.com/follow_app_/status/1849346464318890427&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Follow 开启公测了&lt;/a&gt;，意味着即便没有邀请码也能使用；&lt;a href=&quot;https://x.com/DIYgod/status/1849361156617752768&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;但是会有部分功能受限，仍需要邀请码才能完整体验。&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;很巧的是，&lt;a href=&quot;https://x.com/fxxkol/status/1848585502901047617&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;在那两天前我刚好关闭邀请码申请表，结束了赠码活动&lt;/a&gt;——这真的只是个巧合，我并未提前知道 Follow 要在哪天公测……😂😂😂&lt;/p&gt;
-
-&lt;p&gt;在本文中，我要说下这次赠码活动的一些事。&lt;/p&gt;
-
-&lt;h2 id=&quot;follow&quot;&gt;为啥用 Follow&lt;/h2&gt;
-
-&lt;p&gt;关于「&lt;a href=&quot;https://follow.is/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Follow&lt;/a&gt; 是个什么东西」这命题，其官方的说法是：&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/assets/posts/20241026/follow-d4a854e3f99536b8e3c6196618ca10b04d39044707cf7852b60734d9f74f7810.png&quot; alt=&quot;Follow 官网标语&quot; /&gt;
-  &lt;figcaption&gt;Follow 官网标语&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;然而对大多数人来说，以及它最直观的使用感受，就是个 RSS 阅读器，&lt;strong&gt;可在我看来当然没有如此「简单」&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;h3 id=&quot;section&quot;&gt;「奇怪」的执拗&lt;/h3&gt;
-
-&lt;p&gt;有关注我各类 SNS 账号的人应该会发现，我极少会去关注其他账号——要么一个也不关注，要么就只关注个别几个。&lt;/p&gt;
-
-&lt;p&gt;这并非是我在耍大牌（也没资格耍😭），也不是不懂礼尚往来，相反，我对每一个关注我的人都心存感激；尤其是那些长时间关注，甚至为我付费的人，我都会想办法回馈他们！&lt;/p&gt;
-
-&lt;p&gt;我之所以不想去关注其他账号，是因为那些平台的功能设计几乎都把「信息的生产和消费关系」与「人之间的社交关系」强行绑定，这跟我的需求强烈不匹配！&lt;/p&gt;
-
-&lt;p&gt;绝大部分时候，我只想与他人建立信息层面的关系，而并不想建立社交层面的——仅仅以一个观察者的身份去看某人发的内容，不愿被任何人知道「我」在看，除非我主动去互动。&lt;/p&gt;
-
-&lt;p&gt;说白了就是，我可以成为对方信息消费者中的一个数字，也就仅此而已，除了被计数「+1」之外的其他信息不愿意被对方及其他人知道——&lt;strong&gt;我的「存在」仅限于数字「+1」&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;在那些主流 SNS 中，只看到 X 的「&lt;a href=&quot;https://help.x.com/en/using-x/x-lists&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;列表&lt;/a&gt;」能满足我这需求，我可以建很多个私密列表：&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/assets/posts/20241026/x-lists-16766668ffcd32a22a715944ac5cdcb041041a4cdc6626cba9b46f2bd24f50f7.png&quot; alt=&quot;我的列表&quot; /&gt;
-  &lt;figcaption&gt;我的列表&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;另外，在信息输入这方面我是主动获取型的，而非被动推荐型，因而我只想在发布内容时才去登录那些平台，浏览内容最好是能在一个平台或工具里看到所有我在其他平台想看的。&lt;/p&gt;
-
-&lt;h3 id=&quot;follow-1&quot;&gt;开始用 Follow&lt;/h3&gt;
-
-&lt;p&gt;由 &lt;a href=&quot;https://diygod.cc/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;DIYgod&lt;/a&gt; 发起并开发的 &lt;a href=&quot;https://rsshub.app/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;RSSHub&lt;/a&gt; 打破了孤岛化的各平台之间的信息壁垒，使我上述两个需求得到满足成为可能——它将其他平台的数据统一转换为「RSS」这一标准格式，再通过 RSS 阅读器接收查看。&lt;/p&gt;
-
-&lt;p&gt;然而，对于我个人来说这方案存在一个问题，那就是大多 RSS 阅读器免费使用时有订阅数的限制，如 Inoreader 只有 150——这也无法满足我的需求——谁叫我是个大穷逼了呢！😂😂😂&lt;/p&gt;
-
-&lt;p&gt;今年的某天，无意中知道了 DIYgod 他们在开发一个叫「Follow」的能承担 RSS 阅读器角色的应用，当时并没太在意，也没去了解这应用到底是啥。&lt;/p&gt;
-
-&lt;p&gt;我平时在哔站看视频相对较多，大约在 9 月初，有些厌倦每次都要搜阿婆主名字到他主页里找视频看的体验，但又不想妥协地去点「关注」，这时我想起了 Follow。&lt;/p&gt;
-
-&lt;p&gt;在去了解相关信息时，得知因处于内测阶段而需要邀请码才能使用，并且被我捕捉到了 &lt;a href=&quot;https://www.pseudoyu.com/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;pseudoyu&lt;/a&gt; 的身影，从此开始了我使用 Follow 的生活——谢谢🐙君！&lt;/p&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;开启赠码活动&lt;/h2&gt;
-
-&lt;p&gt;正所谓「赠人玫瑰，手有余香」，因为有🐙君的给予，我才能这么快地用上了 Follow；我也想将善意和机会传给其他人，于是决定搞个赠送邀请码的活动。&lt;/p&gt;
-
-&lt;p&gt;根据 Follow 当时的机制，使用者每天可签到获取 20 个 $POWER，兑换一个邀请码需消耗 100 个 $POWER，也就是靠签到每个账号得 5 天才能有一个邀请码：&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/assets/posts/20241026/invitation-code-aeb4f7015c2ea8684887c22cd8cd0653a525686f369e0707225f7a36759f177f.png&quot; alt=&quot;生成邀请码&quot; /&gt;
-  &lt;figcaption&gt;生成邀请码&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;正因为搞一个邀请码还是有一定成本的，才会出现「一码难求」的情况，甚至有人在「海鲜市场」出售，价高的能卖好几十块钱！&lt;/p&gt;
-
-&lt;p&gt;所以说，我想把这「宝贵」的资源尽可能留给那些真真正正需要的人，而非给白眼狼浪费掉；再加上我想借此机会扩大自己的人际网络，这都影响着活动的规则设计与效果。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-2&quot;&gt;活动准备&lt;/h3&gt;
-
-&lt;p&gt;我说的「真真正正需要的人」是指像我一样有上述「奇怪」需求的，或者把 RSS 订阅作为日常生活刚需的人，那么如何从活动参与者中准确地鉴别出来就很重要了。&lt;/p&gt;
-
-&lt;p&gt;我也想不出什么高招儿，就用飞书多维表格做了个有几道开放性问题的申请表：&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/assets/posts/20241026/application-form-3b54e500cd18156213729c7b688a728491b03ac18b4de168a947bd9e503923a5.jpg&quot; alt=&quot;邀请码申请表&quot; /&gt;
-  &lt;figcaption&gt;邀请码申请表&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;每个答题的人都得加我微信才算有效地参加活动，一方面是要达到我扩大人际网络的目的，另一方面是发放邀请码时进行联系。&lt;/p&gt;
-
-&lt;p&gt;虽说想要留给「真真正正需要的人」，但实际这更大程度上是为了筛掉那些白嫖怪、白眼狼的表面说辞，我是打算有效参加活动的人都给邀请码的。&lt;/p&gt;
-
-&lt;p&gt;既然是做活动，那肯定会出现参与者排队的情况，否则就是次彻彻底底失败的活动——没什么人参加的活动当然失败啦！😂😂😂&lt;/p&gt;
-
-&lt;p&gt;排队的问题难以避免，但可以想办法减少排队时间，最合规且最朴素的方法就是搞多个账号啦——正好我本身就有虚拟身份隔离的需求，并且已经有好几个 Google 账号。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-3&quot;&gt;活动宣发&lt;/h3&gt;
-
-&lt;p&gt;在 9 月 28 日那天，我分别于&lt;a href=&quot;https://weibo.com/1818955207/Oz2Qtt0Pc&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微博&lt;/a&gt;、&lt;a href=&quot;https://web.okjike.com/originalPost/66f768a70d16900195bc95a3&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;即刻&lt;/a&gt;和 &lt;a href=&quot;https://x.com/fxxkol/status/1839854707784986775&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;X&lt;/a&gt; 上宣布了赠码活动的开始；到 10 月 7 日时，差不多 10 天过去了，只有 10 个申请，估计大多来自于 X。&lt;/p&gt;
-
-&lt;p&gt;在 10 月 7 日当天，我的两个公众号上也各自推送了活动信息，然而收效甚微。&lt;/p&gt;
-
-&lt;p&gt;第二天，在跟别人讨论工作相关问题时提到了 V2EX，想到我注册了 10 多年却没怎么去看过，恰巧正在做这活动，&lt;a href=&quot;https://v2ex.com/t/1078241&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;就上去发个帖吧&lt;/a&gt;！&lt;/p&gt;
-
-&lt;p&gt;让我没想到的是，V2EX 的流量还是挺大的，帖子发出去才 3、4 天，申请数就暴涨了 40 来个，都有点超出我那些账号所能承载的邀请码生成压力了！&lt;/p&gt;
-
-&lt;p&gt;令我啼笑皆非的是，帖子下面有好几个阴阳怪气的评论，还有人特意跑到申请表里说类似的话：&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/assets/posts/20241026/post-comments-3cdbc0ba763d1486286229f39b6ddb2ed564898f8a2b5a9cae19ce2566794f77.png&quot; alt=&quot;帖子评论&quot; /&gt;
-  &lt;figcaption&gt;帖子评论&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;这些人明明可以闭嘴刷走，却非羊圈里跳出个驴来——显大个儿！想要合理化白嫖怪思想和行为是吧？！&lt;/p&gt;
-
-&lt;p&gt;得亏我搞了个申请表，筛的就是这帮人！不然邀请码给他们了，那些「真真正正需要的人」和其他友善的人不就损失机会了？！&lt;/p&gt;
-
-&lt;p&gt;不过，就算有申请表也没拦住所有人：&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/assets/posts/20241026/wechat-35a30f3221181245e6951b55dd4951bc35427ac7f4ebb29e5665c85c491ab58d.png&quot; alt=&quot;？？？&quot; /&gt;
-  &lt;figcaption&gt;？？？&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;真的是离了个大谱！！！&lt;/p&gt;
-
-&lt;h3 id=&quot;section-4&quot;&gt;申请管理&lt;/h3&gt;
-
-&lt;p&gt;为方便申请信息的审核与邀请码的发放，我对原来的飞书多维表格做了一些改进增强：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;新增「账号」数据表，主要用来记录每个账号的 $POWER 余额与更新时间，便于查看当天可生成邀请码的账号及提高签到效率；&lt;/li&gt;
-  &lt;li&gt;新增「邀请码」数据表，记录已生成邀请码及其创建者、使用者，便于查看未使用的邀请码；&lt;/li&gt;
-  &lt;li&gt;申请信息回收表中新增「是否已加微信」、「需求程度」、「进度状态」等字段，提高申请审核与邀请码发放效率。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;其中，申请信息回收表的「进度状态」字段有「待审核」、「待发放」、「待使用」、「已使用」和「未通过」这 5 个值，我用这个字段将记录进行分组展示：&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/assets/posts/20241026/grouped-53b555b9398f7cde808fec8eae50e7df32a6ae7bd73647459aa93fdc34f71ef7.png&quot; alt=&quot;记录分组&quot; /&gt;
-  &lt;figcaption&gt;记录分组&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;别人填写申请表后，飞书会发送消息提醒我，数据则直接进入到「值为空」那个分组里，代表我还完全没去处理。&lt;/p&gt;
-
-&lt;p&gt;初步处理后的记录，要么进了「待审核」，要么就是「未通过」；前者在我找时间集中处理并审核通过后，就会进入以「待发放」为开端的邀请码发放流程。&lt;/p&gt;
-
-&lt;p&gt;匹配到下列条件的人会被标为「未通过」：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;填表明显没用心甚至是扯蛋的，没主动加我微信的，都视为无效参加活动；&lt;/li&gt;
-  &lt;li&gt;加微信后我会挨个发自我介绍的文本，没任何回复的算作想白嫖的人；&lt;/li&gt;
-  &lt;li&gt;申请表里选择加入 KnoSys 群的人我会发送进群邀请，实际却没进群的，这部分人与不回复自我介绍的基本重叠。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;在真要发放邀请码前，我会确认下对方是否还需要邀请码，因为在排队期间有可能从其他地方弄到了；这时会发现，有的人已经把我删掉了，有的人真从他处弄到邀请码了，这些我也会标为「未通过」。&lt;/p&gt;
-
-&lt;p&gt;鉴于此，「未通过」的含义除了字面意思外，还包含「不必了」的情况。&lt;/p&gt;
-
-&lt;p&gt;我把分组后的记录先后以「是否支持或帮助过我」、「需求程度」和「提交时间」这 3 个字段按照「顺序」排序：&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/assets/posts/20241026/ordered-840a2b459def7600dfc14917df320e6bba2f471df1e0a1306f50f7f1fb9a3779.png&quot; alt=&quot;记录排序&quot; /&gt;
-  &lt;figcaption&gt;记录排序&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;邀请码就以这个排序结果进行发放。&lt;/p&gt;
-
-&lt;p&gt;那些买过我的付费产品和打赏过我等为我做出过贡献的人，是优先级最高的，日后若再有回馈类活动，也会依此原则处理。&lt;/p&gt;
-
-&lt;p&gt;其他人我会根据答题情况来判断参与者是否为「真真正正需要的人」，是的话就会把「需求程度」标为「高」——这就是为啥我会在宣发时强调要认真填写——可惜绝大部分人都被判定为「低」。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-5&quot;&gt;结语&lt;/h2&gt;
-
-&lt;p&gt;我在本文中解释了自己不喜欢在 SNS 上关注其他账号的原因——把「信息的生产和消费关系」与「人之间的社交关系」相互解绑。&lt;/p&gt;
-
-&lt;p&gt;那么可以换位想一下，要是其他人也这么对我，自己能接受吗？&lt;/p&gt;
-
-&lt;p&gt;我认为自己是能够接受的——&lt;/p&gt;
-
-&lt;p&gt;首先，我最关心的是那被用来计数的数字，也就是有多少人与我建立了相对长期、稳定的信息接收关系，这样我就能知道自己发出去的内容所能触达人数的下限。&lt;/p&gt;
-
-&lt;p&gt;其次，我虽然也很想知道那一个个数字的背后是谁？是怎样一个人？有没有互相认识一下的可能？甚至是走到线下成为朋友？但我想把这主动权交给对方，自己只管敞开心门就好。&lt;/p&gt;
-
-&lt;p&gt;我做这次 Follow 邀请码赠送活动的原因之一就是想增加有成为朋友可能性的人，而那些白嫖怪、白眼狼是绝对无法成为朋友的！&lt;/p&gt;
-</description>
-        <pubDate>Sat, 26 Oct 2024 20:45:27 +0800</pubDate>
-        <link>https://ourai.ws/posts/follow-invitation-code-gift-event/</link>
-        <guid isPermaLink="true">https://ourai.ws/posts/follow-invitation-code-gift-event/</guid>
-        
-        <category>life</category>
-        
-        
-        <category>self-media</category>
-        
-        <category>social-media</category>
         
       </item>
     

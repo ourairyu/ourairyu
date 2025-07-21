@@ -9,10 +9,109 @@
     <description>思考能够使我进步，让我一时地脱离当前世界</description>
     <link>https://ourai.ws/categories/thoughts/</link>
     <atom:link href="https://ourai.ws/categories/thoughts/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Jul 2025 10:59:48 +0800</pubDate>
-    <lastBuildDate>Sun, 20 Jul 2025 10:59:48 +0800</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 13:35:04 +0800</pubDate>
+    <lastBuildDate>Mon, 21 Jul 2025 13:35:04 +0800</lastBuildDate>
     <language>zh-CN</language>
     <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>你的人生是怎样一步步走进死路的</title>
+        
+          <dc:creator>欧雷</dc:creator>
+          <author>欧雷</author>
+        
+        <description>&lt;p&gt;每个人生下来后，都会被身处的文化桎梏所绑架——中日韩朝东亚几兄弟被儒家的糟粕（或者说扭曲的儒家）所折磨，而其他国家则基本是被宗教信仰。&lt;/p&gt;
+
+&lt;p&gt;进入现代社会后，东亚几兄弟共通的主流人生模式是：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;埋头好好学习，考个好高中、好大学，毕业之后找个好工作；&lt;/li&gt;
+  &lt;li&gt;有工作后尽快结婚，结了婚就赶紧生孩子；&lt;/li&gt;
+  &lt;li&gt;给别人工作到退休，可以领退休金了再去做自己一直想做的事。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;背负着种种「责任」和「道德」过下去，如此模板化的人生，身为 21 世纪 70、80、90 年代出生的人，应该都是有很强烈体感的。&lt;/p&gt;
+
+&lt;p&gt;按照这模板去活的人，很难说他们有什么活力，焕发了什么生机——&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;很多人是 30 岁就死了，到 80 岁才埋葬。&lt;/p&gt;
+  &lt;footer&gt;本间久雄&lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;上面这（据说是）出自本间久雄的名言，可谓是真实地反映了当下主流人群的人生状态。&lt;/p&gt;
+
+&lt;p&gt;既然如行尸走肉般地活着是「主流」状态，那就代表是人类自身的局限性所引发的必然结果，下面就以我的认知水平来浅谈一下比较基本的。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;信息壁&lt;/h2&gt;
+
+&lt;p&gt;上文中提到的人在出生与成长过程中所处的民族文化、风土习俗、原生家庭氛围等作为信息壁的最底层，构建了一个人的基础认知。&lt;/p&gt;
+
+&lt;p&gt;学校教育、职场文化、网络推荐信息等会在扩展信息壁的同时，一定程度上加强巩固原来的信息壁，促使一个人的认知变得窄化、固化。&lt;/p&gt;
+
+&lt;p&gt;信息壁的产生，主要有以下几点原因：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;经历一些事物让对自己来说的「未知」变成了「已知」，从「不确定」变成了「确定」，形成了应对事物的「经验」与「路径」；&lt;/li&gt;
+  &lt;li&gt;外界规训自己要遵守各种规则，好奇心、探索欲逐渐被压制，甚至会磨灭消失，变得像被驯化的野生动物般顺从，令打破边界的概率大幅降低；&lt;/li&gt;
+  &lt;li&gt;人本能地倾向于节能、省事、轻松，面对「已知」且「确定」的问题，沿用过往「经验」与「路径」最舒服，何必要费脑细胞思考或冒着破坏规则被惩罚的风险。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;由信息壁所围成的区域，就是大家熟知的「舒适圈」。&lt;/p&gt;
+
+&lt;p&gt;困在信息壁之中的人，就像井底之蛙想象不到井口之外的世界是咋样，如同夏天的虫子不知道还有冰的存在。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;不信任&lt;/h2&gt;
+
+&lt;p&gt;可以说，对陌生事物默认采取不信任的态度并保持警惕，这既是一种本能，又是在经受社会毒打后的选择——都是为了能够且更好地生存下去，这很好。&lt;/p&gt;
+
+&lt;p&gt;但是，在与信息壁的共同作用下，会让自己难以相信并接受新鲜事物，总觉得那是骗人的把戏，心想：「怎么可能有那么好的事情？！」&lt;/p&gt;
+
+&lt;p&gt;去年我在向 Web3 领域的全栈开发转型后，写了几篇经历总结文章，然后分发到掘金，有的人在评论区的发言就淋漓尽致地体现了信息壁与不信任共同作用下的状态：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20250721/comments-on-juejin&#39; | asset_path }}&quot; alt=&quot;文章评论&quot; /&gt;
+  &lt;figcaption&gt;文章评论&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;在与外界交互时，比如跟人聊天或做自媒体，完全不透露自己任何层面的真实信息是最安全的，但这永远无法取得他人的信任。&lt;/p&gt;
+
+&lt;p&gt;他人的信任是拿自己的真实交换的，要想被他人信任，就要先去信任他人。&lt;/p&gt;
+
+&lt;p&gt;对外界信任的程度，影响着自己思想开放的程度。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;不自信&lt;/h2&gt;
+
+&lt;p&gt;在面对与外界的冲突矛盾时，绝大部分人的应对方式是消极地忍受或回避，而非去明争暗斗或绕路前行，也就是不积极地去解决问题。&lt;/p&gt;
+
+&lt;p&gt;虽然让一个人不自信的因素有先天的，但起到主要作用的还是后天的生活环境，如外界规训、他人负面评价等给自己的行为制造负反馈的行为。&lt;/p&gt;
+
+&lt;p&gt;大量的、持续的负反馈会使心理不够强大的人变得不自信，令本来就不自信的人变得更加不自信，严重者会抑郁。&lt;/p&gt;
+
+&lt;p&gt;一个人的自信程度往往影响着突破现状和解决问题的勇气。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;什么是「死路」？&lt;/p&gt;
+
+&lt;p&gt;你无法选择在哪里及以怎样的方式出生，成长环境为你塑造了信息壁，使你对外界变得不信任，令你变得不自信。&lt;/p&gt;
+
+&lt;p&gt;你越不信任外界，越不自信，信息壁就越厚越牢固结实；相反，如果试着放下偏见去接纳，卸下防备去敞开，顶着压力向前走一步，信息壁很可能就变薄了。&lt;/p&gt;
+
+&lt;p&gt;如果你正在走的路没让自己感觉到是在「活着」，几乎没什么意义感，那这条路就是「死路」。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Jul 2025 13:22:18 +0800</pubDate>
+        <link>https://ourai.ws/posts/the-reason-why-your-life-is-meaningless/</link>
+        <guid isPermaLink="true">https://ourai.ws/posts/the-reason-why-your-life-is-meaningless/</guid>
+        
+        <category>thoughts</category>
+        
+        
+        <category>life-engineering</category>
+        
+        <category>life-hacking</category>
+        
+      </item>
     
       <item>
         <title>纯「牛马」的逻辑玩儿不转了！</title>
@@ -1312,106 +1411,6 @@
         <category>philosophy-of-life</category>
         
         <category>values</category>
-        
-      </item>
-    
-      <item>
-        <title>我为啥又重视起公共平台了？</title>
-        
-          <dc:creator>欧雷</dc:creator>
-          <author>欧雷</author>
-        
-        <description>&lt;p&gt;微信朋友圈里发个信息，能看到的最多也就好友数那些人，会点赞评论进行互动的也固定在那寥寥无几的几个人中，并且每条消息的生命周期也就几小时，没劲！&lt;/p&gt;
-
-&lt;p&gt;前几天晚上要睡觉时忽然想到：「何不重新开始用新浪微博（&lt;a href=&quot;https://weibo.com/u/1818955207&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;@欧雷殿&lt;/a&gt;）呢？」&lt;/p&gt;
-
-&lt;p&gt;这个妙啊——在新浪微博上发信息，无论是曝光度还是生命周期，都会有大幅提升！那晚我激动到失眠……&lt;/p&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;态度转变&lt;/h2&gt;
-
-&lt;p&gt;自从 2012 年&lt;a href=&quot;/posts/brief-history-of-my-blog/#section-7&quot;&gt;逃离博客平台而「自立门户」成为独立博客&lt;/a&gt;时起，一直以来我都是以个人网站为中心进行内容生态建设——&lt;/p&gt;
-
-&lt;p&gt;内容首发于个人网站，再根据其形态和领域选择性地分发到适当的公共平台，以加大曝光度；个人网站作为自己所输出内容的最全索引与控制力最强、数据最有保障的托底而存在。&lt;/p&gt;
-
-&lt;p&gt;随着近几年自我意识的进一步觉醒与强化，我开始思考 to C 服务该有的样子，诞生了「&lt;a href=&quot;/series/talking-about-individual-centered-services/&quot;&gt;闲聊个人服务&lt;/a&gt;」系列文章。&lt;/p&gt;
-
-&lt;p&gt;尤其是在内容的生产与消费方面，我脑中有个乌托邦——&lt;a href=&quot;/posts/say-goodbye-to-blog/#section&quot;&gt;人人都有个人网站，将其作为在互联网上链接彼此的基石。&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;为距离这个乌托邦更近一些，于前年采取了较为激进的行动——把发表在 SegmentFault、掘金和公众号「Coding as Hobby」等上面的内容删除并注销账号，即便已积累了一些关注者。&lt;/p&gt;
-
-&lt;p&gt;虽在去年下半年又重新注册了部分账号，但之前的影响力已基本不复存在，现在看来当初的行为显得那么愚蠢且鲁莽。&lt;/p&gt;
-
-&lt;p&gt;至于我为啥逐渐重视起公共平台，是由于两个原因让我渴求庞大的流量——&lt;/p&gt;
-
-&lt;p&gt;作为表达者，想要自己的想法、观点被更多的人看到并进行讨论交流；作为创作者，想令自己的作品被更多的人认同，为他们提供价值。&lt;/p&gt;
-
-&lt;p&gt;我差不多明确了自己的赚钱方式，认同我本人及作品的人就是潜在客户，需要尽可能地扩大流量以提高转化率。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;媒体局限&lt;/h2&gt;
-
-&lt;p&gt;若把互联网看作是信息的汪洋大海，当前主流形式的个人网站与公共平台都是孤岛，在信息的互通有无上有着各自的局限。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-2&quot;&gt;个人网站&lt;/h3&gt;
-
-&lt;p&gt;个人网站的开放性是最高的，几乎没什么内容访问的门槛，这意味着任何人都可匿名查看发布在网站上的信息。&lt;/p&gt;
-
-&lt;p&gt;这样一来，很难对具体的访客进行建模与追踪，连来者何人都不知道，更别提做什么精准营销、私域运营了！&lt;/p&gt;
-
-&lt;p&gt;给网站加个虚拟身份系统能够一定程度上解决这类问题，可他们去登录进这个系统的动力又是啥呢？&lt;/p&gt;
-
-&lt;p&gt;绝大部分访客是看完即走，只有极个别的会留言评论。而他们会特意留下踪迹的前提，很可能是网站已经比较有影响力或内容很有价值。&lt;/p&gt;
-
-&lt;p&gt;然而，恰恰在不借助任何公共平台和线下推广等带来的流量而仅靠搜索引擎时，很难让个人网站积聚影响力，除非网站的大部分内容是大众所需要且稀缺的——这可能吗？&lt;/p&gt;
-
-&lt;h3 id=&quot;section-3&quot;&gt;公共平台&lt;/h3&gt;
-
-&lt;p&gt;公共平台上产生的内容得合法合规所带来的监管和审核问题，以及公共平台背后受资本主义支配的企业所拥有的数据霸权，都在降低信息的开放性并限制使用者的自由。&lt;/p&gt;
-
-&lt;p&gt;如果说个人网站是只有一个人居住的孤岛的话，那各个公共平台就是建立了「国家」的孤岛，平台背后的企业则是这「国家」的政权。&lt;/p&gt;
-
-&lt;p&gt;各「国家」为了自身利益，完善各类基础设施，从而它们之间高度同质化；再通过各种手段吸引人们注意力，影响他们心智，想要他们永久居住在自己那。&lt;/p&gt;
-
-&lt;p&gt;若要「全球化」的话，处在不同「国家」的人们就能方便地交流了，也用不着在不同「国家」制造分身；可那些「国家」却偏偏都选择「闭关锁国」，给人们制造麻烦。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-4&quot;&gt;传播体系&lt;/h2&gt;
-
-&lt;p&gt;一般来说，鉴于人区别于其他动物的特性，乌托邦是无法成为现实的，但这不代表就不需要为之努力了。&lt;/p&gt;
-
-&lt;p&gt;再者，就算仅仅基于我的个人网站定位，也会继续秉持以个人网站为中心进行内容生态建设的理念——&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;网站的新定位是「个人知识库」，或者说是「第二大脑」，更确切地说应该是「知识/内容输出的一种方式」。&lt;/p&gt;
-  &lt;footer&gt;欧雷《&lt;cite&gt;&lt;a href=&quot;/posts/say-goodbye-to-blog/&quot;&gt;再见，博客！&lt;/a&gt;&lt;/cite&gt;》&lt;/footer&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;若只是这样，或像几天之前那样基本只较为重视微信生态这一个公共平台，那我的「&lt;ruby&gt;&lt;rb&gt;欧雷宇宙&lt;/rb&gt;&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;Ouraiverse&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;」就是一个不那么开放而相对封闭的系统。&lt;/p&gt;
-
-&lt;p&gt;这既不利于我要表达的想法、观点更广地传播，又无助于自我精神世界更快地迭代；因而，我得进一步整合其他公共平台以提高传播和迭代的效率。&lt;/p&gt;
-
-&lt;p&gt;经过升级，我的传播体系包含三个子体系：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;内容体系——个人网站作为本地个人知识库对外公开的那部分，是自己在互联网上输出内容的最全索引与控制力最强、数据最有保障的托底；&lt;/li&gt;
-  &lt;li&gt;流量体系——在主流以内容生产与消费为核心业务的公共平台上分发内容，增加曝光度，扩大影响力；&lt;/li&gt;
-  &lt;li&gt;私域体系——在主流以即时聊天为核心业务并提供内容生产与消费以及应用功能扩展能力的公共平台上，为从流量体系中筛选而来的粉丝提供更好的商品与服务以获得收入，形成良性循环。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;除了内容体系，流量体系与私域体系会针对中文圈与非中文圈搭建两套完全不同的矩阵——理论上，中文圈在国内平台用中文，非中文圈在国外平台用英文。&lt;/p&gt;
-
-&lt;p&gt;另外，由于公共平台在功能上的高度同质化，我会取各家之长，即只用它们起家时的功能，如：新浪微博与 Twitter 的微博客，知乎与 Quora 的问答。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 Jul 2023 22:30:29 +0800</pubDate>
-        <link>https://ourai.ws/posts/why-i-am-back-to-content-platforms/</link>
-        <guid isPermaLink="true">https://ourai.ws/posts/why-i-am-back-to-content-platforms/</guid>
-        
-        <category>thoughts</category>
-        
-        
-        <category>life-hacking</category>
-        
-        <category>self-media</category>
-        
-        <category>personal-branding</category>
         
       </item>
     
