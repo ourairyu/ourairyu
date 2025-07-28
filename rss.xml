@@ -6,10 +6,166 @@
     <description>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</description>
     <link>https://ourai.ws/</link>
     <atom:link href="https://ourai.ws/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Jul 2025 10:53:39 +0800</pubDate>
-    <lastBuildDate>Sat, 26 Jul 2025 10:53:39 +0800</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 18:30:36 +0800</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 18:30:36 +0800</lastBuildDate>
     <language>zh-CN</language>
     <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>中年人在 AdventureX 2025 的几日</title>
+        
+          <dc:creator>欧雷</dc:creator>
+          <author>欧雷</author>
+        
+        <description>&lt;p&gt;号称「中国最大黑客松」的 &lt;a href=&quot;https://adventure-x.org&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;AdventureX 2025&lt;/a&gt; 结束了，趁着「戒断反应」还未消去，赶紧写些文字略微总结下我的这几日。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;参加干啥&lt;/h2&gt;
+
+&lt;p&gt;首先来说说「参加干啥」，这是我故意说的有歧义的「病句」：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;为什么要参加？&lt;/li&gt;
+  &lt;li&gt;来做什么项目？&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;那我就分别说明下。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;为什么要参加&lt;/h3&gt;
+
+&lt;p&gt;去年 7 月举办了第一届的 AdventureX，因报名有年龄限制而成为「只属于年轻人的黑客松」；第一次打开官网时看到自己没资格报名，直接把网页关闭了。&lt;/p&gt;
+
+&lt;p&gt;本来已经不关注这黑客松的动态了，但正在接触的两个组织 &lt;a href=&quot;https://free-be.xyz&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;FreeBe DAO&lt;/a&gt; 和 &lt;a href=&quot;https://openbuild.xyz&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;OpenBuild&lt;/a&gt; 都有人要去活动现场，可以说我为了面基先后两次「不得已」去了现场。&lt;/p&gt;
+
+&lt;p&gt;门卫那的检查比较严格，当时给我的体验不太好，一直想吐槽来着；在比赛尚未结束与 demo day 中参观时，场地的环境与氛围抵消了那种不快感，反倒让我觉得还不错。&lt;/p&gt;
+
+&lt;p&gt;就结果而言，上一届年龄限制导致没能报名参加使我心中有点「小小遗憾」。&lt;/p&gt;
+
+&lt;p&gt;今年得知再办 AdventureX 2025 时，惯性地以为又有年龄限制，就忽略了这个活动的相关信息。&lt;/p&gt;
+
+&lt;p&gt;直到知晓 OpenBuild 要办一场 &lt;a href=&quot;https://xhslink.com/m/8VYlH8j8BlE&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;BuilderUp&lt;/a&gt; 活动，并且由刚成为杭州主理人的俺家🐷负责，令我不得不关注起 AdventureX 2025 来。&lt;/p&gt;
+
+&lt;p&gt;在与他人交流时知道这届并没限制年龄，为了弥补去年的「小小遗憾」，更重要的是以下两点：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;倒逼自己推进独立产品研发；&lt;/li&gt;
+  &lt;li&gt;与更多人认识并进行交流。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;所以我报名了 AdventureX 2025，且很幸运地通过了审核。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;来做什么项目&lt;/h3&gt;
+
+&lt;p&gt;报名审核通过后，在还没认真看过比赛规则前，我是打算继续做&lt;a href=&quot;/posts/i-am-developing-the-knosys-web-app/&quot;&gt;之前没搞完的 KnoSys GUI 应用&lt;/a&gt;，就算不与他人组队而只有我自己也可以。&lt;/p&gt;
+
+&lt;p&gt;过几天，仔细把《&lt;a href=&quot;https://adventurex.feishu.cn/docx/Dv6fdrGXeoqXywxsVbTcrIjonTe&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;AdventureX 2025 终极指南&lt;/a&gt;》看了一遍，「不许自带项目」和「每支队伍至少两人」这两条规则推翻了我原来的计划。&lt;/p&gt;
+
+&lt;p&gt;在学术交流中心的开幕式结束后，我回到湖畔创研中心去结合刚公布的赛道信息思考：「做个什么东西能既是在想做的个人与家庭数智化领域，又能契合比赛并满足规则？」&lt;/p&gt;
+
+&lt;p&gt;直到第二天中午也没想出具体的来，只有模模糊糊的想法，令我感到头疼——&lt;/p&gt;
+
+&lt;p&gt;得做出让他人耳目一新的东西，不然就会被问：「这跟 xxx 有啥区别或亮点？」&lt;/p&gt;
+
+&lt;p&gt;但无论从想达到的效果来看，还是说满足提交比赛项目的要求，皆需功能流程完整，这就触及到我的知识与经验盲区而难以评估复杂度和工作量，时间很可能不够用。&lt;/p&gt;
+
+&lt;p&gt;这使我有些精神内耗，并且几天前就开始心理状态不佳而较为脆弱，这一下心情再次跌到谷底，不想做自己的项目了，也不想进别人的队伍——已经心理上弃赛。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;有收获吗&lt;/h2&gt;
+
+&lt;p&gt;虽然我心理上弃赛而失去了获得奖金的机会，但仍可像游客一样尽量充分利用好活动提供的资源，转化为自己成长的养分。&lt;/p&gt;
+
+&lt;h3 id=&quot;workshop--&quot;&gt;@Workshop &amp;amp; 蓝调活动&lt;/h3&gt;
+
+&lt;p&gt;既然决定不做项目了，我立刻查看《终极指南》找寻自己感兴趣的活动，将它们加进日历行程：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20250728/calendar-schedule-8a168651b00bdf5c7e93ad678ac42600f491d0f6f63814ecfc9cf263c0247cb7.png&quot; alt=&quot;日历行程&quot; /&gt;
+  &lt;figcaption&gt;日历行程&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;大多或多或少让我有所得，分别为：&lt;/p&gt;
+
+&lt;table class=&quot;table table-bordered&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;活动&lt;/th&gt;
+      &lt;th&gt;类别&lt;/th&gt;
+      &lt;th&gt;收获&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;飞书多维表格开放生态研发实战：从 “乐高” 到 “火箭”—— 搭建你的企业级应用引擎&lt;/td&gt;
+      &lt;td&gt;@Workshop&lt;/td&gt;
+      &lt;td&gt;飞书多维表格真的很强，付费后使用就是个无代码应用搭建平台，再加上它的开放性，无论是个人还是企业都有可能开发出很有用、很畅销的解决方案。&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AI 创业，卷在国内还是卷向全球？&lt;/td&gt;
+      &lt;td&gt;@Workshop&lt;/td&gt;
+      &lt;td&gt;羡慕 Iris 的表达能力，她说的一些运营技巧和策略对我做独立开发很有帮助。&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AI Agent的经济革命：用区块链实现自主协作与盈利&lt;/td&gt;
+      &lt;td&gt;@Workshop&lt;/td&gt;
+      &lt;td&gt;之前 OpenBuild 做过 Virtuals Protocol 的活动和内容，都被我无视了，但这次听了之后令我眼前一亮——智能体经济真可以是继知识经济后的另一重要趋势，两者可相辅相成，扩大「超级个体」的收益规模！&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;BNB Chain Mass Adoption 实验室：从代码到千万用户的商业炼金术&lt;/td&gt;
+      &lt;td&gt;@Workshop&lt;/td&gt;
+      &lt;td&gt;了解到币安对开发者的支持力度，尤其是与 AI 相关的，我日后做的一些东西可以考虑投币安。&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AI 时代的趋势观察和创业者画像&lt;/td&gt;
+      &lt;td&gt;@Workshop&lt;/td&gt;
+      &lt;td&gt;听来自真格基金的合伙人刘元讲「投人」哲学，让我觉得如果自己需要融资，投资机构首选真格基金！&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;正念创造力冥想&lt;/td&gt;
+      &lt;td&gt;蓝调活动&lt;/td&gt;
+      &lt;td&gt;在进行正念冥想中数冒出来的想法练习时，有那么一瞬间我有像进入梦境的感觉，身处一个周围是雪的环境，很是神奇！&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;这些收获都已成为「我」的一部分，将影响着之后的人生道路。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;自己想做的事&lt;/h3&gt;
+
+&lt;p&gt;在 AdventureX 2025 最后两天，跟三个熟人分别在不同层面较深入地谈论了我在个人与家庭数智化领域想做的事，交流后我有不同程度的收获：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;与创业失败过的数字游民朋友——不管事情有多么大，尽可能用大众听得懂的话讲好叙事，从中找到自己的（潜在）用户进行市场验证；&lt;/li&gt;
+  &lt;li&gt;与做教育社区的 Web3 社区朋友——根据自己的理解对他社区产品核心搭建方向提出建议，并说比较难的那部分与我的事情有契合点，可以共同探索与构建；&lt;/li&gt;
+  &lt;li&gt;与十来年未联系的前同事——通过他的不断提问与反馈，我说了近期和远期要解决的问题，包含些许实现方案细节，过程中令我意识到即便对方不是「大众」，也无法解释得很清楚。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这些都为我指明了接下来要重点去做的事：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;梳理出这庞大事情的关键节点与大致路径；&lt;/li&gt;
+  &lt;li&gt;撰写「愿景说明书」，用大众听得懂的话重新包装后发布到自媒体，也考虑在线下活动演讲分享；&lt;/li&gt;
+  &lt;li&gt;募集共建者与合作伙伴。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;忽然感到自己的未来更加明朗了～&lt;/p&gt;
+
+&lt;h2 id=&quot;section-5&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;通过 AdventureX 2025，不仅与只在网上相互认识的人见了面，也跟原本没那么熟的人加深了连接，还认识了几个全新的朋友。&lt;/p&gt;
+
+&lt;p&gt;虽然这届发生了很多负面事件，但作为全程参与者，我感受到了主办方的用心与工作人员的不容易，无法一刀切地全盘肯定或否定。&lt;/p&gt;
+
+&lt;p&gt;总的来说，若有 AdventureX 2026 我还会报名，希望到时再给我这个中年人一次「为创造失眠」的机会！&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Jul 2025 18:15:58 +0800</pubDate>
+        <link>https://ourai.ws/posts/days-at-adventurex-2025/</link>
+        <guid isPermaLink="true">https://ourai.ws/posts/days-at-adventurex-2025/</guid>
+        
+        <category>life</category>
+        
+        
+        <category>lifestyle</category>
+        
+      </item>
     
       <item>
         <title>你的人生是怎样一步步走进死路的</title>
@@ -1192,94 +1348,6 @@
         <pubDate>Sun, 05 Jan 2025 20:18:24 +0800</pubDate>
         <link>https://ourai.ws/posts/ready-for-phase-two/</link>
         <guid isPermaLink="true">https://ourai.ws/posts/ready-for-phase-two/</guid>
-        
-        <category>life</category>
-        
-        
-        <category>life-hacking</category>
-        
-        <category>lifestyle</category>
-        
-        <category>digital-nomad</category>
-        
-      </item>
-    
-      <item>
-        <title>数字游民该如何「游」？</title>
-        
-          <dc:creator>欧雷</dc:creator>
-          <author>欧雷</author>
-        
-        <description>&lt;p&gt;在 11 月 9 日，为期两天的「第二届数字游民大会」在位于黄山黟县的「NCC·黑多岛」举行，距离我参加的上一届大会上海站刚好差一个月一年，俨然要成为数字游民「年会」的样子！&lt;/p&gt;
-
-&lt;p&gt;由于 10 日我要赶往泰国，遗憾只能参加一天的；基本都泡在「世界青年会客厅」了，也听了些「主理人舞台」的分享；我听的内容大多比较喜欢，整体质量比上届上海站的高。&lt;/p&gt;
-
-&lt;p&gt;参加过上届上海站后，我有感而发写了《&lt;a href=&quot;/posts/i-want-to-talk-about-digital-nomads/&quot;&gt;作为「数字游民大会」未邀请嘉宾的分享&lt;/a&gt;》，阐述我对「数字游民」的理解及其所带来的挑战。&lt;/p&gt;
-
-&lt;p&gt;本届大会也有触动我的点，即会上多次提及的「流动与扎根」的问题，恰巧与我之前和近期的一些思考比较契合，故借此机会将其述说。&lt;/p&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;「流动」放缓&lt;/h2&gt;
-
-&lt;p&gt;虽说数字游民的流动频率不尽相同，但很多人是以天、周、月为单位更换地点，在同一个城市停留不大会超过一个季度——能去那么多地方，直叫坐班的人羡慕得眼红。&lt;/p&gt;
-
-&lt;p&gt;然而，如此频繁地迁徙真的好吗？反正我是不喜欢，在我看来跟「特种兵式旅游」没啥区别。&lt;/p&gt;
-
-&lt;p&gt;这种「特种兵式游牧」就是（较长期的）旅游，从数字游牧的角度讲至少有如下缺点：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;快感来得太多，陷入倦怠期快，麻木得也快，从而变得难以体会到数字游牧的乐趣；&lt;/li&gt;
-  &lt;li&gt;只能接触到当地环境所营造的最直观的浅层感受，无法深入进风土人情与生活方式当中；&lt;/li&gt;
-  &lt;li&gt;在路上奔波的时间多，停下来思考的时间少，不思考就没法淬炼出什么价值。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;真正的数字游牧，应当不只是接受新鲜刺激带来的快感，更要主动地探索并了解当地风俗习惯，像当地人一样生活，也就是所谓的「融入」。&lt;/p&gt;
-
-&lt;p&gt;假如一个人出国生活了，他几乎只待在 Chinatown 或其他什么华人聚集的街道社区，那他这国出得有什么意思吗？&lt;/p&gt;
-
-&lt;p&gt;我所倡导并将要采用的游牧策略为「以根据地为中心向周边地区辐射式探索」且「以季为单位在根据地居住」，具体详见《&lt;a href=&quot;/posts/if-i-become-a-digital-nomad/&quot;&gt;假设我是数字游民&lt;/a&gt;》。&lt;/p&gt;
-
-&lt;p&gt;我说的「根据地」分为两种：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;固定根据地——自掌控的房子，除了居住和仓储的功能外，还可充当家庭数据中心的节点；&lt;/li&gt;
-  &lt;li&gt;临时根据地——租赁来的房子，仅有居住和仓储的功能。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;只有降低流动频率，才能更好地体验当地生活，真正地体会到数字游牧的乐趣！&lt;/p&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;「扎根」新解&lt;/h2&gt;
-
-&lt;p&gt;当我们在说「扎根」时，实际是在说什么？&lt;/p&gt;
-
-&lt;p&gt;一般的理解为「在某个地方定居了」，这是物理空间层面；也有人会说是「找到归属感」，可认为是线下的人际网络，融入线下的「附近」，算是人文精神层面。&lt;/p&gt;
-
-&lt;p&gt;但这都是互联网和数字技术都不发达时的惯性解释，在数字技术十分发达的当下，作为（准）数字游民，理应对「扎根」这词有新的诠释——&lt;/p&gt;
-
-&lt;p&gt;「扎根」的核心就是「相对稳固的人际网络」，否则就算在某地定居了，但没什么人认识，更别提亲朋好友，还会有「归属感」吗？还会觉得自己「扎根」在那了吗？&lt;/p&gt;
-
-&lt;p&gt;所以说，在各类社交软件层出不穷的现在，为啥要把「相对稳固的人际网络」局限于线下？在线上构建不行吗？&lt;/p&gt;
-
-&lt;p&gt;在线上可以打破国别、地域、语言等的限制，更容易找到志同道合的人，也更容易将人际网络规模化，筛选出与自己相互高度匹配的人进而固化。&lt;/p&gt;
-
-&lt;p&gt;不可否认，与线下同处一个空间相比，线上确实缺失了一些信息与情感的维度，但这不成问题——在线上处得好的，可约线下见面，补全那些缺失的维度。&lt;/p&gt;
-
-&lt;p&gt;两人之间的地理距离、相见时间等对数字游民来说是问题吗？见面的频次也无需担心，扪心自问一下，难道自己与线下的亲朋好友就很高频地相见了吗？&lt;/p&gt;
-
-&lt;p&gt;在当下，作为数字游民，要「扎根」就在互联网上——利用数字技术建立并扩大与维护自己的人际网络，积极参与线上社区形成新形态的「附近」。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-2&quot;&gt;结语&lt;/h2&gt;
-
-&lt;p&gt;本文是我这个「精神游牧」老司机对「流动与扎根」问题的看法，结合我的个人发展来看，从明年开始大致有如下规划——&lt;/p&gt;
-
-&lt;p&gt;自媒体是我触达陌生人并建立连接的重要途径，既为了打造自己的海外影响力，也为了认识来自世界各地的人们，我要不依赖 AIGC 进行英文创作，也考虑针对日本地区用日文创作。&lt;/p&gt;
-
-&lt;p&gt;与外国人在线上搞好关系后，当我想去他们所在的国家城市时，就可以把相应的人约出来见面，不仅能补齐纯线上缺失的维度以加强我们的关系，还能令我更迅速地融入当地。&lt;/p&gt;
-
-&lt;p&gt;当我「扎根」于互联网且与世界各地的人们建立「相对稳固的人际网络」，缓慢地「流动」进他们的故乡并融入当地生活，那我日后再到那里见那些人，就犹如回到故乡看望老友。&lt;/p&gt;
-</description>
-        <pubDate>Tue, 26 Nov 2024 17:53:44 +0800</pubDate>
-        <link>https://ourai.ws/posts/the-right-way-for-digital-nomadism/</link>
-        <guid isPermaLink="true">https://ourai.ws/posts/the-right-way-for-digital-nomadism/</guid>
         
         <category>life</category>
         
