@@ -9,8 +9,8 @@
     <description>记录一下生活及工作中所经历的杂七杂八，顺便吐吐槽、卖卖萌、装装逼 ;-P</description>
     <link>https://ourai.ws/categories/life/</link>
     <atom:link href="https://ourai.ws/categories/life/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Oct 2025 20:36:27 +0800</pubDate>
-    <lastBuildDate>Fri, 31 Oct 2025 20:36:27 +0800</lastBuildDate>
+    <pubDate>Sat, 01 Nov 2025 14:12:55 +0800</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2025 14:12:55 +0800</lastBuildDate>
     <language>zh-CN</language>
     <generator>Jekyll v3.0.3</generator>
     
@@ -70,23 +70,35 @@
 
 &lt;p&gt;2025 年 8 月 16 日，举办了&lt;a href=&quot;https://www.xiaohongshu.com/explore/68a043f8000000001b021e5e&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;社区第一场线下活动&lt;/a&gt;，也是第一场户外活动，正穿&lt;a href=&quot;https://qiidb.github.io/zh/routes/dayangwu-small-circle-route-in-hangzhou/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;大洋坞小环线&lt;/a&gt;，有 4 人参与，算是正式见面会前的热场。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20250816&#39; | asset_path }}&quot; alt=&quot;社区第一场线下活动&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20250816&#39; | asset_path }}&quot; alt=&quot;社区第一场线下活动&quot; /&gt;
+  &lt;figcaption&gt;社区第一场线下活动&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 8 月 21 日，作为活动合作伙伴入驻 NCC 的「游牧岛」。&lt;/p&gt;
 
 &lt;p&gt;2025 年 8 月 28 日，在向阳社区党群服务中心举办了&lt;a href=&quot;https://www.xiaohongshu.com/explore/68b07d53000000001b035e93&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;社区正式见面会&lt;/a&gt;，有 24 人到场，「&lt;a href=&quot;https://www.xiaohongshu.com/user/profile/6506955d0000000017021f33&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;四喜器物&lt;/a&gt;」工作室赞助了一些纯铜器物作为每位参与者的小礼物。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20250828&#39; | asset_path }}&quot; alt=&quot;社区正式见面会&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20250828&#39; | asset_path }}&quot; alt=&quot;社区正式见面会&quot; /&gt;
+  &lt;figcaption&gt;社区正式见面会&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 8 月 31 日，与「&lt;a href=&quot;https://www.xiaohongshu.com/user/profile/65347a3e000000000d007dad&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;大力在银湖&lt;/a&gt;」录制一期&lt;a href=&quot;https://www.xiaohongshu.com/explore/68bd15cc000000001d02fd2a&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;简短的访谈节目&lt;/a&gt;，介绍自己为什么在银湖做银湖创联这个社区。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20250831&#39; | asset_path }}&quot; alt=&quot;「大力在银湖」访谈&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20250831&#39; | asset_path }}&quot; alt=&quot;「大力在银湖」访谈&quot; /&gt;
+  &lt;figcaption&gt;「大力在银湖」访谈&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 9 月 1 日，注册官方微信公众号并投入运营。&lt;/p&gt;
 
 &lt;p&gt;2025 年 9 月 10 日，为促进形成银湖的「疯狂星期四」而设计的社区每周固定活动&lt;a href=&quot;https://mp.weixin.qq.com/s/hOyq7-9mZ_nAk-00dhuRUQ&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;「非确定唠嗑儿」第 1 期&lt;/a&gt;在硅谷小镇客厅举办，有 13 人到场。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20250910&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 1 期&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20250910&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 1 期&quot; /&gt;
+  &lt;figcaption&gt;「非确定唠嗑儿」第 1 期&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 9 月 11 日，与瑞咖啡（RAY-COFFEE-TEA）达成场地合作。&lt;/p&gt;
 
@@ -94,59 +106,98 @@
 
 &lt;p&gt;2025 年 9 月 18 日，在和光艺术空间举办&lt;a href=&quot;https://mp.weixin.qq.com/s/jqnJuKwoIXYvlEGguHcnQg&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 2 期「非确定唠嗑儿」&lt;/a&gt;，到场 11 人。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20250918&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 2 期&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20250918&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 2 期&quot; /&gt;
+  &lt;figcaption&gt;「非确定唠嗑儿」第 2 期&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 9 月 21 日，举办了&lt;a href=&quot;https://mp.weixin.qq.com/s/Fo3pe1e862KekBdgSv-JDQ&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第二场户外活动&lt;/a&gt;，反穿大洋坞小环线，并将这类活动作为一个新的系列「一起去走走」，共 5 人参与。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20250921&#39; | asset_path }}&quot; alt=&quot;「一起去走走」第 1 期&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20250921&#39; | asset_path }}&quot; alt=&quot;「一起去走走」第 1 期&quot; /&gt;
+  &lt;figcaption&gt;「一起去走走」第 1 期&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 9 月 24 日，在瑞咖啡举办&lt;a href=&quot;https://mp.weixin.qq.com/s/au7Mn1kgi4e8VoOrLb0u8A&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 3 期「非确定唠嗑儿」&lt;/a&gt;，到场 9 人。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20250924&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 3 期&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20250924&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 3 期&quot; /&gt;
+  &lt;figcaption&gt;「非确定唠嗑儿」第 3 期&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 9 月 27 日，与「和光美育」和「大写的M」的合作活动「&lt;a href=&quot;https://mp.weixin.qq.com/s/g-a4uM0WKEBvfU3H2fmtLQ&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;杭州压力拯救计划：正念行走＋摄影疗愈&lt;/a&gt;」顺利举办，这是第一场合作的活动，到场 12 人左右。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20250927&#39; | asset_path }}&quot; alt=&quot;杭州压力拯救计划：正念行走＋摄影疗愈&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20250927&#39; | asset_path }}&quot; alt=&quot;杭州压力拯救计划：正念行走＋摄影疗愈&quot; /&gt;
+  &lt;figcaption&gt;杭州压力拯救计划：正念行走＋摄影疗愈&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 9 月 28 日，举办&lt;a href=&quot;https://mp.weixin.qq.com/s/LCvsNWKF8rPx_ohBN6V_DQ&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 2 期「一起去走走」&lt;/a&gt;，探路连起大洋坞水库与黄梅坞水库的环线，共 3 人参与。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20250928&#39; | asset_path }}&quot; alt=&quot;「一起去走走」第 2 期&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20250928&#39; | asset_path }}&quot; alt=&quot;「一起去走走」第 2 期&quot; /&gt;
+  &lt;figcaption&gt;「一起去走走」第 2 期&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 10 月 1 日，在瑞咖啡举办&lt;a href=&quot;https://mp.weixin.qq.com/s/6cW1GPLRmUUmuZzLytHL_g&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 4 期「非确定唠嗑儿」&lt;/a&gt;，到场 6 人。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20251001&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 4 期&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20251001&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 4 期&quot; /&gt;
+  &lt;figcaption&gt;「非确定唠嗑儿」第 4 期&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 10 月 2 日，与「金粟地」的合作活动「&lt;a href=&quot;https://mp.weixin.qq.com/s/LZWevQzZgVNtl3MR2Vo9Nw&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;国庆喧嚣逃离计划：窑烤面包＋植物拓染&lt;/a&gt;」顺利举办，到场 7 人左右。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20251002&#39; | asset_path }}&quot; alt=&quot;国庆喧嚣逃离计划：窑烤面包＋植物拓染&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20251002&#39; | asset_path }}&quot; alt=&quot;国庆喧嚣逃离计划：窑烤面包＋植物拓染&quot; /&gt;
+  &lt;figcaption&gt;国庆喧嚣逃离计划：窑烤面包＋植物拓染&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 10 月 12 日，在「小雇·全国自由职业者大会·杭州站」上做主题分享《&lt;a href=&quot;https://mp.weixin.qq.com/s/fnHWDsyTk12sG3mObpwtMw&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;典型程序员跨界做在地社区是怎样一种体验？&lt;/a&gt;》。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20251012&#39; | asset_path }}&quot; alt=&quot;「小雇·全国自由职业者大会·杭州站」主题分享&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20251012&#39; | asset_path }}&quot; alt=&quot;「小雇·全国自由职业者大会·杭州站」主题分享&quot; /&gt;
+  &lt;figcaption&gt;「小雇·全国自由职业者大会·杭州站」主题分享&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 10 月 16 日，在瑞咖啡举办&lt;a href=&quot;https://mp.weixin.qq.com/s/lRQNuiwsh9rk1TSQ59oZIQ&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 5 期「非确定唠嗑儿」&lt;/a&gt;，到场 7 人。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20251016&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 5 期&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20251016&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 5 期&quot; /&gt;
+  &lt;figcaption&gt;「非确定唠嗑儿」第 5 期&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 10 月 21 日，与「和光美育」和「大写的M」的合作活动「新月正念冥想·内在秩序重建」顺利举办，到场 6 人。&lt;/p&gt;
 
 &lt;p&gt;2025 年 10 月 22 日，在瑞咖啡举办&lt;a href=&quot;https://mp.weixin.qq.com/s/G8QOWGfzDFaPZkPu0ADWfw&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 6 期「非确定唠嗑儿」&lt;/a&gt;，到场 6 人。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20251022&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 6 期&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20251022&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 6 期&quot; /&gt;
+  &lt;figcaption&gt;「非确定唠嗑儿」第 6 期&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 10 月 24 日，在「全球自由职业者嘉年华」良渚分会场上台用三五分钟的 freestyle 介绍银湖创联。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20251024&#39; | asset_path }}&quot; alt=&quot;「全球自由职业者嘉年华」良渚分会场 freestyle 分享&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20251024&#39; | asset_path }}&quot; alt=&quot;「全球自由职业者嘉年华」良渚分会场 freestyle 分享&quot; /&gt;
+  &lt;figcaption&gt;「全球自由职业者嘉年华」良渚分会场 freestyle 分享&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;2025 年 10 月 26 日，与「和光美育」和「云谿艺术」的合作活动「玩转美术馆游学：杭州纤维艺术三年展」顺利举办，到场 4 人。&lt;/p&gt;
+&lt;p&gt;2025 年 10 月 26 日，与「和光美育」和「云谿艺术」的合作活动「&lt;a href=&quot;https://mp.weixin.qq.com/s/tG_lUgE3BKGEC3AsePc62g&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;玩转美术馆游学：杭州纤维艺术三年展&lt;/a&gt;」顺利举办，到场 4 人。&lt;/p&gt;
 
 &lt;p&gt;2025 年 10 月 28 日，举办&lt;a href=&quot;https://mp.weixin.qq.com/s/C87v02qCDryEZj_8-ruTsQ&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 3 期「一起去走走」&lt;/a&gt;，挑战华庭云顶如意尖小环线，共 10 人参与。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20251028&#39; | asset_path }}&quot; alt=&quot;「一起去走走」第 3 期&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20251028&#39; | asset_path }}&quot; alt=&quot;「一起去走走」第 3 期&quot; /&gt;
+  &lt;figcaption&gt;「一起去走走」第 3 期&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;2025 年 10 月 29 日，在瑞咖啡举办&lt;a href=&quot;https://mp.weixin.qq.com/s/PNMZwXLRJ8cAgtugosKpvA&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 7 期「非确定唠嗑儿」&lt;/a&gt;，到场 10 人。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ &#39;posts/20251031/20251029&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 7 期&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20251031/20251029&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 7 期&quot; /&gt;
+  &lt;figcaption&gt;「非确定唠嗑儿」第 7 期&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h3 id=&quot;section-3&quot;&gt;鸣谢&lt;/h3&gt;
 
