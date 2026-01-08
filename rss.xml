@@ -6,10 +6,39 @@
     <description>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</description>
     <link>https://ourai.ws/</link>
     <atom:link href="https://ourai.ws/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Jan 2026 01:33:11 +0800</pubDate>
-    <lastBuildDate>Thu, 08 Jan 2026 01:33:11 +0800</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2026 21:50:10 +0800</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2026 21:50:10 +0800</lastBuildDate>
     <language>zh-CN</language>
     <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>意外「脱轨」的 2025 年</title>
+        
+          <dc:creator>欧雷</dc:creator>
+          <author>欧雷</author>
+        
+        <description>&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;破局之路&lt;/a&gt;」的第 30 篇正式文章，主要讲述以下内容：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;2025 年目标完成情况；&lt;/li&gt;
+  &lt;li&gt;2025 年个人成长；&lt;/li&gt;
+  &lt;li&gt;接下来针对问题的改进方案。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://www.yuque.com/ourai/kqx2ue/vf9soimylgqhbmg5&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;语雀&lt;/a&gt;、&lt;a href=&quot;https://xiaobot.net/post/5a65c3f2-deb1-490c-9f9d-ef1b3ca21341&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/2AQ4QdhqI2u4uA7n8-_C9w&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Jan 2026 19:55:25 +0800</pubDate>
+        <link>https://ourai.ws/posts/year-in-review-2025/</link>
+        <guid isPermaLink="true">https://ourai.ws/posts/year-in-review-2025/</guid>
+        
+        <category>life</category>
+        
+        
+        <category>life-hacking</category>
+        
+        <category>lifestyle</category>
+        
+      </item>
     
       <item>
         <title>传统投资逻辑失灵？超级个体时代该如何投资？</title>
@@ -1224,150 +1253,6 @@
         <category>life-engineering</category>
         
         <category>life-hacking</category>
-        
-      </item>
-    
-      <item>
-        <title>超越 Vibe Coding 的智能研发</title>
-        
-          <dc:creator>欧雷</dc:creator>
-          <author>欧雷</author>
-        
-        <description>&lt;p&gt;随着 LLM 编程能力的增强及 AI 辅助编程工具的百花齐放，&lt;a href=&quot;https://x.com/karpathy/status/1886192184808149383&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;于今年 2 月初由 Andrej Karpathy 提出的「Vibe Coding」&lt;/a&gt;变得愈发流行。&lt;/p&gt;
-
-&lt;p&gt;这种编程方式，能够做到：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;让不懂编程和软件工程的人也能开发满足自己或一部分人需求的小应用；&lt;/li&gt;
-  &lt;li&gt;高效生成可用的原型级产品，快速验证想法、点子的可行性。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;看到这，你会发现：「诶？好像 vibe coding 做不了复杂的事情嘛？」&lt;/p&gt;
-
-&lt;p&gt;没错，用当前普遍的 vibe coding 能做的事也就「仅此而已」——AI 的内容生成是个黑盒，充满随机性，无法保证产出结果的一致性、安全性等，也就谈不上什么软件质量、复杂功能之类了。&lt;/p&gt;
-
-&lt;p&gt;所以说，基于 AI 的编程方式暂时还取代不了绝大部分需要「严肃编程」的项目参与者，相关软件开发人员可以稍微放轻松些，喘口气儿。&lt;/p&gt;
-
-&lt;p&gt;不过，也只是「暂时」了，当我即将阐述的两种改进手段得以渐成主流时，纯纯的打工人还是得担心下自己的饭碗保不保得住……&lt;/p&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;智能研发&lt;/h2&gt;
-
-&lt;p&gt;在继续往下正式进入主题之前，建议先读过以下几篇文章，对理解我要表达的很有帮助：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;《&lt;a href=&quot;/posts/the-real-world/&quot;&gt;客观的现实世界&lt;/a&gt;》——解释构成「DIKW 金字塔」的各要素，即数据、信息、知识、智慧；&lt;/li&gt;
-  &lt;li&gt;《&lt;a href=&quot;/posts/communication-in-the-real-world/&quot;&gt;现实世界中的交流&lt;/a&gt;》——描述对于「交流」来说，「上下文」有多么的重要；&lt;/li&gt;
-  &lt;li&gt;《&lt;a href=&quot;/posts/the-effect-of-knowledge-on-efficiency-part-2/&quot;&gt;反思软件开发：知识流动（中）&lt;/a&gt;》——说明知识的基本原理是什么，以及遵从「SSOT」的重要性。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;就算现在不看，完整地读完本文后带着疑问去看也许会更有效果。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-1&quot;&gt;低代码化&lt;/h3&gt;
-
-&lt;p&gt;在 AI 辅助编程的能力被人们认可时，有人觉得低代码平台没用了，甚至还包括一些行内人；在我看来，他们要么一点不懂低代码，要么走了错误的低代码路线。&lt;/p&gt;
-
-&lt;p&gt;几年前我还在参与低代码平台引擎框架开发，那时根本没有公开的 AIGC 工具，但我当时就是认为未来有 AI 参与的软件开发一定需要以低代码平台为基础。&lt;/p&gt;
-
-&lt;p&gt;提起「低代码平台」，你脑中立刻出现的很可能是一个主体区域是三栏布局的工作台：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;中间是能够编排区块的画布；&lt;/li&gt;
-  &lt;li&gt;左边是可往画布中拖拽的区块；&lt;/li&gt;
-  &lt;li&gt;右边是编辑选中区块属性的面板。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;然而，这并不重要，只是低代码平台最常使用「GUI」这种表现形式而已，也就是「图形用户界面」，它也可以用其他形式表现——&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;在人机交互中起到信息交换作用的那块空间，叫做「人机交互界面」，也叫「用户界面」。「UI」就是「用户界面」所对应的英文单词「User Interface」的缩写。&lt;/p&gt;
-  &lt;p&gt;不同的交互方式和层次产生了不同的「用户界面」，如：基于文本的「命令行界面（Command-line Interface）」、基于图形的「图形用户界面（Graphical User Interface）」、基于语音的「自然语言用户界面（Natural-language User Interface）」等等。&lt;/p&gt;
-  &lt;footer&gt;欧雷《&lt;cite&gt;&lt;a href=&quot;/posts/the-core-concepts-of-frontend-ui-components/&quot;&gt;聊聊前端 UI 组件：核心概念&lt;/a&gt;&lt;/cite&gt;》&lt;/footer&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;走正确路线的低代码平台，其本质是：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;极致的工程体系——除了常规的代码块、业务，就连 UI 设计，任何与软件开发有关的都要工程化，并融合进代码中；&lt;/li&gt;
-  &lt;li&gt;高度抽象的符号系统——通过 DSL 与外界通信，就像一套加了密的暗号用语。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;要设计出这样的低代码平台引擎框架，必须要对世界、人有深刻的理解，才能提供强大的扩展能力，以便于生长出繁荣的生态，应对多样的业务场景。&lt;/p&gt;
-
-&lt;p&gt;正因为这低代码平台是一个符号系统，它有能力定义出针对特定领域，借助 DSL 封装了领域知识且简化了表达的一组「词汇表」。&lt;/p&gt;
-
-&lt;p&gt;那么，低代码平台就可以在 MCP server 的帮助下以「LUI」的形式表现，即「自然语言用户界面」，借此与 LLM 及人类交互。&lt;/p&gt;
-
-&lt;p&gt;完成同样功能所需的 AIGC 代码量大幅减少了，产出结果的一致性、安全性等就成反比地提升加强了，更能保障软件质量，更容易实现复杂功能。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-2&quot;&gt;知识驱动&lt;/h3&gt;
-
-&lt;p&gt;所谓「知识」，简单来说就是关于指定人事物的一些「有价值的信息」。&lt;/p&gt;
-
-&lt;p&gt;想象一下，如果你是一个任务执行者的角色，是更愿意听交代你任务的人吧啦吧啦说一堆，而且还得追问好几轮才能弄明白任务到底是啥？还是更喜欢他直接丢给你一些整理好的文档？&lt;/p&gt;
-
-&lt;p&gt;人类的大量实践与研究已经证明，在即时性的表达中思考深度是远远不够的，出错概率很高，夹杂着大量低价值甚至无价值的信息，尤其是在当事人智慧不多时。&lt;/p&gt;
-
-&lt;p&gt;很明显，聊天式地描述一个略微带点复杂度的任务是个十分低质、低效的方式——基本纯靠聊天的 vibe coding 注定只能做出粗制滥造的「玩具」。&lt;/p&gt;
-
-&lt;p&gt;相反，知识驱动的智能研发则是先让人类写出经过深度思考和逻辑推演验证的一系列详细文档，再将其作为 AI 辅助编程工具某个对话的预置上下文后下达指令。&lt;/p&gt;
-
-&lt;p&gt;理论上讲，若所使用的 AI 辅助编程工具是智能体级别，只要文档质量足够高，几乎仅下达一次让智能体完成需求的指令即可，无需来回多轮对话去纠正。&lt;/p&gt;
-
-&lt;p&gt;回想你自己作为开发者的工作经历，为什么需求评审总是开会时间那么长？为什么开发完功能在验收时总会被打回？&lt;/p&gt;
-
-&lt;p&gt;真正资深的开发者之间有个共识——开发者就是「需求翻译机」——需求文档写清晰了，智能体会自动将其翻译生成应用软件，完全无需人类参与。&lt;/p&gt;
-
-&lt;p&gt;在实践知识驱动的智能研发时，需要提供给智能体的文档大致有：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;需求和设计——产品需求文档模板、按版本差量化描述的功能特性说明文档；&lt;/li&gt;
-  &lt;li&gt;软件开发——运行环境、代码规范、示例代码；&lt;/li&gt;
-  &lt;li&gt;智能体指导——行为准则、任务要求。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;再结合命令行脚本、linter、MCP server 与上文提到的低代码平台及其生态等，智能体生成出来的应用软件可以达到专业开发者的水平，没准还超过一般的专业开发者。&lt;/p&gt;
-
-&lt;p&gt;知识驱动的智能研发有个核心原则——遵从「SSOT」，使文档版本始终保持最新。&lt;/p&gt;
-
-&lt;p&gt;也就是说，像业务模块拆分、接口定义等影响结构的调整，要先改文档，再让智能体按照文档去调整；或先改代码，再将改动同步回文档。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-3&quot;&gt;总结&lt;/h2&gt;
-
-&lt;p&gt;当下大肆流行的 vibe coding 虽然表面上降低了开发门槛并大大提高了可用应用的开发速度，但也存在着很明显的缺点、局限性。&lt;/p&gt;
-
-&lt;p&gt;鉴于此，我根据自己的经历与见识提出两个改进方向：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;低代码化的增强版（Vibe Coding Plus）——引入低代码平台这高度抽象的符号系统以减少 AIGC 代码量，将软件质量保障的问题转移到低代码平台及其生态上；&lt;/li&gt;
-  &lt;li&gt;知识驱动的专业版（Vibe Coding Pro）——借由详尽的一系列文档构造尽可能完整的上下文，让智能体充分理解人类意图，生成出符合想象的应用软件。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;实际上，第二个就是我在《&lt;a href=&quot;/posts/the-effect-of-knowledge-on-efficiency-part-3/&quot;&gt;反思软件开发：知识流动（下）&lt;/a&gt;》中所述的研发模式。&lt;/p&gt;
-
-&lt;p&gt;于我而言，提出那两个方向是自然而然的——&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;就像《圣经》里描述的——上帝按照自己的样子创造了亚当这个世上第一个人类，又从他身上取下一根肋骨创造了夏娃这个世界上第二个人类。在这里，上帝将自己作为参照提取特征抽象出祂所认为的「人」的模型，并根据这个模型创造出「亚当」和「夏娃」。&lt;/p&gt;
-  &lt;p&gt;人在打造数字世界时必然会参照自己所存在的并且是自己所认知的世界，因为人不可能想像出自己无法认知的事物。人们所抽象的现实世界的事物的模型，就成了建设数字世界的基础，而数据则为构造数字世界的基本单元，数字世界成了现实世界的映射。&lt;/p&gt;
-  &lt;footer&gt;欧雷《&lt;cite&gt;&lt;a href=&quot;/posts/model-driven-frontend-web-development/&quot;&gt;我来聊聊模型驱动的前端开发&lt;/a&gt;&lt;/cite&gt;》&lt;/footer&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;人类将自己视为数字世界中的上帝，按照自己的样子创造了那里的「人类」——AI。&lt;/p&gt;
-
-&lt;p&gt;也就是说，人类在数字世界中用尽手段模仿自己这个物种的种种，所以要用好 AI，就得对人类的特性有深入的思考与理解。&lt;/p&gt;
-
-&lt;p&gt;对待 AI，就如对待人类自身。&lt;/p&gt;
-</description>
-        <pubDate>Sun, 13 Jul 2025 10:18:28 +0800</pubDate>
-        <link>https://ourai.ws/posts/intelligent-software-development-beyond-vibe-coding/</link>
-        <guid isPermaLink="true">https://ourai.ws/posts/intelligent-software-development-beyond-vibe-coding/</guid>
-        
-        <category>web-development</category>
-        
-        
-        <category>software-engineering</category>
-        
-        <category>efficiency-improvement</category>
         
       </item>
     

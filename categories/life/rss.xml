@@ -9,10 +9,39 @@
     <description>记录一下生活及工作中所经历的杂七杂八，顺便吐吐槽、卖卖萌、装装逼 ;-P</description>
     <link>https://ourai.ws/categories/life/</link>
     <atom:link href="https://ourai.ws/categories/life/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Jan 2026 01:33:11 +0800</pubDate>
-    <lastBuildDate>Thu, 08 Jan 2026 01:33:11 +0800</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2026 21:50:10 +0800</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2026 21:50:10 +0800</lastBuildDate>
     <language>zh-CN</language>
     <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>意外「脱轨」的 2025 年</title>
+        
+          <dc:creator>欧雷</dc:creator>
+          <author>欧雷</author>
+        
+        <description>&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;破局之路&lt;/a&gt;」的第 30 篇正式文章，主要讲述以下内容：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;2025 年目标完成情况；&lt;/li&gt;
+  &lt;li&gt;2025 年个人成长；&lt;/li&gt;
+  &lt;li&gt;接下来针对问题的改进方案。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://www.yuque.com/ourai/kqx2ue/vf9soimylgqhbmg5&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;语雀&lt;/a&gt;、&lt;a href=&quot;https://xiaobot.net/post/5a65c3f2-deb1-490c-9f9d-ef1b3ca21341&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/2AQ4QdhqI2u4uA7n8-_C9w&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Jan 2026 19:55:25 +0800</pubDate>
+        <link>https://ourai.ws/posts/year-in-review-2025/</link>
+        <guid isPermaLink="true">https://ourai.ws/posts/year-in-review-2025/</guid>
+        
+        <category>life</category>
+        
+        
+        <category>life-hacking</category>
+        
+        <category>lifestyle</category>
+        
+      </item>
     
       <item>
         <title>个人事业轻资产创业初体验</title>
@@ -1014,197 +1043,6 @@
         <category>memories</category>
         
         <category>summary</category>
-        
-      </item>
-    
-      <item>
-        <title>进入破局第二阶段</title>
-        
-          <dc:creator>欧雷</dc:creator>
-          <author>欧雷</author>
-        
-        <description>&lt;p&gt;哈喽，各位「破局见证者」们，距离上次更新过去要仨月了，又一次大幅超出一个月……为啥会降低更新频率，也许我该好好地反思下，「忙」不能是借口！&lt;/p&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;仨月在忙啥&lt;/h2&gt;
-
-&lt;p&gt;照（之前更文的）例，我先较为概括地同步下这仨月都主要干了啥。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-1&quot;&gt;整顿的 10 月&lt;/h3&gt;
-
-&lt;p&gt;从开始与 OpenBuild 深度合作后已经过去一个来月，这期间我在多个方面都感受到了混沌，应该是因为它正处于野蛮生长阶段。&lt;/p&gt;
-
-&lt;p&gt;相信看过我很多文章的各位都知道我总称呼自己是什么——反混沌工程师——没错，我要施展自己的能力去治理混沌了！&lt;/p&gt;
-
-&lt;p&gt;因而我制定了个叫做「OpenBuild 体系化改造」的大计划，从 OpenBuild 定位的 slogan 入手去剖析它到底是什么，该怎么发展才能符合定位。&lt;/p&gt;
-
-&lt;p&gt;最终，我得出「OpenBuild」由三大块构成的结论：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;产品与品牌——开发并持续完善 OpenBuild 官网，承载着各类面向开发者和项目方的功能或服务，是 OpenBuild 体系的核心及分发 hub；&lt;/li&gt;
-  &lt;li&gt;社区与生态——基于 GitHub 的（开源）协作体系，给官网上的课程等提供项目实战机会，再就是孵化「有用」的项目；&lt;/li&gt;
-  &lt;li&gt;合作伙伴关系——为前两者的可持续性提供资金、流量等的支撑。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;当把这些理清后，未来的工作和努力方向就十分明晰了，于我而言最密切相关的则是前两块。&lt;/p&gt;
-
-&lt;p&gt;其中，社区与生态这块从某些角度看算是空白，所以我决定优先去做与之相关的建设，比如先用 Astro 搞个 &lt;a href=&quot;https://openbuildxyz.github.io/eco/zh/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;OpenBuild 生态官网&lt;/a&gt;统一展示已有的生态项目和说明文档等。&lt;/p&gt;
-
-&lt;p&gt;在 10 月 24 日那天，我突然想到自己的「&lt;a href=&quot;https://ntks.ourai.ws/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;反混沌&lt;/a&gt;」体系是否也能加入到 OpenBuild 生态中？因为我并未放弃继续推进相关项目，且打算日后为 OpenBuild 及其生态助力。&lt;/p&gt;
-
-&lt;p&gt;跟创始人约线上会议介绍一下之后，我们一拍即合，&lt;a href=&quot;https://petals-ui.github.io/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Petals&lt;/a&gt; 和 &lt;a href=&quot;https://handiejs.github.io/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Handie&lt;/a&gt; 成为了生态项目！&lt;/p&gt;
-
-&lt;h3 id=&quot;section-2&quot;&gt;漂流的 11 月&lt;/h3&gt;
-
-&lt;p&gt;当 11 月 9 日凌晨 4 点多的闹钟响起，收拾好自己于 5 点左右踏出并关上家里的大门，我将在接下来的半个月中短期体验下「数字游民」的生活。&lt;/p&gt;
-
-&lt;p&gt;当天是要自驾去黄山黟县参加「第二届数字游民大会」，所以才会起那么早；在正式开往黄山之前，我得先到良渚接 FreeBe DAO 的小伙伴。&lt;/p&gt;
-
-&lt;p&gt;一路上，我们聊的基本都是与 FreeBe DAO 及数字游民相关的话题；到达会场时已经开始一段时间了，就直奔「世界青年会客厅」，正好赶上是大曹在分享。&lt;/p&gt;
-
-&lt;p&gt;这一天见到了几个总在网上见到的人，如大灰、大曹、周莫、Samuel（数字游牧人），他们都与我擦身而过很多次，但我没鼓起勇气说句「嗨」……&lt;/p&gt;
-
-&lt;p&gt;午饭时有新认识了几个人，部分加了微信，但也仅此而已，后续几乎没再有任何互动。&lt;/p&gt;
-
-&lt;p&gt;还好这届大会的内容质量不错，有些&lt;a href=&quot;/posts/the-right-way-for-digital-nomadism/&quot;&gt;激发了我的思考和表达欲&lt;/a&gt;，没让我大老远地白折腾一趟。&lt;/p&gt;
-
-&lt;p&gt;大会的票是两天的，然而我第一天就回家了，因为第二天还要飞去泰国——前几天在曼谷参加 Devcon 及其他关联活动，后几天跟 OpenBuild 核心团队成员在清迈团建。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20250105/openbuild-crew&#39; | asset_path }}&quot; alt=&quot;缺俩人的 OpenBuild 核心团队&quot; /&gt;
-  &lt;figcaption&gt;缺俩人的 OpenBuild 核心团队&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;鉴于这段经历会发视频，甚至可能另外写文章，就不在这多说了。&lt;/p&gt;
-
-&lt;p&gt;在泰国的那段时间过于惬意，以至于回国后意犹未尽，久久无法进入工作状态……🤣🤣🤣&lt;/p&gt;
-
-&lt;h3 id=&quot;section-3&quot;&gt;开源的 12 月&lt;/h3&gt;
-
-&lt;p&gt;出于某些原因，令我觉得 OpenBuild 官网前端项目开源的事情不能再拖了；就算目录结构没按&lt;a href=&quot;/posts/patterns-of-directory-structure-in-frontend-projects/#section-4&quot;&gt;「模块化」模式&lt;/a&gt;调整完毕，且还存在一些其他问题，但暂时也管不了那么多了！&lt;/p&gt;
-
-&lt;p&gt;于是，我给自己定了个不能被改变的截止日期——在 2024 年 12 月 31 日之前必须开源！&lt;/p&gt;
-
-&lt;p&gt;截止日一定，感觉自己就像赶车一样与时间赛跑，浑身各处上紧了发条，立即着手梳理开放源码的必要前置条件：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;删除代码中的敏感信息并抹除提交历史记录；&lt;/li&gt;
-  &lt;li&gt;设计&lt;a href=&quot;https://github.com/orgs/openbuildxyz/projects/9&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;基于 GitHub Projects 的产品/项目管理与协作&lt;/a&gt;流程；&lt;/li&gt;
-  &lt;li&gt;选择合适的开源许可证并添加相关信息；&lt;/li&gt;
-  &lt;li&gt;编写&lt;a href=&quot;https://openbuildxyz.github.io/openbuild-frontend/zh/guides/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;引导他人参与贡献的中英文双语文档&lt;/a&gt;。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;在上述几项条件快要达成时，我到几个由 OpenBuild 运营的关联性较大的几个微信群中预告了下开源的事，旨在先积累些潜在贡献者。&lt;/p&gt;
-
-&lt;p&gt;信息一放出，立刻就有十几、二十来个人联系我，着实没想到！😂😂😂这也给我打了一针鸡血，想要加快开放源码的进度，结果在之后的两天，&lt;a href=&quot;https://mp.weixin.qq.com/s/ayres_I3NzpPRBZvKioQRA&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;没到 20 日时就完成了目标&lt;/a&gt;！🎉🎉🎉&lt;/p&gt;
-
-&lt;p&gt;在接下来月底前的这十来天中，确实有人真的去贡献代码了，有的是领取拆分好的任务，有的是自己发现各类错误进行修正——看到这样，我心里很高兴。&lt;/p&gt;
-
-&lt;p&gt;在与贡献者交互的过程中，我发觉并感受到了做开源及社区的不易，感觉比在一家公司里做个管理者还难上很多倍，主要是以下两点吧：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;手里有权力，可以对贡献者有所要求，但不能太强制性的，又不是上下级关系，就相当于没啥权力；&lt;/li&gt;
-  &lt;li&gt;所管理的队伍理论上是无人数上限的，人员水平参差不齐，如何提高队伍整体水平及凝聚力，极具挑战。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;从某个角度看，审查水平较差的贡献者代码实际上也是在给他们做免费的开发者教育，费时费心费力，还有可能不讨好；不过，为了长远利益，初期再苦也要强吃，再困难也得想办法解决掉！&lt;/p&gt;
-
-&lt;p&gt;不出意外的话，我要更多地去做开发者关系（DevRel）这个角色了。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-4&quot;&gt;前往下阶段&lt;/h2&gt;
-
-&lt;p&gt;从 2023 年 8 月我定下第一阶段目标并踏上「破局之路」至今，已经过去快 17 个月了，四舍五入就是一年半；时间有点久了，结合当下的状况，我觉得是时候步入下个阶段了。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-5&quot;&gt;第一阶段概况&lt;/h3&gt;
-
-&lt;p&gt;第一阶段目标的大体完成情况如下表所示：&lt;/p&gt;
-
-&lt;table class=&quot;table table-bordered&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;目标&lt;/th&gt;
-      &lt;th&gt;完成度&lt;/th&gt;
-      &lt;th&gt;成果&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;找到&lt;a href=&quot;/posts/unexpected-invitation/&quot;&gt;符合预期的工作&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;95%&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;/posts/complete-the-first-goal-of-the-final-goal/&quot;&gt;与 OpenBuild 深度合作&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;搭建自媒体传播体系&lt;/td&gt;
-      &lt;td&gt;90%&lt;/td&gt;
-      &lt;td&gt;专门的英文版个人网站；国内适合的主流内容平台全覆盖；国外覆盖 X、YouTube 和 DEV Community&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;搭建自媒体变现体系&lt;/td&gt;
-      &lt;td&gt;90%&lt;/td&gt;
-      &lt;td&gt;除已持有的支付宝、微信赞赏账户和 &lt;a href=&quot;https://paypal.me/ourai&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;PayPal&lt;/a&gt; 外，另注册 Stripe、Wise、&lt;a href=&quot;https://buymeacoffee.com/ourai&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Buy Me a Coffee&lt;/a&gt;、&lt;a href=&quot;https://ko-fi.com/ourai&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Ko-fi&lt;/a&gt; 和&lt;a href=&quot;https://afdian.com/@ourai&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;爱发电&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;投入更多精力在公域产出内容&lt;/td&gt;
-      &lt;td&gt;50%&lt;/td&gt;
-      &lt;td&gt;免费阅读的文章 27 篇、视频 12 个、知乎问题回答 4 个&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;建立起私域社群&lt;/td&gt;
-      &lt;td&gt;50%&lt;/td&gt;
-      &lt;td&gt;基于飞书的个人化社区「&lt;a href=&quot;https://c.ourai.ws/about/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;欧雷宇宙&lt;/a&gt;」、付费专栏读者微信群、前端伙伴微信群&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;由于最关键的找工作那个子目标得以完成，其他的子目标就算完成度不是很高也无大碍。&lt;/p&gt;
-
-&lt;p&gt;除了上述已计划的阶段目标，在泰国时我第一次买入了加密货币现货，算是做了「优化收入结构」这个非计划目标的事，同时也成为了韭菜……😂😂😂&lt;/p&gt;
-
-&lt;h3 id=&quot;section-6&quot;&gt;第二阶段目标&lt;/h3&gt;
-
-&lt;p&gt;我的「破局之路」第二阶段的主题是：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;财务健康化——建立人民币这个「内循环」体系；&lt;/li&gt;
-  &lt;li&gt;人要走出去——加强巩固人际网络已有连接并拓展新的连接。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;上面对主题的解释就可以认为是第二阶段的目标本身了，我尝试将它们进一步细化为：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;增加以人民币结算的收入源&lt;/strong&gt;，期望能基本覆盖家庭日常支出；&lt;/li&gt;
-  &lt;li&gt;完成个人化社区「欧雷宇宙」的初期建设，拉入一些成员；&lt;/li&gt;
-  &lt;li&gt;英文版个人网站进入常态化运营，先主打前端开发专家人设；&lt;/li&gt;
-  &lt;li&gt;与一些已经认识的人线下见面，深入交谈；&lt;/li&gt;
-  &lt;li&gt;参加国内外活动，认识新的存在潜在合作可能性的人。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;上列目标的截止日期是 2025 年 12 月 31 日，也就是要贯穿 2025 年全年。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-7&quot;&gt;结语&lt;/h2&gt;
-
-&lt;p&gt;在正式踏上「破局之路」之前，我说过——&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;所谓「破局之路」，对我来说就是「实现终极目标之路」，可看作是我对「FIRE 运动」的实践过程。&lt;/p&gt;
-  &lt;footer&gt;欧雷《&lt;cite&gt;&lt;a href=&quot;/posts/road-to-the-final-goal/&quot;&gt;终于，我要踏上破局之路！&lt;/a&gt;&lt;/cite&gt;》&lt;/footer&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;现在回头去看这近一年半所走过的路，何尝不是一个「看看自己不去常规地上班能否活下去」的人生实验呢？&lt;/p&gt;
-
-&lt;p&gt;这个实验仍在进行中，目前阶段性的实验结果是「能」，并且我坚定地相信其最终结果同样是「能」！&lt;/p&gt;
-</description>
-        <pubDate>Sun, 05 Jan 2025 20:18:24 +0800</pubDate>
-        <link>https://ourai.ws/posts/ready-for-phase-two/</link>
-        <guid isPermaLink="true">https://ourai.ws/posts/ready-for-phase-two/</guid>
-        
-        <category>life</category>
-        
-        
-        <category>life-hacking</category>
-        
-        <category>lifestyle</category>
-        
-        <category>digital-nomad</category>
         
       </item>
     
