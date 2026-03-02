@@ -6,10 +6,42 @@
     <description>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</description>
     <link>https://ourai.ws/</link>
     <atom:link href="https://ourai.ws/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Mar 2026 09:57:29 +0800</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2026 09:57:29 +0800</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 20:19:25 +0800</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 20:19:25 +0800</lastBuildDate>
     <language>zh-CN</language>
     <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>数字仓鼠症 20 年，我走出了专属数据治理之道</title>
+        
+          <dc:creator>欧雷</dc:creator>
+          <author>欧雷</author>
+        
+        <description>&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;破局之路&lt;/a&gt;」的第 36 篇正式文章，主要讲述以下内容——&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;春节这快两周时间，我基本没休息，全在忙活飞书知识库备份、数据清洗转 QiiDB，打磨数据架构和自动化流程。&lt;/p&gt;
+  &lt;p&gt;我有 20 年「数字仓鼠症」，还按不同人格、组织等拆出多个数据空间，数据复杂到严重影响效率！&lt;/p&gt;
+  &lt;p&gt;这些年我自研了 QiiDB、KnoSys 等一整套去中心化数据方案，打通飞书，把数据牢牢握在自己手里；这套方案是全局式解决问题，低成本又适配超级个体、小微团队和青年社区/组织。&lt;/p&gt;
+  &lt;p&gt;我准备 3 月推出打通飞书的品牌版，靠 AI 做了策划、搭了官网，践行一场我 + AI 的创业实验。&lt;/p&gt;
+  &lt;p&gt;AI 时代抹平了专业门槛，正是超级个体抢占生态位的好时机，跟上变化才能不被时代抛下！&lt;/p&gt;
+  &lt;footer&gt;来自豆包的概要&lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://www.yuque.com/ourai/kqx2ue/sbgm121dx0gktmcw&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;语雀&lt;/a&gt;、&lt;a href=&quot;https://xiaobot.net/post/221c8dba-c52e-4874-85ff-e727481b754b&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/Txc3klTEzr8hXHONpeRL9w&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Mar 2026 18:15:08 +0800</pubDate>
+        <link>https://ourai.ws/posts/data-governance-for-solopreneurs/</link>
+        <guid isPermaLink="true">https://ourai.ws/posts/data-governance-for-solopreneurs/</guid>
+        
+        <category>life</category>
+        
+        
+        <category>life-engineering</category>
+        
+        <category>efficiency-improvement</category>
+        
+      </item>
     
       <item>
         <title>明确使命愿景，夯实银湖创联发展根基</title>
@@ -757,34 +789,6 @@
         
         
         <category>lifestyle</category>
-        
-      </item>
-    
-      <item>
-        <title>个人事业轻资产创业初体验</title>
-        
-          <dc:creator>欧雷</dc:creator>
-          <author>欧雷</author>
-        
-        <description>&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;破局之路&lt;/a&gt;」的第 29 篇正式文章，主要讲述以下内容：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;银湖创联的「0 到 1」是什么；&lt;/li&gt;
-  &lt;li&gt;「自由职业」与「创业」的差异是什么。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://www.yuque.com/ourai/kqx2ue/ssa6nv15q1clv1x8&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;语雀&lt;/a&gt;、&lt;a href=&quot;https://xiaobot.net/post/0880ee34-5b94-44f0-83b5-3c373e96db5a&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/xQhJEDrnN9PcCIq1gVa-rA&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;/series/road-to-the-final-goal/&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 Nov 2025 15:22:05 +0800</pubDate>
-        <link>https://ourai.ws/posts/first-experience-starting-personal-business-with-light-assets/</link>
-        <guid isPermaLink="true">https://ourai.ws/posts/first-experience-starting-personal-business-with-light-assets/</guid>
-        
-        <category>life</category>
-        
-        
-        <category>lifestyle</category>
-        
-        <category>job</category>
         
       </item>
     
