@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator><link href="https://ourai.ws/atom.xml" rel="self" type="application/atom+xml" /><link href="https://ourai.ws/" rel="alternate" type="text/html" /><updated>2026-04-03T17:44:09+08:00</updated><id>https://ourai.ws/</id><title>欧雷流</title><subtitle>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</subtitle><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><entry><title>数字仓鼠症 20 年，我走出了专属数据治理之道</title><link href="https://ourai.ws/posts/data-governance-for-solopreneurs/" rel="alternate" type="text/html" title="数字仓鼠症 20 年，我走出了专属数据治理之道" /><published>2026-03-02T18:15:08+08:00</published><updated>2026-03-02T18:15:08+08:00</updated><id>https://ourai.ws/posts/data-governance-for-solopreneurs</id><content type="html" xml:base="https://ourai.ws/posts/data-governance-for-solopreneurs/">&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;破局之路&lt;/a&gt;」的第 36 篇正式文章，主要讲述以下内容——&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator><link href="https://ourai.ws/atom.xml" rel="self" type="application/atom+xml" /><link href="https://ourai.ws/" rel="alternate" type="text/html" /><updated>2026-04-04T15:53:19+08:00</updated><id>https://ourai.ws/</id><title>欧雷流</title><subtitle>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</subtitle><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><entry><title>不务正业？我的家庭服务器藏着 AI 创业新思路！</title><link href="https://ourai.ws/posts/home-server-as-digital-life-infrastructure/" rel="alternate" type="text/html" title="不务正业？我的家庭服务器藏着 AI 创业新思路！" /><published>2026-04-04T14:38:52+08:00</published><updated>2026-04-04T14:38:52+08:00</updated><id>https://ourai.ws/posts/home-server-as-digital-life-infrastructure</id><content type="html" xml:base="https://ourai.ws/posts/home-server-as-digital-life-infrastructure/">&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;破局之路&lt;/a&gt;」的第 37 篇正式文章，主要讲述以下内容——&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;三月我主要忙了俩事——&lt;/p&gt;
+  &lt;p&gt;一是把搁置的家庭服务器从 v0.2 升级到 v0.5，靠 AI 工具搞定了网络、NAS 这些难题，虽然被说不务正业，但这其实和我的业务路线相关，目标 v1.0 还要做智能家居管理这些。&lt;/p&gt;
+  &lt;p&gt;二是找了 3 个附近的人调研数据治理服务需求，为后续定价打磨方案做准备。&lt;/p&gt;
+  &lt;p&gt;🦞破圈成了我的契机，我花 24 小时部署了 OpenClaw，还在银湖策划了名为「🦞聊」的 AI 普及活动，飞书的相关跟进也利好我的业务。&lt;/p&gt;
+  &lt;p&gt;回想 2026 首季，发现计划跑偏了，之前铺的摊子太大，接下来会设中短期目标，边走边看，做事也更专注。&lt;/p&gt;
+  &lt;footer&gt;来自豆包的概要&lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://www.yuque.com/ourai/kqx2ue/gfrhkoul6qse5zr3&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;语雀&lt;/a&gt;、&lt;a href=&quot;https://xiaobot.net/post/8eb75da8-b4d1-4abd-8b08-b0f60caafa0f&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/h3W2Hu7YKesCig8zR_Ih9g&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="life-engineering" /><category term="artificial-intelligence" /><category term="efficiency-improvement" /><summary>本文是付费文章系列「破局之路」的第 37 篇正式文章，主要讲述以下内容——</summary></entry><entry><title>数字仓鼠症 20 年，我走出了专属数据治理之道</title><link href="https://ourai.ws/posts/data-governance-for-solopreneurs/" rel="alternate" type="text/html" title="数字仓鼠症 20 年，我走出了专属数据治理之道" /><published>2026-03-02T18:15:08+08:00</published><updated>2026-03-02T18:15:08+08:00</updated><id>https://ourai.ws/posts/data-governance-for-solopreneurs</id><content type="html" xml:base="https://ourai.ws/posts/data-governance-for-solopreneurs/">&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;破局之路&lt;/a&gt;」的第 36 篇正式文章，主要讲述以下内容——&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;春节这快两周时间，我基本没休息，全在忙活飞书知识库备份、数据清洗转 QiiDB，打磨数据架构和自动化流程。&lt;/p&gt;
@@ -511,64 +522,4 @@
 
 &lt;p&gt;系统中的虚拟身份/人格在这个去中心化网络中是通用的、可以任意流动的。&lt;/p&gt;
 
-&lt;p&gt;更进一步地，基于家庭数据中心的个人与家庭数智平台也可加入到这个去中心化网络当中。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="metaverse" /><category term="artificial-intelligence" /><category term="life-engineering" /><category term="life-hacking" /><summary>做富阳银湖在地社区「银湖创联」这件事，是一次社会性实验，它对我个人的价值之一是尝试落地「元宇宙」。</summary></entry><entry><title>仍在「流动」还是「扎根」中纠结？我两个都要！</title><link href="https://ourai.ws/posts/the-integrated-community-network/" rel="alternate" type="text/html" title="仍在「流动」还是「扎根」中纠结？我两个都要！" /><published>2025-12-14T16:59:45+08:00</published><updated>2025-12-14T16:59:45+08:00</updated><id>https://ourai.wsmj5hukfc</id><content type="html" xml:base="https://ourai.ws/posts/the-integrated-community-network/">&lt;p&gt;去年在黄山黟县「NCC·黑多岛」举办的「第二届数字游民大会」上，数字游民的「流动与扎根」问题有多次被提到。&lt;/p&gt;
-
-&lt;p&gt;实际上，这类问题并非数字游民、旅居者等频繁变更物理地点的人独有，而是中国经济进入高速发展期之后所有背井离乡的人所共同面临的问题。&lt;/p&gt;
-
-&lt;p&gt;只不过，对处于「主流人生」体系内的人来说，他们的具体问题变成了：「我是要留在发达城市落户发展？还是回老家过低成本安稳日子？」&lt;/p&gt;
-
-&lt;p&gt;于他们而言，那个问题又可分为两个子问题：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;事业发展问题——在「主流人生」体系下觉得艰难的话，切换到「自由人生」体系就行了，这在当下社会环境也算是「版本答案」；&lt;/li&gt;
-  &lt;li&gt;归属感问题——这是真正与数字游民、旅居者等处于「自由人生」体系的人所共同面临的问题。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;在《&lt;a href=&quot;/posts/the-right-way-for-digital-nomadism/&quot;&gt;数字游民该如何「游」？&lt;/a&gt;》中，我阐述了自己对「扎根」的理解，有了&lt;a href=&quot;/posts/three-months-working-in-the-freelancer-community-in-yinhu-of-fuyang/&quot;&gt;这 4 个半月打造富阳银湖在地社区「银湖创联」的经历&lt;/a&gt;后，我的理解更上一层楼——&lt;/p&gt;
-
-&lt;p&gt;「流动」与「扎根」虽然看上去是矛盾的，但我找到了让它们统一起来的答案——在地社区——更进一步的，是线上社区与在地社区打通后的社区网络。&lt;/p&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;融合的社区网络&lt;/h2&gt;
-
-&lt;p&gt;多年浸染在各类社区中的我，很是了解这种团体的优点；我既为它们做了自己力所能及的贡献，也从它们那里获得了一些有形无形的好处。&lt;/p&gt;
-
-&lt;p&gt;所以我明白了——社区因人的需要和贡献而存在，也会通过各种方式回馈为其奉献的人——这是健康可持续的。&lt;/p&gt;
-
-&lt;p&gt;社区是粘合起碎片化个体的胶水，是对抗社会原子化的良药，让人们重新建立起自己的人际网络，找到并融入「附近」。&lt;/p&gt;
-
-&lt;p&gt;然而，单纯的线上社区或在地社区都是片面的：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;线上社区——关系基本只存在于互联网上，即便聊得火热也未必有那么牢靠，只有通过多次的线下见面甚至是共同做事才能真的巩固彼此关系；&lt;/li&gt;
-  &lt;li&gt;在地社区——就跟「老家」的亲朋好友一样，只要长期离开了那个地方，实际交流变得少了，关系就相当于断掉了。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;若将线上社区与在地社区打通形成社区网络，这就是一个超级庞大的人际网络！&lt;/p&gt;
-
-&lt;p&gt;每个人都可以到处流动，即便频繁变更物理地点，也会在目的地很容易找到认识的人或熟悉的氛围很快地融入其中：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;经常参加某个社区活动的人也大概率会参加其他社区的活动，自己就算换到另外的线上社区或在地社区也极可能会遇到那个人；&lt;/li&gt;
-  &lt;li&gt;经常参与社区活动的人都会发现，自己新认识的人很可能与已经认识的人相识，于是两人能够更快地亲近熟悉起来，便于扩大自己人际网络；&lt;/li&gt;
-  &lt;li&gt;每个社区间虽然会有差异，但总体而言的模式、调儿调儿都差不多，即便不断切换社区，自己脑子/身体也知道怎么很快适应并融入进去。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;只要自己不孤立自己，而是选择「走出去」，那就会「走到哪都有熟人」。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;我的个人实践&lt;/h2&gt;
-
-&lt;p&gt;今年 2 月，在我生日那天进行了&lt;a href=&quot;https://c.ourai.ws/meetings/m7g5e2o0/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;个人社区「欧雷宇宙」的第一次线上分享&lt;/a&gt;，标志着我把自己作为平台，用多年积累的各类资源赋能他人的&lt;a href=&quot;https://c.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;线上社区&lt;/a&gt;正式成立。&lt;/p&gt;
-
-&lt;p&gt;这个社区的愿景之一就是让那些认同我的人都跨进「自由人生」体系，从而自由自在地过完余生。&lt;/p&gt;
-
-&lt;p&gt;今年 7 月，基于同样的想法和自己所遇到的痛点，从「欧雷宇宙」中孵化&lt;a href=&quot;/posts/building-freelancer-community-in-yinhu-of-fuyang/&quot;&gt;诞生了富阳银湖在地社区「银湖创联」&lt;/a&gt;，但这不是我的个人社区。&lt;/p&gt;
-
-&lt;p&gt;在至今这几个月的实践中，我逐渐产生了将「欧雷宇宙」与「银湖创联」相结合的想法——&lt;/p&gt;
-
-&lt;p&gt;「欧雷宇宙」作为线上虚拟的枢纽、集散地，与各个线下的在地社区、青年空间等合作打通，而「银湖创联」则是第一个。&lt;/p&gt;
-
-&lt;p&gt;每个已经在或尝试进入「自由人生」体系的人，都可经由「欧雷宇宙」向各个合作打通的线下节点流动，将他们的聪明才智传递给更多的人。&lt;/p&gt;
-
-&lt;p&gt;在这样一个网络体系中，在地社区是固定的、扎根在某处的，线上社区提供了通往它们的「路线」，而每个人则是可以穿梭于其中、到处流动的「旅人」。&lt;/p&gt;
-
-&lt;p&gt;至此，「流动」与「扎根」得到了统一。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="lifestyle" /><summary>去年在黄山黟县「NCC·黑多岛」举办的「第二届数字游民大会」上，数字游民的「流动与扎根」问题有多次被提到。</summary></entry></feed>
+&lt;p&gt;更进一步地，基于家庭数据中心的个人与家庭数智平台也可加入到这个去中心化网络当中。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="metaverse" /><category term="artificial-intelligence" /><category term="life-engineering" /><category term="life-hacking" /><summary>做富阳银湖在地社区「银湖创联」这件事，是一次社会性实验，它对我个人的价值之一是尝试落地「元宇宙」。</summary></entry></feed>
