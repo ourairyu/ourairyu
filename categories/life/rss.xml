@@ -9,10 +9,165 @@
     <description>记录一下生活及工作中所经历的杂七杂八，顺便吐吐槽、卖卖萌、装装逼 ;-P</description>
     <link>https://ourai.ws/categories/life/</link>
     <atom:link href="https://ourai.ws/categories/life/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Apr 2026 10:49:46 +0800</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 10:49:46 +0800</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 16:27:04 +0800</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 16:27:04 +0800</lastBuildDate>
     <language>zh-CN</language>
     <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>与其等着被人蒸，不如先蒸自己</title>
+        
+          <dc:creator>欧雷</dc:creator>
+          <author>欧雷</author>
+        
+        <description>&lt;p&gt;前不久，一件事在 AI 圈炸开了——一个叫「同事.skill」的开源项目，5 天内收割了 6600 颗 GitHub Star。&lt;/p&gt;
+
+&lt;p&gt;它干的事情很简单，也很离谱：把一个真实人类的聊天记录、工作文档、行为习惯，提炼成一个可以被 AI 调用的技能包——然后那个人就算离职了，他的「数字残影」还在。&lt;/p&gt;
+
+&lt;p&gt;随后，「前任.skill」出来了，「导师.skill」出来了，再然后是「女娲.skill」——一周 10k Star，只需要输入一个名人的名字，它会自动扒光他的著作、演讲、访谈、社交媒体，提炼出他的思维方式和决策模式，构建出一个可以对话的 AI 版乔布斯、马斯克、芒格……&lt;/p&gt;
+
+&lt;p&gt;网上有人调侃：「散是 Token，聚是 Skill。」&lt;/p&gt;
+
+&lt;p&gt;这波「蒸馏人类」热潮背后，其实有一个共同的动作：&lt;strong&gt;把一个真实的人——他的腔调、他的判断框架、他看问题的方式——提炼出来，封装成一个随时可以调用的 AI 技能模块。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;不是让 AI 背他的语录，而是让 AI 学会用他的脑子思考。&lt;/p&gt;
+
+&lt;p&gt;看到这里，我想到的第一件事不是去蒸别人——而是：&lt;strong&gt;我能不能先把自己蒸了？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;养🦞，先搞清楚你要养哪种&lt;/h2&gt;
+
+&lt;p&gt;在说怎么蒸自己之前，先聊一个更基础的问题：你养的 AI agent，到底是什么性质的东西？&lt;/p&gt;
+
+&lt;p&gt;我把它粗分成两类。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;工具型&lt;/h3&gt;
+
+&lt;p&gt;比如数字员工、专家智囊团。&lt;/p&gt;
+
+&lt;p&gt;这类 agent 的名字不重要，干活要紧。你叫它「财务分析师」还是「agent_003」，对它来说没区别。它负责跑数据、写报告、查法律条文、做竞品分析——是你的隐形幕僚团，默默在后台撑着。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;人格型&lt;/h3&gt;
+
+&lt;p&gt;有名字、有性格、有自己的腔调。&lt;/p&gt;
+
+&lt;p&gt;名字非常重要，因为它本质上代表的是一个「人」，一个可以被受众感知的独立个体。你可以理解为 MCN 孵化达人的逻辑——每个 agent 都可以是一个超级个体，有自己的内容风格和受众认知，可以独立运营。&lt;/p&gt;
+
+&lt;p&gt;这两类不是对立关系。实际上，人格型 agent 的背后，往往需要工具型 agent 做支撑。前台有个人在说话，后台有一个团队在跑。&lt;/p&gt;
+
+&lt;p&gt;我要做的，就是把「飞鸟」这个人格，蒸馏出来。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;蒸馏飞鸟&lt;/h2&gt;
+
+&lt;p&gt;「飞鸟」的全称是「飛鳥修羅丸」，是我的虚拟人格之一：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20260420/personas&#39; | asset_path }}&quot; alt=&quot;我的虚拟人格&quot; /&gt;
+  &lt;figcaption&gt;我的虚拟人格&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;「人」实际上是由多个不同的「人格」组成的，每个人格有其独特的特征和行为模式。在网上使用不同的网名和独立站点做「物理切割」，目的是让具有特定特征匹配的人方便找到对应的人格，也让不同兴趣领域的内容更加聚焦和专业化。&lt;/p&gt;
+
+&lt;p&gt;「飞鸟」就是这样一个被切割出来的虚拟人格，专注于「宅文化」领域，是「&lt;a href=&quot;https://shuramaru.com&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;修罗殿&lt;/a&gt;」站长，追番超二十年，看过上千部动画，玩过几百款游戏。&lt;/p&gt;
+
+&lt;p&gt;虽然文章写得少，但「时刻」的记录极其密集——从 2009 年到现在，每一次观看、每一句碎碎念都留在那里。文字风格轻松幽默，带着一股日系宅文化的气口，自成腔调。&lt;/p&gt;
+
+&lt;p&gt;这些东西，就是蒸馏的原料。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;第一步：喂数据，提炼人格&lt;/h3&gt;
+
+&lt;p&gt;把飞鸟写过的文章、发过的碎碎念、评论过的动画短评，整理后喂给 AI，让它识别其中的规律：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;习惯用什么样的句式？&lt;/li&gt;
+  &lt;li&gt;评价一部作品时，他的切入角度是什么？&lt;/li&gt;
+  &lt;li&gt;什么时候正经，什么时候皮？&lt;/li&gt;
+  &lt;li&gt;哪些词汇、表情符号是他的标志性元素？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;AI 提炼出来的结果，不是一份「语气模仿指南」，而是一份&lt;strong&gt;人格特征描述&lt;/strong&gt;：飞鸟看待世界的方式、他表达感受的习惯、他的价值判断倾向。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;第二步：加载符合人设的技能&lt;/h3&gt;
+
+&lt;p&gt;人格是基调，技能是手脚。配好人格只是第一步，还要给他装上对应的能力模块：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20260420/asuka-skills&#39; | asset_path }}&quot; alt=&quot;飞鸟的技能&quot; /&gt;
+  &lt;figcaption&gt;飞鸟的技能&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;每个技能包都遵循飞鸟的人格基调——工具是通用的，人格赋予其独特的腔调。&lt;/p&gt;
+
+&lt;h3 id=&quot;sophye-&quot;&gt;第三步：在 Sophye 框架下封装&lt;/h3&gt;
+
+&lt;p&gt;这里要介绍一下 &lt;a href=&quot;https://sophyeai.github.io/zh/guides/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Sophye&lt;/a&gt;——&lt;a href=&quot;https://labs.ourai.ws/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;OurAI Labs&lt;/a&gt; 正在推进的「人生数智化」工具，定位是「让 AI 更有人味儿的人格化封装层」。&lt;/p&gt;
+
+&lt;p&gt;Sophye 的核心概念分三层：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;知识库&lt;/strong&gt;：告诉 AI「是什么」和「为什么」——飞鸟的宅文化知识、他看过的番、他的评价体系；&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;技能包&lt;/strong&gt;：告诉 AI「怎么做」——怎么写短评、怎么做番剧推荐、怎么用飞鸟的腔调回应粉丝；&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;虚拟人格&lt;/strong&gt;：把上面两层打包，封装成一个叫「飞鸟」的独立个体。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;配置完成后，这个「飞鸟」就能以他自己的方式，独立回应问题、生产内容、运营账号。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-6&quot;&gt;为什么要蒸馏自己&lt;/h2&gt;
+
+&lt;p&gt;有三个理由，层层递进。&lt;/p&gt;
+
+&lt;h3 id=&quot;sophye--1&quot;&gt;验证 Sophye 本身&lt;/h3&gt;
+
+&lt;p&gt;我在做这个框架，最好的压力测试不是拿别人当小白鼠，而是先把自己放进去跑一遍。&lt;/p&gt;
+
+&lt;p&gt;飞鸟这个案例，是一次完整的端到端实验：从人格提炼，到框架配置，到实际运转，哪个环节有问题，在自己身上踩坑，比在用户那里踩要好得多。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-7&quot;&gt;让分工更自然&lt;/h3&gt;
+
+&lt;p&gt;当你有了多个人格型 agent，最理想的状态是什么？&lt;/p&gt;
+
+&lt;p&gt;是一个「主管 agent」，根据任务的性质自动判断：这件事该交给谁。追番交飞鸟，数据分析交分析师，法律问题交法务顾问……整个流程不需要人工介入，任务自己找到对的人去完成。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20260420/mark-anime&#39; | asset_path }}&quot; alt=&quot;主管 agent 自动派发任务&quot; /&gt;
+  &lt;figcaption&gt;主管 agent 自动派发任务&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;这是智能体经济的雏形：不是一个万能 AI 做所有事，而是一群有各自专长和人格定位的 agent 协作运转。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-8&quot;&gt;让个人品牌更「人味儿」地自动运营&lt;/h3&gt;
+
+&lt;p&gt;说直白一点——让 AI 帮你赚钱。&lt;/p&gt;
+
+&lt;p&gt;但这里的关键词是「人味儿」。冷冰冰的机器人发帖，受众一眼看穿，没有信任感，也没有持续关注的理由。而一个真正被你的人格渗透过的 AI，它产出的内容、它和粉丝互动的方式，是你风格的延伸，而不是你风格的替代品。&lt;/p&gt;
+
+&lt;p&gt;这才是长期可持续的路子。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-9&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;回到开头那波「蒸馏人类」的热潮。&lt;/p&gt;
+
+&lt;p&gt;大多数人被蒸的时候是被动的——离职员工被公司蒸，名人被开发者蒸，前任被感情没走出来的人蒸。他们不知情，没有控制权，最终呈现出来的那个「数字分身」，是别人眼中的自己，而不是自己定义的自己。&lt;/p&gt;
+
+&lt;p&gt;主动蒸馏自己，是一件不同性质的事。&lt;/p&gt;
+
+&lt;p&gt;你决定什么该保留，什么该强化，什么不该有。你设定他说话的边界，他行动的范围，他与世界互动的方式。这个数字分身，是你向世界延伸的一条臂膀，而不是一个游离在外的、失控的镜像。&lt;/p&gt;
+
+&lt;p&gt;至于那些工具型 agent——专家智囊团、数字员工——他们是幕后的支撑系统，默默托举着台前的每一个人格。没有他们，人格型 agent 再有魅力，也只是个空壳。&lt;/p&gt;
+
+&lt;p&gt;两者协同，才是完整的图景。&lt;/p&gt;
+
+&lt;p&gt;飞鸟的蒸馏，只是第一步。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Apr 2026 16:04:59 +0800</pubDate>
+        <link>https://ourai.ws/posts/distill-my-persona-for-ai-agent/</link>
+        <guid isPermaLink="true">https://ourai.ws/posts/distill-my-persona-for-ai-agent/</guid>
+        
+        <category>life</category>
+        
+        
+        <category>artificial-intelligence</category>
+        
+      </item>
     
       <item>
         <title>不务正业？我的家庭服务器藏着 AI 创业新思路！</title>
@@ -291,244 +446,6 @@
         <pubDate>Mon, 17 Nov 2025 15:22:05 +0800</pubDate>
         <link>https://ourai.ws/posts/first-experience-starting-personal-business-with-light-assets/</link>
         <guid isPermaLink="true">https://ourai.ws/posts/first-experience-starting-personal-business-with-light-assets/</guid>
-        
-        <category>life</category>
-        
-        
-        <category>lifestyle</category>
-        
-        <category>job</category>
-        
-      </item>
-    
-      <item>
-        <title>在富阳银湖做在地社区的三个月</title>
-        
-          <dc:creator>欧雷</dc:creator>
-          <author>欧雷</author>
-        
-        <description>&lt;p&gt;从在小红书发笔记并建群拉人那天算起，至今已正正好好过去三个月，没想到银湖创联居然能活到现在……&lt;/p&gt;
-
-&lt;p&gt;印象里，完全是我自己想做且去做了的事中，之前还没有哪件事让我一直连续做了三个月之久，这就证明做银湖创联大概率是件「对」的事！&lt;/p&gt;
-
-&lt;p&gt;经过这些日子的努力，银湖创联总算是运转起来并有要加速了的趋势。&lt;/p&gt;
-
-&lt;p&gt;在刚好三个月的这一天，用本文略微回顾下过去的种种，画上个阶段性的句号。&lt;/p&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;阶段回顾&lt;/h2&gt;
-
-&lt;p&gt;这仨月算是银湖创联发展进程中的第一阶段——摸石头过河，快速试错，聚集并连接初始人群，刷出存在感。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-1&quot;&gt;取得成果&lt;/h3&gt;
-
-&lt;p&gt;银湖创联诞生后，聊天群是信息流通的重要手段，由主要的微信群和过渡的小红书群构成，共有 336 人（未进行人员去重）。&lt;/p&gt;
-
-&lt;p&gt;在这阶段，「活动」是最关键的要素——&lt;/p&gt;
-
-&lt;p&gt;举办了 17 场线下活动，其中 12 场是官方活动，剩余 5 场为合作活动；每场活动参加人数的总和为 130 多人，总共有 56 人参加了不同的活动。&lt;/p&gt;
-
-&lt;p&gt;沉淀积累出 3 个活动系列：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzYyNDI1NDY4Mg%3D%3D&amp;amp;action=getalbum&amp;amp;album_id=4171966093398818826&amp;amp;scene=126#wechat_redirect&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;非确定唠嗑儿&lt;/a&gt;——社区每周固定活动，周三或周四举办，大家坐在一起畅聊，在增加彼此了解的同时，看能否碰撞出新项目、新合作的火花，已举办 7 期；&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzYyNDI1NDY4Mg%3D%3D&amp;amp;action=getalbum&amp;amp;album_id=4176548429541064712&amp;amp;scene=126#wechat_redirect&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;一起去走走&lt;/a&gt;——每月至少一次的户外活动，可以是徒步、骑行、露营等，在锻炼与社交之余，还能一定程度协作，已举办 4 期；&lt;/li&gt;
-  &lt;li&gt;新月满月正念冥想——每月新月日与满月日的晚上，聚在一起借助观呼吸、身体扫描等进行正念练习，已举办 1 期。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;活动所使用的场地则是以党群服务中心为起点，再到合作的工作室和商家，如：和光艺术空间、瑞咖啡。&lt;/p&gt;
-
-&lt;p&gt;去参加了 2 场自由职业者活动，上台分享并介绍银湖创联。&lt;/p&gt;
-
-&lt;p&gt;有至少 10 个通过各种渠道认识的人，明确表达出自己要与银湖创联合作的意愿，包括但不限于社区共建、活动或项目共创，有的合作已经实施。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-2&quot;&gt;成长轨迹&lt;/h3&gt;
-
-&lt;p&gt;想法的出现，掺杂着「心有不甘」——&lt;/p&gt;
-
-&lt;p&gt;2024 年 11 月 9 日，到黄山黟县参加第二届数字游民大会，我在拍 VLOG 时&lt;a href=&quot;https://www.bilibili.com/video/BV1TwPCeKESj/?share_source=copy_web&amp;amp;vd_source=9bed94437ec75fae69e6ebdf2c0c3884&amp;amp;t=292&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;表达了富阳不亚于良渚也适合搞数字游民或自由职业者社区的观点&lt;/a&gt;。&lt;/p&gt;
-
-&lt;p&gt;2025 年 6 月 29 日，从良渚 BuilderUp 活动开车回家途中，我问姜姜：「&lt;a href=&quot;/murmurs/1iurvi9a0/&quot;&gt;为什么是良渚？那些自由职业者、独立开发者、数字游民等为什么是聚集在良渚？最初的那批人为什么选择良渚？&lt;/a&gt;」&lt;/p&gt;
-
-&lt;p&gt;想法的落地，伴随着「不假思索」——&lt;/p&gt;
-
-&lt;p&gt;2025 年 7 月 31 日，真正开始全职做独立开发时发现，富阳银湖找不到便于与他人连接并线下交流的社区，一气之下&lt;a href=&quot;https://www.xiaohongshu.com/explore/688afb060000000023021c9a&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;到小红书发笔记&lt;/a&gt;召集自由职业者等，几天拉起愈百人的群，是为「&lt;a href=&quot;/posts/building-freelancer-community-in-yinhu-of-fuyang/&quot;&gt;银湖自由社区&lt;/a&gt;」雏形。&lt;/p&gt;
-
-&lt;p&gt;2025 年 8 月 9 日，在群里经过大家投票，&lt;a href=&quot;https://s.ourai.ws/dailies/me4eczhc/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;确定社区的正式名称为「银湖创联」&lt;/a&gt;，同时&lt;a href=&quot;https://www.xiaohongshu.com/user/profile/68957c2e00000000280270e5&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小红书官方账号&lt;/a&gt;也投入运营，logo 暂用 AI 生成的图片。&lt;/p&gt;
-
-&lt;p&gt;2025 年 8 月 16 日，举办了&lt;a href=&quot;https://www.xiaohongshu.com/explore/68a043f8000000001b021e5e&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;社区第一场线下活动&lt;/a&gt;，也是第一场户外活动，正穿&lt;a href=&quot;https://qiidb.github.io/zh/routes/dayangwu-small-circle-route-in-hangzhou/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;大洋坞小环线&lt;/a&gt;，有 4 人参与，算是正式见面会前的热场。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20250816&#39; | asset_path }}&quot; alt=&quot;社区第一场线下活动&quot; /&gt;
-  &lt;figcaption&gt;社区第一场线下活动&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 8 月 21 日，作为活动合作伙伴入驻 NCC 的「游牧岛」。&lt;/p&gt;
-
-&lt;p&gt;2025 年 8 月 28 日，在向阳社区党群服务中心举办了&lt;a href=&quot;https://www.xiaohongshu.com/explore/68b07d53000000001b035e93&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;社区正式见面会&lt;/a&gt;，有 24 人到场，「&lt;a href=&quot;https://www.xiaohongshu.com/user/profile/6506955d0000000017021f33&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;四喜器物&lt;/a&gt;」工作室赞助了一些纯铜器物作为每位参与者的小礼物。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20250828&#39; | asset_path }}&quot; alt=&quot;社区正式见面会&quot; /&gt;
-  &lt;figcaption&gt;社区正式见面会&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 8 月 31 日，与「&lt;a href=&quot;https://www.xiaohongshu.com/user/profile/65347a3e000000000d007dad&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;大力在银湖&lt;/a&gt;」录制一期&lt;a href=&quot;https://www.xiaohongshu.com/explore/68bd15cc000000001d02fd2a&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;简短的访谈节目&lt;/a&gt;，介绍自己为什么在银湖做银湖创联这个社区。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20250831&#39; | asset_path }}&quot; alt=&quot;「大力在银湖」访谈&quot; /&gt;
-  &lt;figcaption&gt;「大力在银湖」访谈&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 9 月 1 日，注册官方微信公众号并投入运营。&lt;/p&gt;
-
-&lt;p&gt;2025 年 9 月 10 日，为促进形成银湖的「疯狂星期四」而设计的社区每周固定活动&lt;a href=&quot;https://mp.weixin.qq.com/s/hOyq7-9mZ_nAk-00dhuRUQ&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;「非确定唠嗑儿」第 1 期&lt;/a&gt;在硅谷小镇客厅举办，有 13 人到场。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20250910&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 1 期&quot; /&gt;
-  &lt;figcaption&gt;「非确定唠嗑儿」第 1 期&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 9 月 11 日，与瑞咖啡（RAY-COFFEE-TEA）达成场地合作。&lt;/p&gt;
-
-&lt;p&gt;2025 年 9 月 15 日，与和光艺术空间达成场地合作。&lt;/p&gt;
-
-&lt;p&gt;2025 年 9 月 18 日，在和光艺术空间举办&lt;a href=&quot;https://mp.weixin.qq.com/s/jqnJuKwoIXYvlEGguHcnQg&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 2 期「非确定唠嗑儿」&lt;/a&gt;，到场 11 人。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20250918&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 2 期&quot; /&gt;
-  &lt;figcaption&gt;「非确定唠嗑儿」第 2 期&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 9 月 21 日，举办了&lt;a href=&quot;https://mp.weixin.qq.com/s/Fo3pe1e862KekBdgSv-JDQ&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第二场户外活动&lt;/a&gt;，反穿大洋坞小环线，并将这类活动作为一个新的系列「一起去走走」，共 5 人参与。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20250921&#39; | asset_path }}&quot; alt=&quot;「一起去走走」第 1 期&quot; /&gt;
-  &lt;figcaption&gt;「一起去走走」第 1 期&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 9 月 24 日，在瑞咖啡举办&lt;a href=&quot;https://mp.weixin.qq.com/s/au7Mn1kgi4e8VoOrLb0u8A&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 3 期「非确定唠嗑儿」&lt;/a&gt;，到场 9 人。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20250924&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 3 期&quot; /&gt;
-  &lt;figcaption&gt;「非确定唠嗑儿」第 3 期&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 9 月 27 日，与「和光美育」和「大写的M」的合作活动「&lt;a href=&quot;https://mp.weixin.qq.com/s/g-a4uM0WKEBvfU3H2fmtLQ&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;杭州压力拯救计划：正念行走＋摄影疗愈&lt;/a&gt;」顺利举办，这是第一场合作的活动，到场 12 人左右。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20250927&#39; | asset_path }}&quot; alt=&quot;杭州压力拯救计划：正念行走＋摄影疗愈&quot; /&gt;
-  &lt;figcaption&gt;杭州压力拯救计划：正念行走＋摄影疗愈&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 9 月 28 日，举办&lt;a href=&quot;https://mp.weixin.qq.com/s/LCvsNWKF8rPx_ohBN6V_DQ&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 2 期「一起去走走」&lt;/a&gt;，探路连起大洋坞水库与黄梅坞水库的环线，共 3 人参与。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20250928&#39; | asset_path }}&quot; alt=&quot;「一起去走走」第 2 期&quot; /&gt;
-  &lt;figcaption&gt;「一起去走走」第 2 期&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 10 月 1 日，在瑞咖啡举办&lt;a href=&quot;https://mp.weixin.qq.com/s/6cW1GPLRmUUmuZzLytHL_g&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 4 期「非确定唠嗑儿」&lt;/a&gt;，到场 6 人。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20251001&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 4 期&quot; /&gt;
-  &lt;figcaption&gt;「非确定唠嗑儿」第 4 期&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 10 月 2 日，与「金粟地」的合作活动「&lt;a href=&quot;https://mp.weixin.qq.com/s/LZWevQzZgVNtl3MR2Vo9Nw&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;国庆喧嚣逃离计划：窑烤面包＋植物拓染&lt;/a&gt;」顺利举办，到场 7 人左右。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20251002&#39; | asset_path }}&quot; alt=&quot;国庆喧嚣逃离计划：窑烤面包＋植物拓染&quot; /&gt;
-  &lt;figcaption&gt;国庆喧嚣逃离计划：窑烤面包＋植物拓染&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 10 月 12 日，在「小雇·全国自由职业者大会·杭州站」上做主题分享《&lt;a href=&quot;https://mp.weixin.qq.com/s/fnHWDsyTk12sG3mObpwtMw&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;典型程序员跨界做在地社区是怎样一种体验？&lt;/a&gt;》。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20251012&#39; | asset_path }}&quot; alt=&quot;「小雇·全国自由职业者大会·杭州站」主题分享&quot; /&gt;
-  &lt;figcaption&gt;「小雇·全国自由职业者大会·杭州站」主题分享&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 10 月 16 日，在瑞咖啡举办&lt;a href=&quot;https://mp.weixin.qq.com/s/lRQNuiwsh9rk1TSQ59oZIQ&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 5 期「非确定唠嗑儿」&lt;/a&gt;，到场 7 人。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20251016&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 5 期&quot; /&gt;
-  &lt;figcaption&gt;「非确定唠嗑儿」第 5 期&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 10 月 21 日，与「和光美育」和「大写的M」的合作活动「新月正念冥想·内在秩序重建」顺利举办，到场 6 人。&lt;/p&gt;
-
-&lt;p&gt;2025 年 10 月 22 日，在瑞咖啡举办&lt;a href=&quot;https://mp.weixin.qq.com/s/G8QOWGfzDFaPZkPu0ADWfw&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 6 期「非确定唠嗑儿」&lt;/a&gt;，到场 6 人。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20251022&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 6 期&quot; /&gt;
-  &lt;figcaption&gt;「非确定唠嗑儿」第 6 期&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 10 月 24 日，在「全球自由职业者嘉年华」良渚分会场上台用三五分钟的 freestyle 介绍银湖创联。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20251024&#39; | asset_path }}&quot; alt=&quot;「全球自由职业者嘉年华」良渚分会场 freestyle 分享&quot; /&gt;
-  &lt;figcaption&gt;「全球自由职业者嘉年华」良渚分会场 freestyle 分享&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 10 月 26 日，与「和光美育」和「云谿艺术」的合作活动「&lt;a href=&quot;https://mp.weixin.qq.com/s/tG_lUgE3BKGEC3AsePc62g&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;玩转美术馆游学：杭州纤维艺术三年展&lt;/a&gt;」顺利举办，到场 4 人。&lt;/p&gt;
-
-&lt;p&gt;2025 年 10 月 28 日，举办&lt;a href=&quot;https://mp.weixin.qq.com/s/C87v02qCDryEZj_8-ruTsQ&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 3 期「一起去走走」&lt;/a&gt;，挑战华庭云顶如意尖小环线，共 10 人参与。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20251028&#39; | asset_path }}&quot; alt=&quot;「一起去走走」第 3 期&quot; /&gt;
-  &lt;figcaption&gt;「一起去走走」第 3 期&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;2025 年 10 月 29 日，在瑞咖啡举办&lt;a href=&quot;https://mp.weixin.qq.com/s/PNMZwXLRJ8cAgtugosKpvA&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;第 7 期「非确定唠嗑儿」&lt;/a&gt;，到场 10 人。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;{{ &#39;posts/20251031/20251029&#39; | asset_path }}&quot; alt=&quot;「非确定唠嗑儿」第 7 期&quot; /&gt;
-  &lt;figcaption&gt;「非确定唠嗑儿」第 7 期&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;section-3&quot;&gt;鸣谢&lt;/h3&gt;
-
-&lt;p&gt;感谢关注银湖创联、参加社区活动、有合作意愿的每一个人。&lt;/p&gt;
-
-&lt;p&gt;特别感谢愿与银湖创联共同成长且相互成就的：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;瑞咖啡——位于银湖创新中心 1 号楼一层（全季酒店旁）的&lt;a href=&quot;https://mp.weixin.qq.com/s/B4onA6siPJAzyZ9GfhLByA&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;适合自由职业者办公与交流的咖啡店&lt;/a&gt;；&lt;/li&gt;
-  &lt;li&gt;和光——经营艺术类业务的「和光美育」，同时提供契合疗愈等主题氛围的场地「和光艺术空间」；&lt;/li&gt;
-  &lt;li&gt;大写的M——带人学会用「正念」来调节并疗愈自己，涵盖正念摄影、正念行走等。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;尤其要感谢姜姜，银湖创联起步时期做了绝大部分的落地执行工作；在社区逐步走上正轨的同时，她将卸下社区相关工作，转向其他领域。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-4&quot;&gt;结语&lt;/h2&gt;
-
-&lt;p&gt;在全力做社区后，时常有人问我这类问题：「你的主业是干什么？做银湖创联赚钱吗？」&lt;/p&gt;
-
-&lt;p&gt;我现在是个自由职业者，某种程度上也算创业者，职业是独立开发者，做银湖创联这看上去跟软件开发没啥关系的事就是我当下的「主业」。&lt;/p&gt;
-
-&lt;p&gt;由于银湖创联的定位，它是以人为本的，有收入盈余也是用于社区的可持续发展，不会被我个人占有，所以谈不上常规意义的「赚钱」。&lt;/p&gt;
-
-&lt;p&gt;从 11 月起进入第二阶段，我作为发起人兼主理人将和更多的个人与组织合作，让银湖创联形成可自动运转的结构化体系。&lt;/p&gt;
-
-&lt;p&gt;银湖创联不仅会活下去，还会越来越好，因为我认为这是「对」的事：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;服务在地人民，提升了他们的幸福感；&lt;/li&gt;
-  &lt;li&gt;解决社会问题，承担了部分该由政府部门做的事；&lt;/li&gt;
-  &lt;li&gt;符合社会趋势与旋律，契合未来社区、青年发展型城市等。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;今年 3 月 18 日，在银湖街道银湖板块核心区域，硅谷小镇商务社区揭牌了。&lt;/p&gt;
-
-&lt;p&gt;7 月 11 日，位于银湖街道高桥板块的「YOU悦家」正式启用，它是富阳区人才服务中心，也是杭州全球青年人才中心富阳分中心。&lt;/p&gt;
-
-&lt;p&gt;7 月 31 日，银湖创联成立。&lt;/p&gt;
-
-&lt;p&gt;这几件事的相继发生，也许是某种「冥冥之中」？&lt;/p&gt;
-</description>
-        <pubDate>Fri, 31 Oct 2025 19:27:38 +0800</pubDate>
-        <link>https://ourai.ws/posts/three-months-working-in-the-freelancer-community-in-yinhu-of-fuyang/</link>
-        <guid isPermaLink="true">https://ourai.ws/posts/three-months-working-in-the-freelancer-community-in-yinhu-of-fuyang/</guid>
         
         <category>life</category>
         

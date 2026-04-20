@@ -1,4 +1,140 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator><link href="https://ourai.ws/atom.xml" rel="self" type="application/atom+xml" /><link href="https://ourai.ws/" rel="alternate" type="text/html" /><updated>2026-04-20T10:49:46+08:00</updated><id>https://ourai.ws/</id><title>欧雷流</title><subtitle>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</subtitle><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><entry><title>不务正业？我的家庭服务器藏着 AI 创业新思路！</title><link href="https://ourai.ws/posts/home-server-as-digital-life-infrastructure/" rel="alternate" type="text/html" title="不务正业？我的家庭服务器藏着 AI 创业新思路！" /><published>2026-04-04T14:38:52+08:00</published><updated>2026-04-04T14:38:52+08:00</updated><id>https://ourai.ws/posts/home-server-as-digital-life-infrastructure</id><content type="html" xml:base="https://ourai.ws/posts/home-server-as-digital-life-infrastructure/">&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;破局之路&lt;/a&gt;」的第 37 篇正式文章，主要讲述以下内容——&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator><link href="https://ourai.ws/atom.xml" rel="self" type="application/atom+xml" /><link href="https://ourai.ws/" rel="alternate" type="text/html" /><updated>2026-04-20T16:27:04+08:00</updated><id>https://ourai.ws/</id><title>欧雷流</title><subtitle>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</subtitle><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><entry><title>与其等着被人蒸，不如先蒸自己</title><link href="https://ourai.ws/posts/distill-my-persona-for-ai-agent/" rel="alternate" type="text/html" title="与其等着被人蒸，不如先蒸自己" /><published>2026-04-20T16:04:59+08:00</published><updated>2026-04-20T16:04:59+08:00</updated><id>https://ourai.ws/posts/distill-my-persona-for-ai-agent</id><content type="html" xml:base="https://ourai.ws/posts/distill-my-persona-for-ai-agent/">&lt;p&gt;前不久，一件事在 AI 圈炸开了——一个叫「同事.skill」的开源项目，5 天内收割了 6600 颗 GitHub Star。&lt;/p&gt;
+
+&lt;p&gt;它干的事情很简单，也很离谱：把一个真实人类的聊天记录、工作文档、行为习惯，提炼成一个可以被 AI 调用的技能包——然后那个人就算离职了，他的「数字残影」还在。&lt;/p&gt;
+
+&lt;p&gt;随后，「前任.skill」出来了，「导师.skill」出来了，再然后是「女娲.skill」——一周 10k Star，只需要输入一个名人的名字，它会自动扒光他的著作、演讲、访谈、社交媒体，提炼出他的思维方式和决策模式，构建出一个可以对话的 AI 版乔布斯、马斯克、芒格……&lt;/p&gt;
+
+&lt;p&gt;网上有人调侃：「散是 Token，聚是 Skill。」&lt;/p&gt;
+
+&lt;p&gt;这波「蒸馏人类」热潮背后，其实有一个共同的动作：&lt;strong&gt;把一个真实的人——他的腔调、他的判断框架、他看问题的方式——提炼出来，封装成一个随时可以调用的 AI 技能模块。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;不是让 AI 背他的语录，而是让 AI 学会用他的脑子思考。&lt;/p&gt;
+
+&lt;p&gt;看到这里，我想到的第一件事不是去蒸别人——而是：&lt;strong&gt;我能不能先把自己蒸了？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;养🦞，先搞清楚你要养哪种&lt;/h2&gt;
+
+&lt;p&gt;在说怎么蒸自己之前，先聊一个更基础的问题：你养的 AI agent，到底是什么性质的东西？&lt;/p&gt;
+
+&lt;p&gt;我把它粗分成两类。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;工具型&lt;/h3&gt;
+
+&lt;p&gt;比如数字员工、专家智囊团。&lt;/p&gt;
+
+&lt;p&gt;这类 agent 的名字不重要，干活要紧。你叫它「财务分析师」还是「agent_003」，对它来说没区别。它负责跑数据、写报告、查法律条文、做竞品分析——是你的隐形幕僚团，默默在后台撑着。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;人格型&lt;/h3&gt;
+
+&lt;p&gt;有名字、有性格、有自己的腔调。&lt;/p&gt;
+
+&lt;p&gt;名字非常重要，因为它本质上代表的是一个「人」，一个可以被受众感知的独立个体。你可以理解为 MCN 孵化达人的逻辑——每个 agent 都可以是一个超级个体，有自己的内容风格和受众认知，可以独立运营。&lt;/p&gt;
+
+&lt;p&gt;这两类不是对立关系。实际上，人格型 agent 的背后，往往需要工具型 agent 做支撑。前台有个人在说话，后台有一个团队在跑。&lt;/p&gt;
+
+&lt;p&gt;我要做的，就是把「飞鸟」这个人格，蒸馏出来。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;蒸馏飞鸟&lt;/h2&gt;
+
+&lt;p&gt;「飞鸟」的全称是「飛鳥修羅丸」，是我的虚拟人格之一：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20260420/personas-12798d05d04c354105c9fd7e9c7e87af42b64d455328219d99c94077031d5dd8.jpg&quot; alt=&quot;我的虚拟人格&quot; /&gt;
+  &lt;figcaption&gt;我的虚拟人格&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;「人」实际上是由多个不同的「人格」组成的，每个人格有其独特的特征和行为模式。在网上使用不同的网名和独立站点做「物理切割」，目的是让具有特定特征匹配的人方便找到对应的人格，也让不同兴趣领域的内容更加聚焦和专业化。&lt;/p&gt;
+
+&lt;p&gt;「飞鸟」就是这样一个被切割出来的虚拟人格，专注于「宅文化」领域，是「&lt;a href=&quot;https://shuramaru.com&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;修罗殿&lt;/a&gt;」站长，追番超二十年，看过上千部动画，玩过几百款游戏。&lt;/p&gt;
+
+&lt;p&gt;虽然文章写得少，但「时刻」的记录极其密集——从 2009 年到现在，每一次观看、每一句碎碎念都留在那里。文字风格轻松幽默，带着一股日系宅文化的气口，自成腔调。&lt;/p&gt;
+
+&lt;p&gt;这些东西，就是蒸馏的原料。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;第一步：喂数据，提炼人格&lt;/h3&gt;
+
+&lt;p&gt;把飞鸟写过的文章、发过的碎碎念、评论过的动画短评，整理后喂给 AI，让它识别其中的规律：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;习惯用什么样的句式？&lt;/li&gt;
+  &lt;li&gt;评价一部作品时，他的切入角度是什么？&lt;/li&gt;
+  &lt;li&gt;什么时候正经，什么时候皮？&lt;/li&gt;
+  &lt;li&gt;哪些词汇、表情符号是他的标志性元素？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;AI 提炼出来的结果，不是一份「语气模仿指南」，而是一份&lt;strong&gt;人格特征描述&lt;/strong&gt;：飞鸟看待世界的方式、他表达感受的习惯、他的价值判断倾向。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;第二步：加载符合人设的技能&lt;/h3&gt;
+
+&lt;p&gt;人格是基调，技能是手脚。配好人格只是第一步，还要给他装上对应的能力模块：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20260420/asuka-skills-678857cdbfebe332fc3c1c0d019ab1c75dcc64deb4791e81a85016f7d22bfb4d.jpg&quot; alt=&quot;飞鸟的技能&quot; /&gt;
+  &lt;figcaption&gt;飞鸟的技能&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;每个技能包都遵循飞鸟的人格基调——工具是通用的，人格赋予其独特的腔调。&lt;/p&gt;
+
+&lt;h3 id=&quot;sophye-&quot;&gt;第三步：在 Sophye 框架下封装&lt;/h3&gt;
+
+&lt;p&gt;这里要介绍一下 &lt;a href=&quot;https://sophyeai.github.io/zh/guides/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Sophye&lt;/a&gt;——&lt;a href=&quot;https://labs.ourai.ws/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;OurAI Labs&lt;/a&gt; 正在推进的「人生数智化」工具，定位是「让 AI 更有人味儿的人格化封装层」。&lt;/p&gt;
+
+&lt;p&gt;Sophye 的核心概念分三层：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;知识库&lt;/strong&gt;：告诉 AI「是什么」和「为什么」——飞鸟的宅文化知识、他看过的番、他的评价体系；&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;技能包&lt;/strong&gt;：告诉 AI「怎么做」——怎么写短评、怎么做番剧推荐、怎么用飞鸟的腔调回应粉丝；&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;虚拟人格&lt;/strong&gt;：把上面两层打包，封装成一个叫「飞鸟」的独立个体。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;配置完成后，这个「飞鸟」就能以他自己的方式，独立回应问题、生产内容、运营账号。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-6&quot;&gt;为什么要蒸馏自己&lt;/h2&gt;
+
+&lt;p&gt;有三个理由，层层递进。&lt;/p&gt;
+
+&lt;h3 id=&quot;sophye--1&quot;&gt;验证 Sophye 本身&lt;/h3&gt;
+
+&lt;p&gt;我在做这个框架，最好的压力测试不是拿别人当小白鼠，而是先把自己放进去跑一遍。&lt;/p&gt;
+
+&lt;p&gt;飞鸟这个案例，是一次完整的端到端实验：从人格提炼，到框架配置，到实际运转，哪个环节有问题，在自己身上踩坑，比在用户那里踩要好得多。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-7&quot;&gt;让分工更自然&lt;/h3&gt;
+
+&lt;p&gt;当你有了多个人格型 agent，最理想的状态是什么？&lt;/p&gt;
+
+&lt;p&gt;是一个「主管 agent」，根据任务的性质自动判断：这件事该交给谁。追番交飞鸟，数据分析交分析师，法律问题交法务顾问……整个流程不需要人工介入，任务自己找到对的人去完成。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/posts/20260420/mark-anime-83ec7ae2f4b420b8a0244213332bc5262a7bb0baba343f94f4757916ed1d4f00.jpg&quot; alt=&quot;主管 agent 自动派发任务&quot; /&gt;
+  &lt;figcaption&gt;主管 agent 自动派发任务&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;这是智能体经济的雏形：不是一个万能 AI 做所有事，而是一群有各自专长和人格定位的 agent 协作运转。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-8&quot;&gt;让个人品牌更「人味儿」地自动运营&lt;/h3&gt;
+
+&lt;p&gt;说直白一点——让 AI 帮你赚钱。&lt;/p&gt;
+
+&lt;p&gt;但这里的关键词是「人味儿」。冷冰冰的机器人发帖，受众一眼看穿，没有信任感，也没有持续关注的理由。而一个真正被你的人格渗透过的 AI，它产出的内容、它和粉丝互动的方式，是你风格的延伸，而不是你风格的替代品。&lt;/p&gt;
+
+&lt;p&gt;这才是长期可持续的路子。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-9&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;回到开头那波「蒸馏人类」的热潮。&lt;/p&gt;
+
+&lt;p&gt;大多数人被蒸的时候是被动的——离职员工被公司蒸，名人被开发者蒸，前任被感情没走出来的人蒸。他们不知情，没有控制权，最终呈现出来的那个「数字分身」，是别人眼中的自己，而不是自己定义的自己。&lt;/p&gt;
+
+&lt;p&gt;主动蒸馏自己，是一件不同性质的事。&lt;/p&gt;
+
+&lt;p&gt;你决定什么该保留，什么该强化，什么不该有。你设定他说话的边界，他行动的范围，他与世界互动的方式。这个数字分身，是你向世界延伸的一条臂膀，而不是一个游离在外的、失控的镜像。&lt;/p&gt;
+
+&lt;p&gt;至于那些工具型 agent——专家智囊团、数字员工——他们是幕后的支撑系统，默默托举着台前的每一个人格。没有他们，人格型 agent 再有魅力，也只是个空壳。&lt;/p&gt;
+
+&lt;p&gt;两者协同，才是完整的图景。&lt;/p&gt;
+
+&lt;p&gt;飞鸟的蒸馏，只是第一步。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="artificial-intelligence" /><summary>前不久，一件事在 AI 圈炸开了——一个叫「同事.skill」的开源项目，5 天内收割了 6600 颗 GitHub Star。</summary></entry><entry><title>不务正业？我的家庭服务器藏着 AI 创业新思路！</title><link href="https://ourai.ws/posts/home-server-as-digital-life-infrastructure/" rel="alternate" type="text/html" title="不务正业？我的家庭服务器藏着 AI 创业新思路！" /><published>2026-04-04T14:38:52+08:00</published><updated>2026-04-04T14:38:52+08:00</updated><id>https://ourai.ws/posts/home-server-as-digital-life-infrastructure</id><content type="html" xml:base="https://ourai.ws/posts/home-server-as-digital-life-infrastructure/">&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;破局之路&lt;/a&gt;」的第 37 篇正式文章，主要讲述以下内容——&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;三月我主要忙了俩事——&lt;/p&gt;
@@ -353,173 +489,4 @@
 
 &lt;p&gt;如果我有幸被你看中，可以考虑通过 &lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;&lt;code&gt;2bfree.ourai.ws&lt;/code&gt;&lt;/a&gt; 购买付费专栏《&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;欧雷的破局之路&lt;/a&gt;》对我进行投资，这同时是加入「欧雷宇宙」这个价值网络的入场券。&lt;/p&gt;
 
-&lt;p&gt;当然，我自己也会去寻觅其他优秀或具备潜力的超级个体进行投资。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="life-hacking" /><category term="lifestyle" /><summary>前几天，Manus 被 Meta 收购的消息刷爆朋友圈，能有这么一个事件的发生，秉持「投人」哲学的真格基金功不可没。</summary></entry><entry><title>一个伟大的实验串起了我至今的所有设想</title><link href="https://ourai.ws/posts/metaverse-in-my-mind/" rel="alternate" type="text/html" title="一个伟大的实验串起了我至今的所有设想" /><published>2025-12-27T20:50:40+08:00</published><updated>2025-12-27T20:50:40+08:00</updated><id>https://ourai.wsmjoatlog</id><content type="html" xml:base="https://ourai.ws/posts/metaverse-in-my-mind/">&lt;p&gt;&lt;a href=&quot;/posts/building-freelancer-community-in-yinhu-of-fuyang/&quot;&gt;做富阳银湖在地社区「银湖创联」&lt;/a&gt;这件事，是一次社会性实验，它对我个人的价值之一是尝试落地「元宇宙」。&lt;/p&gt;
-
-&lt;p&gt;做 2026 年计划时我才恍然发现——这实验串起了我至今的所有设想，堪称伟大！&lt;/p&gt;
-
-&lt;p&gt;时至今日，相信即便是平时不怎么关注互联网和科技领域的人，也或多或少知道「元宇宙」这个词。&lt;/p&gt;
-
-&lt;p&gt;在 2021 年，随着 Roblox 的上市，「元宇宙」开始进入大众视野，受到资本追捧成为了当时的热门，甚至 Facebook 还为此改名为 Meta。&lt;/p&gt;
-
-&lt;p&gt;过了一段时间，那些打着「元宇宙」旗号的公司几乎并没取得什么令人满意的进展，热潮退去，曾经的「神」被扫进了历史的垃圾堆。&lt;/p&gt;
-
-&lt;p&gt;现在再在他人面前提起「元宇宙」，很可能得到的反应是嗤之以鼻——与大部分人对 Web3、加密货币的反应一致。&lt;/p&gt;
-
-&lt;p&gt;那么，「元宇宙」真的是伪命题、伪需求吗？&lt;/p&gt;
-
-&lt;p&gt;若不是，真正的「元宇宙」该是什么样的呢？&lt;/p&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;认识「元宇宙」&lt;/h2&gt;
-
-&lt;p&gt;到底什么是「元宇宙」？&lt;/p&gt;
-
-&lt;p&gt;我不打算去给它下定义，而是想描述一下我过往的一些思考与设想，希望能够从中体会感受到我所认为的「元宇宙」是什么样。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-1&quot;&gt;「世界」是虚拟的&lt;/h3&gt;
-
-&lt;p&gt;我是个平时爱「胡思乱想」的人，总去想一些「不切实际」的事。&lt;/p&gt;
-
-&lt;p&gt;在「元宇宙」出现在大众面前之前的 2020 年某一/几天，我在思考「世界」究竟是个什么东西，总结出一张图：&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/assets/posts/20251227/the-worlds-37b72c411f82b9879fd6d02ffe4b3fa4877d03339635c5b18d91c926d905a5ec.jpg&quot; alt=&quot;多样世界&quot; /&gt;
-  &lt;figcaption&gt;多样世界&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;当时想把自己的相关思考写成名为「&lt;a href=&quot;/series/redefine-the-world/&quot;&gt;重新定义『世界』&lt;/a&gt;」的文章系列，并写了作为基础的《&lt;a href=&quot;/posts/the-real-world/&quot;&gt;客观的现实世界&lt;/a&gt;》，但至今 5 年多过去了也就只写了那一篇。&lt;/p&gt;
-
-&lt;p&gt;在那篇文章中，对上图中几个「世界」做了基本的解释——&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;人们是「精神世界」的「造物主」，主宰着它所呈现出来的样貌，然而却有所局限——无法超脱出人们对「现实世界」的理解，即创造的素材来源于「现实世界」，就算造出了「现实世界」中不存在的东西，它的「性质」和「逻辑」也是借鉴于「现实世界」中存在的去重新组合拼凑出来的。&lt;/p&gt;
-  &lt;p&gt;那几种「精神世界」的形式，只有「自我世界」是完全个体化的，他人所无法完全理解甚至一点都不理解的，是每个人独有的，是个人全部「知识」的呈现，不需要被他人认同。&lt;/p&gt;
-  &lt;p&gt;相反，「艺术世界」、「神话世界」和「宗教世界」的构筑基本不是靠一个人，而是结合了多个人的「知识」通力完成，相较而言呈现出来的样貌更加完整且合理。这几种「世界」是为了传播某种思想而刻意创造的，需要被尽可能多的人理解并认同。&lt;/p&gt;
-  &lt;p&gt;上面说的几种「精神世界」，主要影响的是人的「意识」，对「现实世界」没什么直接的影响。而接下来要说的「数字世界」则截然不同，人们创造它的目的就是要去影响「现实世界」，解决人们在「现实世界」中遇到的问题。&lt;/p&gt;
-  &lt;p&gt;前几种「精神世界」多多少少有些「超越」了「现实世界」，就是说会出现一些尚未在「现实世界」中发现的事物；而「数字世界」则忠于「现实世界」，尽可能去复制「现实世界」的一切，做「现实世界」的翻版。&lt;/p&gt;
-  &lt;p&gt;既然「数字世界」会直接影响「现实世界」，并且它的终极目标是做「现实世界」的翻版，那么「现实世界」就有遭遇到毁灭性破坏的风险，就好比彗星撞地球。真到那时，如果「现实世界」与「数字世界」之间能找到和谐共存的平衡点，那么就诞生了「融合世界」——这是一个「现实世界」与「数字世界」互相深度渗透，难以分离的「世界」。&lt;/p&gt;
-  &lt;footer&gt;欧雷《&lt;cite&gt;&lt;a href=&quot;/posts/the-real-world/#section-6&quot;&gt;客观的现实世界&lt;/a&gt;&lt;/cite&gt;》&lt;/footer&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;从上文可以看出，除了「现实世界」之外，其他的各种「世界」都是出自人类思维活动的想象，全是虚拟的。&lt;/p&gt;
-
-&lt;p&gt;那难道「现实世界」就是真实的吗？&lt;/p&gt;
-
-&lt;p&gt;到了 2022 年，我的世界观又一次迭代升级，认识到就连所谓「客观」且「真实」的「现实世界」也是主观的、虚拟的——&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;无论是不是科学，都是由一部分经验再加上一部分想象组成，只是它们各自的占比不同；人通过各种观察方式及手段获得经验信息，再经由大脑加工后形成知识。&lt;/p&gt;
-  &lt;p&gt;人对世界的认知由大脑如何去处理加工经验信息决定，既然如此，每个人对世界的认知都是主观的、片面的，是真实事物在脑中所反映出的现象。即使是自然科学家，他们的认知也都是主观的。&lt;/p&gt;
-  &lt;p&gt;不能说多数人所认知的世界高度一致，就下定论「这就是真实的、客观的世界」，顶多是他们之间达成了对「世界是什么样的」这一问题的「共识」，依然是主观的、片面的。&lt;/p&gt;
-  &lt;p&gt;因为人们是透过现象去了解世界，都是经过了大脑的处理，所以人们所知道的关于世界的一切知识都是主观的，不可能是客观的，或者说所谓的「客观」是不可触达的。&lt;/p&gt;
-  &lt;p&gt;也就是说，人们所说的「本质」，并非真正的本质，而是在他们的认知体系中不可继续分解或归纳的，即他们的认知极限。&lt;/p&gt;
-  &lt;p&gt;上面说得可能有些绝对，其实我觉得去到达真正的客观世界的唯一方式是——&lt;/p&gt;
-  &lt;p&gt;先破除自己顽固的认知，瓦解包括科学相关的一切知识体系，摒弃「我」这个主体，成为「空」或「水」的状态；再等待来自真正的客观世界的「点拨」的契机。&lt;/p&gt;
-  &lt;p&gt;眼、耳、鼻、舌、身、意是人在人们共同想象出的这个虚假的世界中进行生存和交流用的，只通过它们是无法触及真正的客观世界的。&lt;/p&gt;
-  &lt;footer&gt;欧雷《&lt;cite&gt;&lt;a href=&quot;/posts/how-to-love-yourself-part-1/#section-11&quot;&gt;爱自己：如何（上）&lt;/a&gt;&lt;/cite&gt;》&lt;/footer&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;客观、真实的现实世界存在吗？&lt;/p&gt;
-
-&lt;p&gt;存在，但不是人们所认为的那个。&lt;/p&gt;
-
-&lt;p&gt;只要人还活着，就无法触及客观、真实的现实世界；只要人还活着，所感受到的一切都是主观的、虚拟的。&lt;/p&gt;
-
-&lt;p&gt;个体的感受是主观的、虚拟的，他的意识决定了他所看到的「世界」是何模样，他的意志决定了那个「世界」走向何方。&lt;/p&gt;
-
-&lt;p&gt;组织乃至社会是由一个个的个体所组成的，基于个体间的共识得以运作，意志相对强大的个体能够获得权力，成为组织或社会的领袖。&lt;/p&gt;
-
-&lt;p&gt;人类是能改造自然的生物，那么「现实世界」是怎样的，是由组织或社会领袖的意志所决定的。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-2&quot;&gt;我的理想「世界」&lt;/h3&gt;
-
-&lt;p&gt;身为一名务实的理想主义者，我自然有自己理想中的「世界」样貌，并为之穷其一生——叫作「欧托邦」，即「欧雷的乌托邦」。&lt;/p&gt;
-
-&lt;p&gt;名为「欧托邦」的「世界」景象大致为——&lt;/p&gt;
-
-&lt;p&gt;每个人都是自由的，无论他们是在打工、创业还是自由职业或其他，都是自己为了实现个人价值去选择的，而非被各种原因所逼迫的。&lt;/p&gt;
-
-&lt;p&gt;即便如此，绝大部分人是靠自己能力和声誉吃饭的自由职业者；有完善的各职业成长知识与培训体系，提供低门槛的职业启动助力基金。&lt;/p&gt;
-
-&lt;p&gt;私有化的公司几乎都是小规模的，甚至这种组织会逐渐消亡或名存实亡，取而代之的是公会、联盟为主要组织形式。&lt;/p&gt;
-
-&lt;p&gt;个体层面贫富差距很小，大都过得不错；以组织为单位实现内部范围的「全民基本收入」，每个人的基本生存问题能得到保障。&lt;/p&gt;
-
-&lt;p&gt;自己所产生的数据，其原始权利均归属于生产者自己，平台只是被授权使用数据去流通传播，不能（变相）剥夺强占生产者的原始权利。&lt;/p&gt;
-
-&lt;p&gt;「数字世界」完整地映射了「现实世界」，两者之间无缝地交织为「融合世界」：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;自己在「数字世界」中的虚拟身份/人格，其背后可以是自己，也可以是完整模拟了自己的 AI；&lt;/li&gt;
-  &lt;li&gt;「现实世界」中的一切都可在「数字世界」中高效地流通，能够 7×24 不间歇地、智能地执行绝大多数任务。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;这样一来，单纯的「给自己赚钱」这件事，可以极少或完全不依赖于个人，时间用于做自己觉得享受的事。&lt;/p&gt;
-
-&lt;p&gt;完全模拟了自己的 AI，它不只是数字分身，还是全能的个人助理，每天的日常生活从起床睁眼到盖被睡觉都离不开它。&lt;/p&gt;
-
-&lt;p&gt;在「欧托邦」中，人们注重精神生活建设，物质生活没有基本生存问题；国家不用操心经济指标，社会发展完全靠理想驱动。&lt;/p&gt;
-
-&lt;h3 id=&quot;online&quot;&gt;「地球 Online」人生游戏&lt;/h3&gt;
-
-&lt;p&gt;近些年，互联网上流行把人生比作电子游戏，如：地球 Online、人生游戏。&lt;/p&gt;
-
-&lt;p&gt;但在我看来，「人生」或者说「世界」不是「像」一款电子游戏，而是「就是」一款电子游戏，我叫它「🌏nline」。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/assets/posts/20251227/cover-of-the-earth-online-72d72c2e1488c2e01fd9863bd9ec4e1ebb422638fd39007da34bb1633ce8ae69.jpg&quot; alt=&quot;🌏nline&quot; /&gt;
-  &lt;figcaption&gt;🌏nline&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;这款「大型多人在线现实角色扮演游戏」可与「欧托邦」完美对应——&lt;/p&gt;
-
-&lt;p&gt;游戏人物就是每个人自身，以及完整模拟了他自己的 AI；人的身体健康度影响 HP，心理健康度则影响 MP。&lt;/p&gt;
-
-&lt;p&gt;游戏人物需要选择自己的角色职业，每个职业都有相应的技能树，可以习得多种技能，每种技能要在磨练中获得技能点使其升级。&lt;/p&gt;
-
-&lt;p&gt;这就意味着，职业是每个人基于自己意愿主动选择而非被迫的，且有完善的各职业成长知识与培训体系。&lt;/p&gt;
-
-&lt;p&gt;游戏人物到一定阶段满足特定条件可以转职，这也与「欧托邦」中人们去任意转换自己的职业相呼应。&lt;/p&gt;
-
-&lt;p&gt;游戏人物会通过灵活组队或创立/加入公会的方式与他人社交、合作，「欧托邦」中的自由职业者也会灵活组成项目组或创立/加入社区等组织去社交、合作。&lt;/p&gt;
-
-&lt;p&gt;「欧托邦」是一个「数字世界」完整映射了「现实世界」的「融合世界」，因而绝大部分「现实世界」中的事情都可量化为「数字世界」中的数据指标。&lt;/p&gt;
-
-&lt;p&gt;也就是说，「欧托邦」中存在着角色扮演游戏的各种等级、状态等数值，借由作为全能个人助理的完全模拟了自己的 AI 可得知。&lt;/p&gt;
-
-&lt;p&gt;那么，在「🌏nline」中，玩家是谁？&lt;/p&gt;
-
-&lt;p&gt;是上文中说的「意志」，或者说是「灵魂」。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/assets/posts/20251227/soul-copilot-7deb00f1f2927ff20da7c1cbba696be3f14cd34c2b860eaa213e53f2ed825277.jpg&quot; alt=&quot;Soul Copilot&quot; /&gt;
-  &lt;figcaption&gt;Soul Copilot&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;要想成为好的「🌏nline」玩家，就得拥有强大的意志。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-3&quot;&gt;落地「元宇宙」&lt;/h2&gt;
-
-&lt;p&gt;既然意志决定「世界」，那我不仅可以改造自己的「自我世界」，还能够改造身边的「现实世界」。&lt;/p&gt;
-
-&lt;p&gt;并且，作为 10 多年软件开发经历的程序员，按自己意愿去创造「数字世界」已经是信手拈来之事。&lt;/p&gt;
-
-&lt;p&gt;另外，身为数智生活领域的独立开发者，将「数字世界」与「现实世界」整合为「融合世界」也不是什么不可能的事。&lt;/p&gt;
-
-&lt;p&gt;因此，以做富阳银湖在地社区「银湖创联」为契机，实现最小化的「欧托邦」并落地「元宇宙」还是可以尝试的！&lt;/p&gt;
-
-&lt;p&gt;最近这一两个月陆续实施与筹划了两个战略项目：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/590hizWW0hgSk-UugxzVcQ&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;银湖大社区&lt;/a&gt;——银湖人民的本地生活服务网络，对应「欧托邦」中的联盟、一部分「融合世界」；&lt;/li&gt;
-  &lt;li&gt;银湖大学（暂名）——促进自由职业者、小微创业者群体壮大，对应「欧托邦」中完善的各职业成长知识与培训体系。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;而「银湖创联」则是自由职业者、小微创业者公会，未来也会考虑提供低门槛的职业启动助力基金。&lt;/p&gt;
-
-&lt;p&gt;用做开放世界游戏的思路去设计「银湖大社区」与「银湖大学（暂名）」，那参与其中的银湖人民就会有游戏体验感，对于「🌏nline」能有更深体会。&lt;/p&gt;
-
-&lt;p&gt;在「银湖大社区」中承担数智平台角色的「数字银湖（暂名）」理论上是个地域绑定、可与其他同类系统连接成去中心化网络的一个节点。&lt;/p&gt;
-
-&lt;p&gt;系统中的虚拟身份/人格在这个去中心化网络中是通用的、可以任意流动的。&lt;/p&gt;
-
-&lt;p&gt;更进一步地，基于家庭数据中心的个人与家庭数智平台也可加入到这个去中心化网络当中。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="metaverse" /><category term="artificial-intelligence" /><category term="life-engineering" /><category term="life-hacking" /><summary>做富阳银湖在地社区「银湖创联」这件事，是一次社会性实验，它对我个人的价值之一是尝试落地「元宇宙」。</summary></entry></feed>
+&lt;p&gt;当然，我自己也会去寻觅其他优秀或具备潜力的超级个体进行投资。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="life-hacking" /><category term="lifestyle" /><summary>前几天，Manus 被 Meta 收购的消息刷爆朋友圈，能有这么一个事件的发生，秉持「投人」哲学的真格基金功不可没。</summary></entry></feed>
