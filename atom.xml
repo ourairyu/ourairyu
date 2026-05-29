@@ -1,4 +1,241 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator><link href="https://ourai.ws/atom.xml" rel="self" type="application/atom+xml" /><link href="https://ourai.ws/" rel="alternate" type="text/html" /><updated>2026-05-28T22:01:12+08:00</updated><id>https://ourai.ws/</id><title>欧雷流</title><subtitle>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</subtitle><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><entry><title>躺平两周后，我靠「数字员工」重新上路</title><link href="https://ourai.ws/posts/digital-employee-team-revitalized-me/" rel="alternate" type="text/html" title="躺平两周后，我靠「数字员工」重新上路" /><published>2026-05-10T18:55:32+08:00</published><updated>2026-05-10T18:55:32+08:00</updated><id>https://ourai.ws/posts/digital-employee-team-revitalized-me</id><content type="html" xml:base="https://ourai.ws/posts/digital-employee-team-revitalized-me/">&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;破局之路&lt;/a&gt;」的第 38 篇正式文章，主要讲述以下内容——&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator><link href="https://ourai.ws/atom.xml" rel="self" type="application/atom+xml" /><link href="https://ourai.ws/" rel="alternate" type="text/html" /><updated>2026-05-29T18:36:13+08:00</updated><id>https://ourai.ws/</id><title>欧雷流</title><subtitle>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</subtitle><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><entry><title>从「吸引子引导工程」看我的「一人公司」实践</title><link href="https://ourai.ws/posts/an-attractor-for-a-one-person-company/" rel="alternate" type="text/html" title="从「吸引子引导工程」看我的「一人公司」实践" /><published>2026-05-29T17:16:31+08:00</published><updated>2026-05-29T17:16:31+08:00</updated><id>https://ourai.ws/posts/an-attractor-for-a-one-person-company</id><content type="html" xml:base="https://ourai.ws/posts/an-attractor-for-a-one-person-company/">&lt;p&gt;最近，可逆计算理论与 Nop 平台的作者 canonical 又开始活跃起来，带来了新的实践理论——吸引子引导工程（Attractor-Guided Engineering），简称「AGE」。&lt;/p&gt;
+
+&lt;p&gt;从群里人讨论的内容来看，我感觉这跟我最近一段时间在 AI×OPC 这方面的探索实践颇为相似。&lt;/p&gt;
+
+&lt;p&gt;于是昨天下午花了两个来小时，看完了 canonical 在一个线上分享会的录屏视频：&lt;/p&gt;
+
+&lt;div class=&quot;Video Video--bilibili&quot;&gt;
+  &lt;iframe src=&quot;//player.bilibili.com/player.html?aid=116547326574886&amp;amp;high_quality=1&amp;amp;autoplay=0&amp;amp;bvid=BV1MoRfBDEge&amp;amp;cid=38225118598&amp;amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;ai-&quot;&gt;面对 AI 的错误做法&lt;/h2&gt;
+
+&lt;p&gt;虽说程序员算是最先用上 AI 且有比较大依赖的一群人，但从我观察的情况来看，很多人在「如何更好地与 AI 协作」这件事上做得很有问题，我列几个常见的——&lt;/p&gt;
+
+&lt;h3 id=&quot;review-&quot;&gt;对代码 review 的执念&lt;/h3&gt;
+
+&lt;p&gt;首当其冲的，就是代码 review——在把 AI coding agent 当作队友，绝大部分代码都是由它生成时，还需要人去对代码进行 review 吗？如果需要，怎么 review？&lt;/p&gt;
+
+&lt;p&gt;有的人要么有代码洁癖，要么是没那么信任 AI，反正无论是什么原因，结果就是在精神上强迫自己去 review 那些由 AI 生成的代码。&lt;/p&gt;
+
+&lt;p&gt;在 AI 没大量参与开发的传统方式中，由于每个代码模块几乎是人写出来的，代码库所承载的知识量可认为是 &amp;lt;= 人的认知的。&lt;/p&gt;
+
+&lt;p&gt;然而，在 AI 深度参与的现代方式中，代码生成的速度和规模远超人脑的阅读理解速度，即便是天才，人的认知水平也无法跟上。&lt;/p&gt;
+
+&lt;p&gt;这时，人已经成为项目迭代的效率瓶颈，再投入大量时间精力去 review 代码是件极其不现实的做法与执念。&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;不注重知识沉淀&lt;/h3&gt;
+
+&lt;p&gt;其次，我看好多人倾向于有点什么碎片化的想法就直接去找 AI 聊了，很享受跟 AI 对话的过程，即使有可能去使用 SDD，或一个话题结束后会有个总结文档，这依然不行。&lt;/p&gt;
+
+&lt;p&gt;对于很多人来说，虽然软件研发的方式表面上改变了，但他们实际上还是老方式——只是把对话的对象从人变成了 AI 而已，在知识沉淀这方面没什么变化。&lt;/p&gt;
+
+&lt;p&gt;这是因为他们的认知没有转变为「知识驱动」，所以就算是用了 AI，仍然有大量未显性化的隐性知识淹没在与 AI 的对话中，随着 session 的清空而消失。&lt;/p&gt;
+
+&lt;p&gt;那些隐性知识极可能隐藏着会产生价值的关键信息，但由于没有留存下来，无论是人类还是 AI 的后来者都无法知晓——重要信息缺失，上下文断档。&lt;/p&gt;
+
+&lt;p&gt;举个可能会有些画面感的例子——&lt;/p&gt;
+
+&lt;p&gt;你在用内置全球顶尖模型的 Claude 或 Codex 开发自己的软件项目，这个过程中它们的「聪明」带给你很爽的体验，你的项目取得了很好进展。&lt;/p&gt;
+
+&lt;p&gt;然而某天起，它们把你的账号封了，就算自己想办法换了账号继续用起来，但你感到了实现效果与之前有差异，没有保持一致性。&lt;/p&gt;
+
+&lt;p&gt;还可能更悲剧的是，再也用不了那些顶尖模型而只能用国产模型，使用体验和产出物效果大相径庭……&lt;/p&gt;
+
+&lt;p&gt;你没法保障项目产出的一致性，因为你没把那些决定一致性的隐性知识尽可能显性化留存下来，换了账号或模型的 AI 不知道之前的偏好、准则之类。&lt;/p&gt;
+
+&lt;h2 id=&quot;age&quot;&gt;浅谈 AGE&lt;/h2&gt;
+
+&lt;p&gt;来自 canonical 的 AGE 可以解决上文提到问题，但我无意在此复述讲解，感兴趣的话可以看下开篇嵌入的视频或读原作者的几篇文章：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/2040561935905776369&quot;&gt;从 Spec-Driven Development 到 Attractor-Guided Engineering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/2040878707594770053&quot;&gt;Attractor Before Harness: AI 大规模开发的方法论&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/2041653562044847838&quot;&gt;超越Harness Engineering: AGE 应用开发模板介绍&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;这里我只拎出触动最深、跟我自己折腾的那摊事撞得最响的几个点来说说。&lt;/p&gt;
+
+&lt;h3 id=&quot;age-&quot;&gt;对 AGE 的理解&lt;/h3&gt;
+
+&lt;p&gt;第一，它的核心是一句话：AI 大规模开发，本质上是一个动力系统的受控收敛问题。&lt;/p&gt;
+
+&lt;p&gt;AI 展开状态空间的速度极快，所以关键不是到处加护栏，而是先想清楚系统长期应该被拉回到什么结构。&lt;/p&gt;
+
+&lt;p&gt;这个「反复把系统拉回去」的稳定结构叫做「吸引子」，而计划、测试、审计、日志这些则是让「轨迹」贴近吸引子的控制机制，排在吸引子后面。&lt;/p&gt;
+
+&lt;p&gt;一句「吸引子先于控制（Attractor Before Harness）」，就是整套东西的骨。&lt;/p&gt;
+
+&lt;p&gt;就如同对小孩的教育，不是只简单地在他做错事时教导或惩罚，更该做的是要先告诉他应做一个什么样的人，在他心里树立道德标尺，以此为轴心会有不该违背的底线。&lt;/p&gt;
+
+&lt;p&gt;第二，吸引子不是代码、也不是某份具体文档，而是由少量高阶约束隐式定义出来的结构——局部实现怎么变都行，整体会被拉回同一类形态。&lt;/p&gt;
+
+&lt;p&gt;在他那个仓库里，承载吸引子的是 &lt;code&gt;docs/architecture/&lt;/code&gt; 下带 precedence 的架构文档。&lt;/p&gt;
+
+&lt;p&gt;第三，也是最戳我的一点——&lt;/p&gt;
+
+&lt;p&gt;哪怕 spec 更新了、tasks 勾了、活儿看着干完了，人和 AI 都会获得一种强烈的「完成感」；但系统是否真的更接近长期结构，不是这次变更本身能证明的，得回到 live repo、测试和独立审计里去看。&lt;/p&gt;
+
+&lt;p&gt;说白了，「做了什么」和「做到什么程度才算真落地」是两码事，所以生成和验收必须分开，别让同一个上下文既当运动员又当裁判。&lt;/p&gt;
+
+&lt;p&gt;还有一条要点，正对应我上面提到的其中一个问题——文件进，文件出。&lt;/p&gt;
+
+&lt;p&gt;输入别只留在聊天窗口，先落成文件再喂给 AI；输出也别打印完就结束了，结论、计划、记录等都按职责写进 &lt;code&gt;docs/&lt;/code&gt;。&lt;/p&gt;
+
+&lt;p&gt;聊天是临时上下文，文件才是仓库记忆。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;稍微引申一下&lt;/h3&gt;
+
+&lt;p&gt;在一个软件项目中应用 AGE，就跟经营一家公司差不多是一回事。&lt;/p&gt;
+
+&lt;p&gt;每个有可能长久活下去的公司，不是靠拍脑袋制定一些规章制度就行了，规章制度应该是服务于更高层次、更抽象的事物——使命、愿景、价值观。&lt;/p&gt;
+
+&lt;p&gt;公司的使命、愿景、价值观、战略规划、规章制度等，这些构成了公司这个系统的吸引子，引导朝着「它该有的样子」发展下去。&lt;/p&gt;
+
+&lt;p&gt;在实际经营并推进业务时，用人文层面的共识、权力等和 OKR、KPI 类指标性测量工具，作为控制机制去促进系统运行。&lt;/p&gt;
+
+&lt;p&gt;过程中会产生数据、文档等中间产物，它们记录着公司当时的状态，共同构成了轨迹。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;我的探索实践&lt;/h2&gt;
+
+&lt;p&gt;若说 AGE 是从科学视角切入的，那我则是以人文角度开启实践的，这与 Sophye 的诞生密不可分。&lt;/p&gt;
+
+&lt;h3 id=&quot;sophye-&quot;&gt;从 Sophye 的诞生说起&lt;/h3&gt;
+
+&lt;p&gt;「Sophye」是我在 OurAI Labs 下做的一个项目，名字取自代表「智慧」的「Sophia」或「Sophie」的变体。&lt;/p&gt;
+
+&lt;p&gt;它要解决的事，简单说就是「让 AI 更有人味儿」——&lt;/p&gt;
+
+&lt;p&gt;用 QiiDB 数据规范去定义一个「智慧体」，也就是用知识管理的方式去做详尽的人物画像，并记录其详细生平；我们写下的想法、文章、笔记，都是其中的一部分。&lt;/p&gt;
+
+&lt;p&gt;会有如此想法，源于我认为 AI 是一等公民，真的该把 AI 当成人来看待，再加上我多年以来一直很注重数字身份、虚拟人格这类问题。&lt;/p&gt;
+
+&lt;p&gt;为达到「让 AI 更有人味儿」这个目标，会涉及到 Sophye 的以下几个概念：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sophyeai.github.io/zh/guides/core-concepts/#%E7%9F%A5%E8%AF%86%E5%BA%93&quot;&gt;知识库&lt;/a&gt;（Knowledge Bases）——模块化、可交换的知识集合，是可操作的基本单元，专注于说明「是什么」和「为什么」；&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sophyeai.github.io/zh/guides/core-concepts/#%E6%8A%80%E8%83%BD%E5%8C%85&quot;&gt;技能包&lt;/a&gt;（Skills）——是种特殊的知识库，专注于说明「怎么做」，里面可以引入普通的知识库和调用其他技能包；&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sophyeai.github.io/zh/guides/core-concepts/#%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%A0%BC&quot;&gt;虚拟人格&lt;/a&gt;（Personas）——另一种特殊的知识库，被「封装」好的「独立个体」，有其详尽的人物画像（人设），包含知识、技能、风格、履历等。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最后的「虚拟人格」算是最重要的概念了，可应用于下列场景：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;打造自己或他人的数字分身；&lt;/li&gt;
+  &lt;li&gt;全新创造个 AI 版「超级个体」；&lt;/li&gt;
+  &lt;li&gt;让家庭、团队、组织等拟人化、人格化。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;第三个也许会有点难理解，简单来说就是把家庭、团队、组织等一些事务的准则、流程之类全部写出来，用 Sophye 去将这些东西封装起来，变成一个虚拟的人格。&lt;/p&gt;
+
+&lt;p&gt;就好比一家公司有自己的吉祥物，它有自己的视觉形象，而用 Sophye 封装好的虚拟人格就是它的「灵魂」，使它能体现出自己的做事方式等「个性」。&lt;/p&gt;
+
+&lt;p&gt;如此一来，搭载 Sophye 的 AI 工具就不再是个「工具」，而是一个具有现实意义的队友、伙伴、伴侣甚至是宠物，是个有温度的真正「硅基生物」。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;把软件项目当成「人」&lt;/h3&gt;
+
+&lt;p&gt;有情怀的程序员在开发一个软件项目时，总会把它当成自己的孩子而投入感情。&lt;/p&gt;
+
+&lt;p&gt;某天我用 Trae 开发自己的软件项目时，就在想：要是把一个软件项目看作一个人，那么每次项目代码的变更，是不就是在积累他自己的经验，成为他自己的成长经历呢？&lt;/p&gt;
+
+&lt;p&gt;也就是说，一个软件项目当前的样子、当前的状态，就像一个人有了种种经历叠加之后所形成的「自我」。&lt;/p&gt;
+
+&lt;p&gt;这每一次代码变更，就相当于一个研发任务的积累。&lt;/p&gt;
+
+&lt;p&gt;如果把每个任务从需求是什么、如何实现需求的计划、拆解出的具体 todo list，到任务过程中的中间产物，再到任务完成后的报告总结都留存下来，是不就相对完整地记录下了这个项目是怎么「成长」的、状态是如何变化迁移的呢？&lt;/p&gt;
+
+&lt;p&gt;这样一来，哪怕一个软件项目的开始并没有完善的设计，而只是借由灵光一现的 vibe coding，那也完全可以让 AI 基于现有的代码与任务历史产物，去推导出这个「人」是怎样的，或者说这个项目到底是个什么东西。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;知识空间像宇宙一样膨胀&lt;/h3&gt;
+
+&lt;p&gt;在拟人化看待软件项目时，我一度打算就把那些任务记录留在与其相关的项目仓库这个「知识空间」里；但在开始搭建一人公司的数字员工团队后，我的想法变了。&lt;/p&gt;
+
+&lt;p&gt;之前的想法，是一种管中窥豹、盲人摸象的局部思维。&lt;/p&gt;
+
+&lt;p&gt;我的团队不只一个软件项目，它们打包起来看，不过是某个职责为「软件工程师」的数字员工的交付物而已，跟让另一个数字员工交付的文章没啥本质区别。&lt;/p&gt;
+
+&lt;p&gt;这些软件项目的存在都是为了实现我一人公司的战略目标，它们应该受到统一的控制；如果任务记录分散在各个项目仓库里，这会增加数字员工团队的协作与管理成本。&lt;/p&gt;
+
+&lt;p&gt;于是我把那些任务记录都转移到了数字员工团队专属的 Markdown 文档仓库中，结合 QiiDB 数据规范与 Tiago Forte 的 PARA 框架设计了文档仓库的目录结构与知识流：&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;text
+agent-team/
+├── spaces/
+│   ├── team/                        # 团队工作区
+│   │   ├── areas/                   # Areas：无截止日期的战略/规划/长期事项
+│   │   │   └── ...
+│   │   ├── projects/                # Projects：有截止日期的可执行项目
+│   │   │   └── ...
+│   │   ├── tasks/                   # 具体可执行任务
+│   │   │   └── {YYYYMMDDHHMMSS}-{task-name}/
+│   │   │       ├── artifacts/       # 中间产物：数据、脚本等
+│   │   │       ├── basic.yml        # 任务元数据
+│   │   │       ├── requirement.md   # 任务需求描述
+│   │   │       ├── plan.md          # 实施计划
+│   │   │       ├── todos.md         # 待办事项清单
+│   │   │       └── report.md        # 完成报告
+│   │   ├── docs/                    # 通用文档（模板、指南等）
+│   │   └── ...
+│   ├── {name}/                      # 数字员工个人空间
+│   │   └── ...
+│   └── archived/                    # Archive：已完成/不再维护的一切
+│       ├── dailies/                 # 成员日报归档
+│       │   └── {year}/
+│       │       └── {month}/
+│       │           └── {date}/
+│       │               └── {member-name}.md
+│       ├── projects/                # 已完成项目归档
+│       │   └── ...
+│       └── tasks/                   # 已完成任务归档
+│           └── ...
+└── ...
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;知识流是单向流动、层层收口的：&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;text
+老板想法 / 战略 / 规划
+        ↓
+   team/areas/      ← 长期战略，无截止日期
+        ↓（有明确截止日期时）
+   team/projects/   ← 有截止日期的项目
+        ↓（拆解为可执行项）
+   team/tasks/      ← 具体任务，有 owner
+        ↓（验收通过）
+   archived/        ← 已完成，归档
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;在这过程中，主要遵守的理念原则有：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;知识驱动，即以知识的存储、流动、复用为重要纲领；&lt;/li&gt;
+  &lt;li&gt;以「任务」为颗粒度去推进事情发展并打包封装成知识块，无论执行者是我还是数字员工。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;当任务由数字员工执行时，我只负责写需求文档描述清楚要达成什么目标以及最终验收交付物是否达标，做实施计划、拆解 todo list、写总结报告等事都由数字员工搞定。&lt;/p&gt;
+
+&lt;p&gt;如果是一个软件开发任务，我基本不会关注代码写得怎么样，只看实现效果有没有满足需求。&lt;/p&gt;
+
+&lt;p&gt;任务记录的留存地从某个软件项目中上升到数字员工团队协作文档仓库中，这不是简单的文件迁移，而是局部思维向全局思维的转变，也标志着知识空间的膨胀扩大。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-5&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;虽然已经说了很多，但相信还是有身处迷雾中的感觉，下面我就更为具象地说明自己要折腾出个什么东西，它是：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;一个几乎囊括我所有信息的庞大知识空间，包含无数个知识库，保存在我自己的电脑里，备份在 Git 仓库托管服务商；&lt;/li&gt;
+  &lt;li&gt;一个能够 7×24 小时全天候运行的、不断创造价值以令我全面自由的智能化系统。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;第一点是第二点的前置条件——前者是我的全部数字资产，后者让前者产生价值并无限增值。&lt;/p&gt;
+
+&lt;p&gt;在这里，用 QiiDB 数据规范去存储知识，用 PARA 框架去框定知识的划分区域以产生流动势能，再让数字员工团队套用 CODE 框架驱动这知识飞轮转动起来。&lt;/p&gt;
+
+&lt;p&gt;我这「一人公司」和数字员工团队不是那网上乱吹的噱头，而是我贯彻执行「把人生当公司经营」的产物。&lt;/p&gt;
+
+&lt;p&gt;用经营公司的思维方式去管理人生，这是在构建自己庞大的系统，要想让它不失控，自然而然在做很多事时就整体走出了与 AGE 相同或相似的路线。&lt;/p&gt;
+
+&lt;p&gt;我的人生理想、人生事业、各个「五年规划」等，就是那「吸引子」。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="life-engineering" /><category term="artificial-intelligence" /><category term="intelligent-personal-assistant" /><category term="opc" /><category term="ai-agent" /><summary>最近，可逆计算理论与 Nop 平台的作者 canonical 又开始活跃起来，带来了新的实践理论——吸引子引导工程（Attractor-Guided Engineering），简称「AGE」。</summary></entry><entry><title>躺平两周后，我靠「数字员工」重新上路</title><link href="https://ourai.ws/posts/digital-employee-team-revitalized-me/" rel="alternate" type="text/html" title="躺平两周后，我靠「数字员工」重新上路" /><published>2026-05-10T18:55:32+08:00</published><updated>2026-05-10T18:55:32+08:00</updated><id>https://ourai.ws/posts/digital-employee-team-revitalized-me</id><content type="html" xml:base="https://ourai.ws/posts/digital-employee-team-revitalized-me/">&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;破局之路&lt;/a&gt;」的第 38 篇正式文章，主要讲述以下内容——&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;四月经历事业低谷，正反馈少，躺平看了两周动画；五一搭建数字员工团队，重新找到方向感。&lt;/p&gt;
@@ -231,12 +468,4 @@
   &lt;footer&gt;来自 DeepSeek 的概要&lt;/footer&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://www.yuque.com/ourai/kqx2ue/fxuntm1hq10puw8l&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;语雀&lt;/a&gt;、&lt;a href=&quot;https://xiaobot.net/post/454e02c3-9562-4903-a8fd-f26f281e43a5&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/Rw3jSuImO5ugNNv2mfb6Xw&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="life-hacking" /><category term="lifestyle" /><summary>本文是付费文章系列「破局之路」的第 31 篇正式文章，主要讲述以下内容——</summary></entry><entry><title>意外「脱轨」的 2025 年</title><link href="https://ourai.ws/posts/year-in-review-2025/" rel="alternate" type="text/html" title="意外「脱轨」的 2025 年" /><published>2026-01-08T19:55:25+08:00</published><updated>2026-01-08T19:55:25+08:00</updated><id>https://ourai.wsmk5e4rt4</id><content type="html" xml:base="https://ourai.ws/posts/year-in-review-2025/">&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;破局之路&lt;/a&gt;」的第 30 篇正式文章，主要讲述以下内容：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;2025 年目标完成情况；&lt;/li&gt;
-  &lt;li&gt;2025 年个人成长；&lt;/li&gt;
-  &lt;li&gt;接下来针对问题的改进方案。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://www.yuque.com/ourai/kqx2ue/vf9soimylgqhbmg5&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;语雀&lt;/a&gt;、&lt;a href=&quot;https://xiaobot.net/post/5a65c3f2-deb1-490c-9f9d-ef1b3ca21341&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/2AQ4QdhqI2u4uA7n8-_C9w&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="life-hacking" /><category term="lifestyle" /><summary>本文是付费文章系列「破局之路」的第 30 篇正式文章，主要讲述以下内容：</summary></entry></feed>
+&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://www.yuque.com/ourai/kqx2ue/fxuntm1hq10puw8l&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;语雀&lt;/a&gt;、&lt;a href=&quot;https://xiaobot.net/post/454e02c3-9562-4903-a8fd-f26f281e43a5&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/Rw3jSuImO5ugNNv2mfb6Xw&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;</content><author><name>欧雷</name><email>ourairyu@gmail.com</email><uri>https://ourai.ws/</uri></author><category term="life-hacking" /><category term="lifestyle" /><summary>本文是付费文章系列「破局之路」的第 31 篇正式文章，主要讲述以下内容——</summary></entry></feed>
