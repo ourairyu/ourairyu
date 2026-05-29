@@ -9,8 +9,8 @@
     <description>思考能够使我进步，让我一时地脱离当前世界</description>
     <link>https://ourai.ws/categories/thoughts/</link>
     <atom:link href="https://ourai.ws/categories/thoughts/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 May 2026 18:36:13 +0800</pubDate>
-    <lastBuildDate>Fri, 29 May 2026 18:36:13 +0800</lastBuildDate>
+    <pubDate>Fri, 29 May 2026 23:00:09 +0800</pubDate>
+    <lastBuildDate>Fri, 29 May 2026 23:00:09 +0800</lastBuildDate>
     <language>zh-CN</language>
     <generator>Jekyll v3.0.3</generator>
     
@@ -71,9 +71,9 @@
 &lt;p&gt;来自 canonical 的 AGE 可以解决上文提到问题，但我无意在此复述讲解，感兴趣的话可以看下开篇嵌入的视频或读原作者的几篇文章：&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/2040561935905776369&quot;&gt;从 Spec-Driven Development 到 Attractor-Guided Engineering&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/2040878707594770053&quot;&gt;Attractor Before Harness: AI 大规模开发的方法论&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/2041653562044847838&quot;&gt;超越Harness Engineering: AGE 应用开发模板介绍&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/2040561935905776369&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;从 Spec-Driven Development 到 Attractor-Guided Engineering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/2040878707594770053&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;Attractor Before Harness: AI 大规模开发的方法论&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/2041653562044847838&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;超越Harness Engineering: AGE 应用开发模板介绍&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;这里我只拎出触动最深、跟我自己折腾的那摊事撞得最响的几个点来说说。&lt;/p&gt;
@@ -135,9 +135,9 @@
 &lt;p&gt;为达到「让 AI 更有人味儿」这个目标，会涉及到 Sophye 的以下几个概念：&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sophyeai.github.io/zh/guides/core-concepts/#%E7%9F%A5%E8%AF%86%E5%BA%93&quot;&gt;知识库&lt;/a&gt;（Knowledge Bases）——模块化、可交换的知识集合，是可操作的基本单元，专注于说明「是什么」和「为什么」；&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sophyeai.github.io/zh/guides/core-concepts/#%E6%8A%80%E8%83%BD%E5%8C%85&quot;&gt;技能包&lt;/a&gt;（Skills）——是种特殊的知识库，专注于说明「怎么做」，里面可以引入普通的知识库和调用其他技能包；&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sophyeai.github.io/zh/guides/core-concepts/#%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%A0%BC&quot;&gt;虚拟人格&lt;/a&gt;（Personas）——另一种特殊的知识库，被「封装」好的「独立个体」，有其详尽的人物画像（人设），包含知识、技能、风格、履历等。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sophyeai.github.io/zh/guides/core-concepts/#%E7%9F%A5%E8%AF%86%E5%BA%93&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;知识库&lt;/a&gt;（Knowledge Bases）——模块化、可交换的知识集合，是可操作的基本单元，专注于说明「是什么」和「为什么」；&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sophyeai.github.io/zh/guides/core-concepts/#%E6%8A%80%E8%83%BD%E5%8C%85&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;技能包&lt;/a&gt;（Skills）——是种特殊的知识库，专注于说明「怎么做」，里面可以引入普通的知识库和调用其他技能包；&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sophyeai.github.io/zh/guides/core-concepts/#%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%A0%BC&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;虚拟人格&lt;/a&gt;（Personas）——另一种特殊的知识库，被「封装」好的「独立个体」，有其详尽的人物画像（人设），包含知识、技能、风格、履历等。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;最后的「虚拟人格」算是最重要的概念了，可应用于下列场景：&lt;/p&gt;
@@ -180,14 +180,14 @@
 
 &lt;p&gt;于是我把那些任务记录都转移到了数字员工团队专属的 Markdown 文档仓库中，结合 QiiDB 数据规范与 Tiago Forte 的 PARA 框架设计了文档仓库的目录结构与知识流：&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;text
+&lt;p&gt;{% highlight text %}
 agent-team/
 ├── spaces/
 │   ├── team/                        # 团队工作区
 │   │   ├── areas/                   # Areas：无截止日期的战略/规划/长期事项
-│   │   │   └── ...
+│   │   │   └── …
 │   │   ├── projects/                # Projects：有截止日期的可执行项目
-│   │   │   └── ...
+│   │   │   └── …
 │   │   ├── tasks/                   # 具体可执行任务
 │   │   │   └── {YYYYMMDDHHMMSS}-{task-name}/
 │   │   │       ├── artifacts/       # 中间产物：数据、脚本等
@@ -197,9 +197,9 @@ agent-team/
 │   │   │       ├── todos.md         # 待办事项清单
 │   │   │       └── report.md        # 完成报告
 │   │   ├── docs/                    # 通用文档（模板、指南等）
-│   │   └── ...
+│   │   └── …
 │   ├── {name}/                      # 数字员工个人空间
-│   │   └── ...
+│   │   └── …
 │   └── archived/                    # Archive：已完成/不再维护的一切
 │       ├── dailies/                 # 成员日报归档
 │       │   └── {year}/
@@ -207,15 +207,15 @@ agent-team/
 │       │           └── {date}/
 │       │               └── {member-name}.md
 │       ├── projects/                # 已完成项目归档
-│       │   └── ...
+│       │   └── …
 │       └── tasks/                   # 已完成任务归档
-│           └── ...
-└── ...
-&lt;/code&gt;&lt;/p&gt;
+│           └── …
+└── …
+{% endhighlight %}&lt;/p&gt;
 
 &lt;p&gt;知识流是单向流动、层层收口的：&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;text
+&lt;p&gt;{% highlight text %}
 老板想法 / 战略 / 规划
         ↓
    team/areas/      ← 长期战略，无截止日期
@@ -225,7 +225,7 @@ agent-team/
    team/tasks/      ← 具体任务，有 owner
         ↓（验收通过）
    archived/        ← 已完成，归档
-&lt;/code&gt;&lt;/p&gt;
+{% endhighlight %}&lt;/p&gt;
 
 &lt;p&gt;在这过程中，主要遵守的理念原则有：&lt;/p&gt;
 
