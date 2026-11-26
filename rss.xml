@@ -6,10 +6,94 @@
     <description>我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。</description>
     <link>https://ourai.ws/</link>
     <atom:link href="https://ourai.ws/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Nov 2026 18:18:45 +0800</pubDate>
-    <lastBuildDate>Wed, 25 Nov 2026 18:18:45 +0800</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 11:42:15 +0800</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 11:42:15 +0800</lastBuildDate>
     <language>zh-CN</language>
     <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>是时候升级了：从「Coding as Hobby」到「欧雷智造」</title>
+        
+          <dc:creator>欧雷</dc:creator>
+          <author>欧雷</author>
+        
+        <description>&lt;p&gt;今天是感恩节，感谢你点进来查看本文，感谢你对我的关注！&lt;/p&gt;
+
+&lt;p&gt;值此之际，宣布一件于我而言比较大的事儿，当然这也有可能会或多或少地影响到点进来的你。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;写代码只是爱好&lt;/h2&gt;
+
+&lt;p&gt;若从 2009 年弄个人网站后算起，&lt;a href=&quot;/posts/brief-history-of-my-blog/&quot;&gt;我写文已经十七八年了&lt;/a&gt;，起初是刚入「前端工程师」这行还没啥经验，文章基本都是分享个人生活的思考感悟。&lt;/p&gt;
+
+&lt;p&gt;还算关注互联网、科技新态势的我，就像现在尝鲜各种 AI 类应用一样，在 2011 年下载并注册开始使用微信。&lt;/p&gt;
+
+&lt;p&gt;到 2013 年注册了我的第一个公众号，与个人网站「欧雷流」同名，在那之后我每次发文都会手动搬运到公众号。&lt;/p&gt;
+
+&lt;p&gt;工作几年后，随着自己行业经验变得丰富，也渐渐有了自己独立的理论体系，开始产出一些技术方向方法论、反思类的文章。&lt;/p&gt;
+
+&lt;p&gt;我早有打造个人品牌的意识，所以弄「欧雷流」公众号时它的定位就只是分享对世界、人生的思考，没打算放与我职业相关的文章。&lt;/p&gt;
+
+&lt;p&gt;但当技术、职业类文章积攒到一定数量时，必须得弄个新公众号去承载，以便更好地积累并建立我的行业影响力。&lt;/p&gt;
+
+&lt;p&gt;大约是 2018 年前后，注册了新公众号，起名为「Coding as Hobby」，寓意我写代码和做软件工程师是因为爱好，并希望写代码这事儿能成为纯粹的爱好。&lt;/p&gt;
+
+&lt;p&gt;通过公众号「Coding as Hobby」确实给我积累了一丢丢行业影响力，有了 200 来个关注者。&lt;/p&gt;
+
+&lt;p&gt;由于我对去中心化的执念，在 2021 年 12 月把那个公众号注销了，一切归零。&lt;/p&gt;
+
+&lt;p&gt;后来我又幡然醒悟，于 2022 年 8 月把闲置的公众号改名「Coding as Hobby」再来一次，重新积累了小 700 个关注者。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;用智能持续创造&lt;/h2&gt;
+
+&lt;p&gt;坎坎坷坷，「Coding as Hobby」经历过变化，接下来它要再次迎接新的变化，但此次为蜕变！&lt;/p&gt;
+
+&lt;p&gt;在还是「Coding as Hobby」时，公众号的内容范围是我对前端开发、软件工程以及职业职场相关的思考，从 2023 年起就没啥可写的了：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;不再坐班甚至不打工了，脱离传统的职场环境，生存方式不同了；&lt;/li&gt;
+  &lt;li&gt;低代码平台干掉了前端，AI coding agent 又干掉了程序员，传统的软件开发已变得无关紧要。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;虽说之前已经有所尝试，但现在更加明确了自己的职业方向——&lt;/p&gt;
+
+&lt;p&gt;给自由职业者、超级个体、一人公司、微型企业等提供数据治理与智能化解决方案的自由职业者。&lt;/p&gt;
+
+&lt;p&gt;这会涉及到普通人都知道的知识管理、工作流、AI 应用、智能家居等，也会囊括普通人难以理解的更加专业化的事物。&lt;/p&gt;
+
+&lt;p&gt;我的目标合作者与客户人群主要是非 IT 行业人员，其次才是 IT 从业者。&lt;/p&gt;
+
+&lt;p&gt;随着我职业的变化，公众号理应响应其变化作出调整，内容的打造要匹配上面所描述的。&lt;/p&gt;
+
+&lt;p&gt;公众号承载这些变化的新名字，叫做「欧雷智造」——我用自己和 AI 的智能去持续创造，让人回归于「人」。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;资本主义与工业社会相伴相生协同发展，以往因科技的落后&lt;a href=&quot;/posts/how-to-love-yourself-part-2/&quot;&gt;将人异化成了生产手段&lt;/a&gt;，把劳动异化为上班。&lt;/p&gt;
+
+&lt;p&gt;现在可完成目标的 AI 智能体已然出现并进入到生活与生产之中，组织和生产关系的结构性变革不可阻挡。&lt;/p&gt;
+
+&lt;p&gt;在此浪潮之下，人与劳动都会回归到本来该有的样子——表达自己的天性，用天赋、爱好的产出换取报酬兑现价值。&lt;/p&gt;
+
+&lt;p&gt;那么，我就是为这群人提供服务，「欧雷智造」则是为此助力！&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Nov 2026 10:46:08 +0800</pubDate>
+        <link>https://ourai.ws/posts/rebranding-my-professional-stuff/</link>
+        <guid isPermaLink="true">https://ourai.ws/posts/rebranding-my-professional-stuff/</guid>
+        
+        <category>life</category>
+        
+        
+        <category>life-hacking</category>
+        
+        <category>job</category>
+        
+        <category>blog</category>
+        
+        <category>self-media</category>
+        
+        <category>personal-branding</category>
+        
+      </item>
     
       <item>
         <title>杭州最热那几个月，我在家里暗无天日度过</title>
@@ -655,38 +739,6 @@
         <category>artificial-intelligence</category>
         
         <category>vibe-coding</category>
-        
-      </item>
-    
-      <item>
-        <title>迟到的「拥抱」：从一次 AI 协作实践到「数字分身」经济构想</title>
-        
-          <dc:creator>欧雷</dc:creator>
-          <author>欧雷</author>
-        
-        <description>&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;破局之路&lt;/a&gt;」的第 33 篇正式文章，主要讲述以下内容——&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;哈哈，说起来有点不好意思，我总把「超级个体」和 AI 挂在嘴边，但其实自己用 AI 的经验少得可怜。&lt;/p&gt;
-  &lt;p&gt;这次为了赶一个月末的跨年演讲，我被逼着真正用起了 AI。&lt;/p&gt;
-  &lt;p&gt;我把豆包当成刚入职的「秘书」，让它帮我写稿子、做 PPT；过程挺折腾的，它交的初稿有模有样但漏洞不少，经过好几轮修改才勉强能用。&lt;/p&gt;
-  &lt;p&gt;这次合作让我想明白两件事：一是对待 AI（或任何人）得像带新手，得「放权」和包容；二是 AI 本身能不能成为「超级个体」？&lt;/p&gt;
-  &lt;p&gt;一个更大胆的想法冒了出来：我想认真做个实验，像打造一个虚拟偶像或数字分身那样，用 AI 孵化一个完全人格化、能独立创作甚至赚钱的「人物」。&lt;/p&gt;
-  &lt;p&gt;更进一步，如果把知识和技能都做成可自由组装、交易的标准化模块，是不是就能开启一种全新的「知识经济」？&lt;/p&gt;
-  &lt;p&gt;这么一想，我虽然起步晚，但方向好像没错。今年，我打算就沿着这个思路，把我的项目和设想真正做起来。&lt;/p&gt;
-  &lt;footer&gt;来自 DeepSeek 的概要&lt;/footer&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://www.yuque.com/ourai/kqx2ue/ir8ysm2g06wgfyvg&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;语雀&lt;/a&gt;、&lt;a href=&quot;https://xiaobot.net/post/e7b77e9a-1e18-4767-af11-a4c40bc03c8b&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/hBVVhI8Yu4bihgBFqEQ6Xw&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;
-</description>
-        <pubDate>Thu, 29 Jan 2026 18:08:37 +0800</pubDate>
-        <link>https://ourai.ws/posts/ai-related-economics-in-my-mind/</link>
-        <guid isPermaLink="true">https://ourai.ws/posts/ai-related-economics-in-my-mind/</guid>
-        
-        <category>life</category>
-        
-        
-        <category>artificial-intelligence</category>
         
       </item>
     
