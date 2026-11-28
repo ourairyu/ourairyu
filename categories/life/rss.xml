@@ -9,10 +9,146 @@
     <description>记录一下生活及工作中所经历的杂七杂八，顺便吐吐槽、卖卖萌、装装逼 ;-P</description>
     <link>https://ourai.ws/categories/life/</link>
     <atom:link href="https://ourai.ws/categories/life/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Nov 2026 13:45:11 +0800</pubDate>
-    <lastBuildDate>Sat, 28 Nov 2026 13:45:11 +0800</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2026 20:55:24 +0800</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2026 20:55:24 +0800</lastBuildDate>
     <language>zh-CN</language>
     <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>我的 AI 外包实战：用数字员工做项目的一人公司</title>
+        
+          <dc:creator>欧雷</dc:creator>
+          <author>欧雷</author>
+        
+        <description>&lt;p&gt;虽然软件开发做了十几年，但接外包项目的经历屈指可数，过去小半年时间跟社区小伙伴合作同时搞了两个项目，现于此总结分享下相关经验与思考。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;用飞书管理协作&lt;/h2&gt;
+
+&lt;p&gt;在做这俩项目过程中，沟通交流用到微信、企业微信，开发软件也因网络环境等原因换了好几个编程智能体，把 Claude、Codex、Cursor 都用了个遍。&lt;/p&gt;
+
+&lt;p&gt;始终没有变的是由我一手搭建起来的基于飞书套件的项目管理与协作体系——将人与人、人与智能体都连接起来了！&lt;/p&gt;
+
+&lt;p&gt;这套体系仍然有许多可以改造升级的地方，但不妨碍我拿出来说一说。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;以多维表格为核心&lt;/h3&gt;
+
+&lt;p&gt;在我眼里，多维表格既是存储结构化数据的数据库，又是聚合某个项目全部信息的项目知识库，因而我为每个项目都创建了个多维表格。&lt;/p&gt;
+
+&lt;p&gt;我跟合作的社区小伙伴都算是开发人员，即便一个软件项目可以用当下顶尖的编程智能体从头到尾跑通全流程，但由于实际的客户要求等原因，仍需再找更为专业的项目经理、设计师、测试工程师等人员组成临时团队。&lt;/p&gt;
+
+&lt;p&gt;鉴于此，我建了个专门用于跟临时团队和甲方共享信息的公开飞书知识库，把各项目的多维表格作为子节点挂在其下，再将某项目专属的飞书文档挂在多维表格下：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20261128/tree-nodes&#39; | asset_path }}&quot; alt=&quot;项目知识库&quot; /&gt;
+  &lt;figcaption&gt;项目知识库&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;但多维表格及其下属飞书文档并非公开的，只有项目相关方才有权限，这时需要一个项目专属外部协作群，给群授予多维表格的访问权限，群成员就自动拥有权限了。&lt;/p&gt;
+
+&lt;p&gt;每个项目的多维表格中都建了 10 多个数据表，用来记录不同方面的数据，数据表之间建立了关联关系用于数据联动与计算：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20261128/lark-bitable&#39; | asset_path }}&quot; alt=&quot;项目多维表格数据表&quot; /&gt;
+  &lt;figcaption&gt;项目多维表格数据表&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;除此之外，还为多维表格创建了个仪表盘来查看项目整体的数据指标：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20261128/project-dashboard&#39; | asset_path }}&quot; alt=&quot;某项目仪表盘&quot; /&gt;
+  &lt;figcaption&gt;某项目仪表盘&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;如此一来，大家协作所产生的数据几乎都沉淀在这多维表格下，以此为人与人、人与智能体交互的唯一可信来源（SSOT）。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;以自建服务为纽带&lt;/h3&gt;
+
+&lt;p&gt;多维表格及其下属飞书文档只是项目数字资产的一部分，其他主要还包括代码库、飞书群及机器人，它们之间本来是分散且没啥关联的，我用自建服务将它们打通了，分为两部分：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;一直运行的可被局域网访问的本地 HTTP API 服务，通过配置文件将某项目的飞书群、群机器人、代码库及多维表格关联绑定起来，用以被外部调用发送群消息等；&lt;/li&gt;
+  &lt;li&gt;代码库中供编程智能体使用的 skill，里面会调用项目专属自动化脚本和本地 HTTP API 服务，将研发和协作流程嵌进与智能体的聊天中，要干啥只需一句话。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;另外，我还建了个单个项目无关组织级别的飞书应用：&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;{{ &#39;posts/20261128/lark-app&#39; | asset_path }}&quot; alt=&quot;飞书应用「欧普斯」&quot; /&gt;
+  &lt;figcaption&gt;飞书应用「欧普斯」&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;不像群机器人是依赖于本地 HTTP API 服务作为 webhook 调用，飞书应用是借助飞书 CLI 驱动的，因而我跟合作的社区小伙伴都能使用。&lt;/p&gt;
+
+&lt;p&gt;这个飞书应用就像秘书一样，很多与飞书之间的交互都是通过它来完成的，比如——&lt;/p&gt;
+
+&lt;p&gt;我在编程智能体对话中说要获取某个缺陷批次下所有缺陷信息，去结合代码库等分析是否真的是缺陷，不是缺陷就打回并艾特测试人员评论原由，是就修复掉并更改缺陷状态。&lt;/p&gt;
+
+&lt;p&gt;在让编程智能体修复缺陷或开发功能时大多用长程任务，我不想盯着会话跟进展，就在下发任务时让其有阶段性进展就发飞书个人消息给我，犹如主动汇报。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;外包项目的报价&lt;/h2&gt;
+
+&lt;p&gt;在这俩项目中，我承担的实际角色可以说是架构师，也可以说是项目经理，但唯独不是那真正的一线开发人员——这个角色已然被编程智能体所取代了，我没自己写过一行代码。&lt;/p&gt;
+
+&lt;p&gt;从一个项目的报价和交付期限也能看出，开发本身所能带来的价值已被 AI 大幅拉低，缩水至少一两倍，其成本降低的倍数更大。&lt;/p&gt;
+
+&lt;p&gt;在 AI 时代，纯粹的开发人员已经没啥价值，负责开发的人必须蜕变为咨询、沟通、协调类角色，一个传统的软件外包项目再继续沿用人日那种报价计算方式很不妥当。&lt;/p&gt;
+
+&lt;p&gt;项目报价不应再以时间为基准，而是以服务质量，高质服务应当带来溢价——能用更少的时间交付，成果能更持久稳定地运行，就应该获得更高利润。&lt;/p&gt;
+
+&lt;p&gt;能够支撑高质服务的是成熟的工作流程、行业经验、软件工程能力、agent harness 体系等，这些可减少大量不同方面的摩擦，让交付变得更加丝滑、稳固。&lt;/p&gt;
+
+&lt;p&gt;多花点钱少受罪，何乐而不为呢？&lt;/p&gt;
+
+&lt;p&gt;在实际操作中，项目阶段、系统模块都要拆细，每个阶段、每个模块都有其交付物和价格，分为几个重要交付节点，某个交付节点之前阶段的钱款没结清就不往下继续，这些都得写进合同里。&lt;/p&gt;
+
+&lt;p&gt;服务好甲方是乙方的本分，但不能做那跪着的乙方。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;一人公司的做法&lt;/h2&gt;
+
+&lt;p&gt;在做这俩项目时，我一直以「一人公司」自居，也就是「OPC」；实际上，前文内容都算是「一人公司的做法」范畴，下面要说的是其他方面。&lt;/p&gt;
+
+&lt;p&gt;用过编程智能体的都知道，应用本身支持开多个会话并行做任务，即便如此，受电脑本身内存、CPU 这些硬件配置层面限制，无法真的并行做很多任务。&lt;/p&gt;
+
+&lt;p&gt;WorkBuddy、豆包工作这些办公智能体也是这样。&lt;/p&gt;
+
+&lt;p&gt;若是要处理的事务少还好，但同时做俩项目难免经常遇到得一时间解决多个问题的情况，那该咋办呢？&lt;/p&gt;
+
+&lt;p&gt;面对人手不足的情况时，传统的解决方式就是堆人头，平移到一人公司的场景也类似——堆算力！&lt;/p&gt;
+
+&lt;p&gt;我把闲置的迷你主机拿出来装上 Ubuntu 系统，配上编程智能体，摇身一变成了新入职的数字员工；同理，把不常用的 MacBook Air 装上编程智能体后，又多了一名数字员工。&lt;/p&gt;
+
+&lt;p&gt;这俩数字员工都主要用来跑开发任务的，我想要有个专门做自动化测试的数字员工，就在「双十一」时新买了个配置比那闲置迷你主机好一些的迷你主机。&lt;/p&gt;
+
+&lt;p&gt;同一时间，又买了几个二手内存和固态硬盘给另一个也没怎么用的迷你主机升级配置用来做服务器，部署一些自部署服务来管理好这数字员工团队，并为更好地与他人协作做准备。&lt;/p&gt;
+
+&lt;p&gt;给智能体搭配上计算设备这一「外壳」或者说「工位」，才能称得上是真正的「数字员工」；同时还得搭建出它们之间、与人之间相互协同的系统，才可称之为「数字员工团队」。&lt;/p&gt;
+
+&lt;p&gt;可以认为，「一人公司」就是「人机智能协同创造价值的 agent harness 体系」。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-5&quot;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;过去小半年的外包项目相关经验与思考就浅浅地总结到这里了，虽然项目算是结束了，但我的「一人公司」实践会持续下去，继续完善加固自己的体系。&lt;/p&gt;
+
+&lt;p&gt;如同「数字游民」这个概念一般，「一人公司」这个词现在更多是概念炒作，真正躬身入局并拿到结果的是少数，并且它的讨论热度会逐渐淡化，变成一种习以为常的职业模式。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Nov 2026 20:19:38 +0800</pubDate>
+        <link>https://ourai.ws/posts/summary-of-ai-native-software-outsourcing-project-experience/</link>
+        <guid isPermaLink="true">https://ourai.ws/posts/summary-of-ai-native-software-outsourcing-project-experience/</guid>
+        
+        <category>life</category>
+        
+        
+        <category>life-hacking</category>
+        
+        <category>job</category>
+        
+        <category>opc</category>
+        
+        <category>intelligent-personal-assistant</category>
+        
+        <category>ai-agent</category>
+        
+      </item>
     
       <item>
         <title>是时候升级了：从「Coding as Hobby」到「欧雷智造」</title>
@@ -482,38 +618,6 @@
         <category>artificial-intelligence</category>
         
         <category>vibe-coding</category>
-        
-      </item>
-    
-      <item>
-        <title>迟到的「拥抱」：从一次 AI 协作实践到「数字分身」经济构想</title>
-        
-          <dc:creator>欧雷</dc:creator>
-          <author>欧雷</author>
-        
-        <description>&lt;p&gt;本文是付费文章系列「&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;破局之路&lt;/a&gt;」的第 33 篇正式文章，主要讲述以下内容——&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;哈哈，说起来有点不好意思，我总把「超级个体」和 AI 挂在嘴边，但其实自己用 AI 的经验少得可怜。&lt;/p&gt;
-  &lt;p&gt;这次为了赶一个月末的跨年演讲，我被逼着真正用起了 AI。&lt;/p&gt;
-  &lt;p&gt;我把豆包当成刚入职的「秘书」，让它帮我写稿子、做 PPT；过程挺折腾的，它交的初稿有模有样但漏洞不少，经过好几轮修改才勉强能用。&lt;/p&gt;
-  &lt;p&gt;这次合作让我想明白两件事：一是对待 AI（或任何人）得像带新手，得「放权」和包容；二是 AI 本身能不能成为「超级个体」？&lt;/p&gt;
-  &lt;p&gt;一个更大胆的想法冒了出来：我想认真做个实验，像打造一个虚拟偶像或数字分身那样，用 AI 孵化一个完全人格化、能独立创作甚至赚钱的「人物」。&lt;/p&gt;
-  &lt;p&gt;更进一步，如果把知识和技能都做成可自由组装、交易的标准化模块，是不是就能开启一种全新的「知识经济」？&lt;/p&gt;
-  &lt;p&gt;这么一想，我虽然起步晚，但方向好像没错。今年，我打算就沿着这个思路，把我的项目和设想真正做起来。&lt;/p&gt;
-  &lt;footer&gt;来自 DeepSeek 的概要&lt;/footer&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;本文的完整内容发布在&lt;a href=&quot;https://www.yuque.com/ourai/kqx2ue/ir8ysm2g06wgfyvg&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;语雀&lt;/a&gt;、&lt;a href=&quot;https://xiaobot.net/post/e7b77e9a-1e18-4767-af11-a4c40bc03c8b&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;小报童&lt;/a&gt;和&lt;a href=&quot;https://mp.weixin.qq.com/s/hBVVhI8Yu4bihgBFqEQ6Xw&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;微信公众号&lt;/a&gt;上，打包进专栏/合集中买断制出售；关于价格、大致内容范围以及适合人群等，请见&lt;a href=&quot;https://2bfree.ourai.ws&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;该文章系列的介绍页&lt;/a&gt;。&lt;/p&gt;
-</description>
-        <pubDate>Thu, 29 Jan 2026 18:08:37 +0800</pubDate>
-        <link>https://ourai.ws/posts/ai-related-economics-in-my-mind/</link>
-        <guid isPermaLink="true">https://ourai.ws/posts/ai-related-economics-in-my-mind/</guid>
-        
-        <category>life</category>
-        
-        
-        <category>artificial-intelligence</category>
         
       </item>
     
